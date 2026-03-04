@@ -1,0 +1,105 @@
+{
+  "fetchedAt": "2026-03-04T01:36:55.021572+00:00",
+  "draftStatus": "filling",
+  "completedTotal": 0,
+  "active": [],
+  "teams": [
+    {
+      "name": "Tennessee Jeds",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "Ultimate Price",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "Schlittlers full",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "The Other Guys",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "Stilettos",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "UAAT",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "Mcgrumpyd",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "Trot Nixon",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "RollingQuintanas",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "Logjammers",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "Silver Panthers",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "Enkidu",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "Chaos In Tejas (GFL)",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "PTP",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "Brettwolfe12",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "evilhomer727",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    }
+  ],
+  "completed": []
+}
