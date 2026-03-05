@@ -87,7 +87,7 @@ def fetch_completed():
         rows.append({
             "player": parts[0].strip(),
             "team":   parts[1].strip(),
-            "price":  int((parts[2].strip().replace("$","").replace(" ","")) or 0),
+            "price":  int((parts[2].strip().replace("$","").replace(" ","")) or 0) if parts[2].strip().replace("$","").replace(" ","").isdigit() else 0,
             "pos":    parts[3].strip() if len(parts) > 3 else "",
         })
     return list(reversed(rows))  # newest first
