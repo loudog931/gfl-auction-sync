@@ -79,7 +79,7 @@ def fetch_completed():
     rows = []
     for line in raw.strip().splitlines():
         line = line.strip()
-        if not line or line.startswith("Player"):
+        if not line or line.startswith("Player") or line.startswith("Amount"):
             continue
         parts = line.split(",")
         if len(parts) < 3:
