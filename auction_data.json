@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-03-05T01:39:40.031990+00:00",
+  "fetchedAt": "2026-03-05T05:04:53.105394+00:00",
   "draftStatus": "full",
-  "completedTotal": 235,
+  "completedTotal": 255,
   "active": [],
   "teams": [
     {
@@ -12,9 +12,9 @@
     },
     {
       "name": "Ultimate Price",
-      "moneyLeft": 20,
-      "spent": 240,
-      "won": 19
+      "moneyLeft": 18,
+      "spent": 242,
+      "won": 20
     },
     {
       "name": "Schlittlers full",
@@ -36,9 +36,9 @@
     },
     {
       "name": "UAAT",
-      "moneyLeft": 260,
-      "spent": 0,
-      "won": 0
+      "moneyLeft": 42,
+      "spent": 218,
+      "won": 18
     },
     {
       "name": "Mcgrumpyd",
@@ -89,19 +89,19 @@
       "won": 10
     },
     {
-      "name": "Brettwolfe12",
+      "name": "Gankin",
       "moneyLeft": 57,
       "spent": 203,
       "won": 17
     },
     {
-      "name": "evilhomer727",
-      "moneyLeft": 91,
-      "spent": 169,
-      "won": 12
+      "name": "Mortytown",
+      "moneyLeft": 89,
+      "spent": 171,
+      "won": 13
     },
     {
-      "name": "swhetzel",
+      "name": "Aces high",
       "moneyLeft": 176,
       "spent": 84,
       "won": 5
@@ -115,14 +115,8 @@
   ],
   "completed": [
     {
-      "player": "Jack",
-      "team": "Leiter",
-      "price": 2,
-      "pos": "\"Moneyball Mart\""
-    },
-    {
-      "player": "Chandler",
-      "team": "Simpson",
+      "player": "Jackson",
+      "team": "Jobe",
       "price": 2,
       "pos": "\"Moneyball Mart\""
     },
@@ -133,8 +127,14 @@
       "pos": "\"Moneyball Mart\""
     },
     {
-      "player": "Jackson",
-      "team": "Jobe",
+      "player": "Chandler",
+      "team": "Simpson",
+      "price": 2,
+      "pos": "\"Moneyball Mart\""
+    },
+    {
+      "player": "Brooks",
+      "team": "Lee",
       "price": 2,
       "pos": "\"Moneyball Mart\""
     },
@@ -151,8 +151,8 @@
       "pos": "\"Moneyball Mart\""
     },
     {
-      "player": "Brooks",
-      "team": "Lee",
+      "player": "Jack",
+      "team": "Leiter",
       "price": 2,
       "pos": "\"Moneyball Mart\""
     },
@@ -163,14 +163,14 @@
       "pos": "\"Moneyball Mart\""
     },
     {
-      "player": "Nolan",
-      "team": "Schanuel",
+      "player": "David",
+      "team": "Peterson",
       "price": 5,
       "pos": "\"Moneyball Mart\""
     },
     {
-      "player": "David",
-      "team": "Peterson",
+      "player": "Nolan",
+      "team": "Schanuel",
       "price": 5,
       "pos": "\"Moneyball Mart\""
     },
@@ -193,14 +193,14 @@
       "pos": "\"Moneyball Mart\""
     },
     {
-      "player": "Michael",
-      "team": "\"Harris II\"",
+      "player": "Ezequiel",
+      "team": "Tovar",
       "price": 15,
       "pos": "\"Moneyball Mart\""
     },
     {
-      "player": "Ezequiel",
-      "team": "Tovar",
+      "player": "Michael",
+      "team": "\"Harris II\"",
       "price": 15,
       "pos": "\"Moneyball Mart\""
     },
@@ -214,205 +214,211 @@
       "player": "Luis",
       "team": "Garcia",
       "price": 5,
-      "pos": "swhetzel"
+      "pos": "\"Aces high\""
     },
     {
       "player": "Willy",
       "team": "Adames",
       "price": 10,
-      "pos": "swhetzel"
-    },
-    {
-      "player": "Jeremy",
-      "team": "Pena",
-      "price": 15,
-      "pos": "swhetzel"
+      "pos": "\"Aces high\""
     },
     {
       "player": "Josh",
       "team": "Naylor",
       "price": 15,
-      "pos": "swhetzel"
+      "pos": "\"Aces high\""
+    },
+    {
+      "player": "Jeremy",
+      "team": "Pena",
+      "price": 15,
+      "pos": "\"Aces high\""
     },
     {
       "player": "Tarik",
       "team": "Skubal",
       "price": 39,
-      "pos": "swhetzel"
+      "pos": "\"Aces high\""
     },
     {
       "player": "Nolan",
       "team": "McLean",
       "price": 1,
-      "pos": "evilhomer727"
+      "pos": "Mortytown"
     },
     {
       "player": "Caleb",
       "team": "Durbin",
       "price": 2,
-      "pos": "evilhomer727"
-    },
-    {
-      "player": "Jackson",
-      "team": "Holliday",
-      "price": 2,
-      "pos": "evilhomer727"
+      "pos": "Mortytown"
     },
     {
       "player": "Cristian",
       "team": "Javier",
       "price": 2,
-      "pos": "evilhomer727"
+      "pos": "Mortytown"
+    },
+    {
+      "player": "Chase",
+      "team": "Burns",
+      "price": 2,
+      "pos": "Mortytown"
     },
     {
       "player": "Hyeseong",
       "team": "Kim",
       "price": 2,
-      "pos": "evilhomer727"
+      "pos": "Mortytown"
+    },
+    {
+      "player": "Jackson",
+      "team": "Holliday",
+      "price": 2,
+      "pos": "Mortytown"
     },
     {
       "player": "Masyn",
       "team": "Winn",
       "price": 5,
-      "pos": "evilhomer727"
+      "pos": "Mortytown"
     },
     {
       "player": "Shea",
       "team": "Langeliers",
       "price": 5,
-      "pos": "evilhomer727"
+      "pos": "Mortytown"
     },
     {
       "player": "Brenton",
       "team": "Doyle",
       "price": 10,
-      "pos": "evilhomer727"
-    },
-    {
-      "player": "Hunter",
-      "team": "Greene",
-      "price": 15,
-      "pos": "evilhomer727"
+      "pos": "Mortytown"
     },
     {
       "player": "Ryan",
       "team": "Helsley",
       "price": 15,
-      "pos": "evilhomer727"
+      "pos": "Mortytown"
+    },
+    {
+      "player": "Hunter",
+      "team": "Greene",
+      "price": 15,
+      "pos": "Mortytown"
     },
     {
       "player": "Aaron",
       "team": "Judge",
       "price": 49,
-      "pos": "evilhomer727"
+      "pos": "Mortytown"
     },
     {
       "player": "Shohei",
       "team": "Ohtani",
       "price": 61,
-      "pos": "evilhomer727"
-    },
-    {
-      "player": "Giancarlo",
-      "team": "Stanton",
-      "price": 2,
-      "pos": "Brettwolfe12"
+      "pos": "Mortytown"
     },
     {
       "player": "Braxton",
       "team": "Ashcraft",
       "price": 2,
-      "pos": "Brettwolfe12"
-    },
-    {
-      "player": "Ernie",
-      "team": "Clement",
-      "price": 2,
-      "pos": "Brettwolfe12"
-    },
-    {
-      "player": "Shane",
-      "team": "Smith",
-      "price": 2,
-      "pos": "Brettwolfe12"
+      "pos": "Gankin"
     },
     {
       "player": "Daulton",
       "team": "Varsho",
       "price": 2,
-      "pos": "Brettwolfe12"
+      "pos": "Gankin"
+    },
+    {
+      "player": "Ernie",
+      "team": "Clement",
+      "price": 2,
+      "pos": "Gankin"
+    },
+    {
+      "player": "Shane",
+      "team": "Smith",
+      "price": 2,
+      "pos": "Gankin"
+    },
+    {
+      "player": "Giancarlo",
+      "team": "Stanton",
+      "price": 2,
+      "pos": "Gankin"
     },
     {
       "player": "Eugenio",
       "team": "Suarez",
       "price": 3,
-      "pos": "Brettwolfe12"
+      "pos": "Gankin"
     },
     {
       "player": "Logan",
       "team": "Henderson",
       "price": 5,
-      "pos": "Brettwolfe12"
+      "pos": "Gankin"
     },
     {
       "player": "Brent",
       "team": "Rooker",
       "price": 10,
-      "pos": "Brettwolfe12"
+      "pos": "Gankin"
     },
     {
       "player": "Eury",
       "team": "Perez",
       "price": 10,
-      "pos": "Brettwolfe12"
+      "pos": "Gankin"
     },
     {
       "player": "Nico",
       "team": "Hoerner",
       "price": 15,
-      "pos": "Brettwolfe12"
+      "pos": "Gankin"
     },
     {
       "player": "William",
       "team": "Contreras",
       "price": 15,
-      "pos": "Brettwolfe12"
+      "pos": "Gankin"
     },
     {
       "player": "MacKenzie",
       "team": "Gore",
       "price": 16,
-      "pos": "Brettwolfe12"
+      "pos": "Gankin"
     },
     {
       "player": "David",
       "team": "Bednar",
       "price": 17,
-      "pos": "Brettwolfe12"
+      "pos": "Gankin"
     },
     {
       "player": "Bo",
       "team": "Bichette",
       "price": 18,
-      "pos": "Brettwolfe12"
+      "pos": "Gankin"
     },
     {
       "player": "Raisel",
       "team": "Iglesias",
       "price": 19,
-      "pos": "Brettwolfe12"
+      "pos": "Gankin"
     },
     {
       "player": "Nathan",
       "team": "Eovaldi",
       "price": 30,
-      "pos": "Brettwolfe12"
+      "pos": "Gankin"
     },
     {
       "player": "Pete",
       "team": "Alonso",
       "price": 35,
-      "pos": "Brettwolfe12"
+      "pos": "Gankin"
     },
     {
       "player": "Will",
@@ -427,26 +433,26 @@
       "pos": "PTP"
     },
     {
-      "player": "Zebby",
-      "team": "Matthews",
-      "price": 2,
-      "pos": "PTP"
-    },
-    {
       "player": "Josh",
       "team": "Smith",
       "price": 2,
       "pos": "PTP"
     },
     {
-      "player": "Sal",
-      "team": "Frelick",
+      "player": "Zebby",
+      "team": "Matthews",
       "price": 2,
       "pos": "PTP"
     },
     {
       "player": "Bryan",
       "team": "Abreu",
+      "price": 2,
+      "pos": "PTP"
+    },
+    {
+      "player": "Sal",
+      "team": "Frelick",
       "price": 2,
       "pos": "PTP"
     },
@@ -481,14 +487,38 @@
       "pos": "\"Chaos In Tejas (GFL)\""
     },
     {
+      "player": "Ryne",
+      "team": "Nelson",
+      "price": 2,
+      "pos": "\"Chaos In Tejas (GFL)\""
+    },
+    {
+      "player": "Mason",
+      "team": "Miller",
+      "price": 2,
+      "pos": "\"Chaos In Tejas (GFL)\""
+    },
+    {
+      "player": "Addison",
+      "team": "Barger",
+      "price": 2,
+      "pos": "\"Chaos In Tejas (GFL)\""
+    },
+    {
+      "player": "Jonathan",
+      "team": "Aranda",
+      "price": 2,
+      "pos": "\"Chaos In Tejas (GFL)\""
+    },
+    {
       "player": "Joey",
       "team": "Ortiz",
       "price": 2,
       "pos": "\"Chaos In Tejas (GFL)\""
     },
     {
-      "player": "Ryne",
-      "team": "Nelson",
+      "player": "Wenceel",
+      "team": "Perez",
       "price": 2,
       "pos": "\"Chaos In Tejas (GFL)\""
     },
@@ -505,38 +535,14 @@
       "pos": "\"Chaos In Tejas (GFL)\""
     },
     {
-      "player": "Mason",
-      "team": "Miller",
-      "price": 2,
-      "pos": "\"Chaos In Tejas (GFL)\""
-    },
-    {
-      "player": "Jonathan",
-      "team": "Aranda",
-      "price": 2,
-      "pos": "\"Chaos In Tejas (GFL)\""
-    },
-    {
-      "player": "Wenceel",
-      "team": "Perez",
-      "price": 2,
-      "pos": "\"Chaos In Tejas (GFL)\""
-    },
-    {
-      "player": "Addison",
-      "team": "Barger",
-      "price": 2,
+      "player": "Geraldo",
+      "team": "Perdomo",
+      "price": 3,
       "pos": "\"Chaos In Tejas (GFL)\""
     },
     {
       "player": "Griffin",
       "team": "Jax",
-      "price": 3,
-      "pos": "\"Chaos In Tejas (GFL)\""
-    },
-    {
-      "player": "Geraldo",
-      "team": "Perdomo",
       "price": 3,
       "pos": "\"Chaos In Tejas (GFL)\""
     },
@@ -565,14 +571,20 @@
       "pos": "\"Chaos In Tejas (GFL)\""
     },
     {
-      "player": "Jac",
-      "team": "Caglianone",
+      "player": "Kris",
+      "team": "Bubic",
       "price": 2,
       "pos": "Enkidu"
     },
     {
-      "player": "Kris",
-      "team": "Bubic",
+      "player": "Trevor",
+      "team": "Rogers",
+      "price": 2,
+      "pos": "Enkidu"
+    },
+    {
+      "player": "Jac",
+      "team": "Caglianone",
       "price": 2,
       "pos": "Enkidu"
     },
@@ -583,9 +595,9 @@
       "pos": "Enkidu"
     },
     {
-      "player": "Trevor",
-      "team": "Rogers",
-      "price": 2,
+      "player": "Spencer",
+      "team": "Torkelson",
+      "price": 3,
       "pos": "Enkidu"
     },
     {
@@ -597,12 +609,6 @@
     {
       "player": "Ryan",
       "team": "Walker",
-      "price": 3,
-      "pos": "Enkidu"
-    },
-    {
-      "player": "Spencer",
-      "team": "Torkelson",
       "price": 3,
       "pos": "Enkidu"
     },
@@ -625,14 +631,14 @@
       "pos": "Enkidu"
     },
     {
-      "player": "Jarren",
-      "team": "Duran",
+      "player": "Bryan",
+      "team": "Woo",
       "price": 10,
       "pos": "Enkidu"
     },
     {
-      "player": "Bryan",
-      "team": "Woo",
+      "player": "Jarren",
+      "team": "Duran",
       "price": 10,
       "pos": "Enkidu"
     },
@@ -679,20 +685,14 @@
       "pos": "Enkidu"
     },
     {
-      "player": "Daylen",
-      "team": "Lile",
+      "player": "Junior",
+      "team": "Caminero",
       "price": 2,
       "pos": "\"Silver Panthers\""
     },
     {
       "player": "Hurston",
       "team": "Waldrep",
-      "price": 2,
-      "pos": "\"Silver Panthers\""
-    },
-    {
-      "player": "Junior",
-      "team": "Caminero",
       "price": 2,
       "pos": "\"Silver Panthers\""
     },
@@ -705,6 +705,12 @@
     {
       "player": "Emmet",
       "team": "Sheehan",
+      "price": 2,
+      "pos": "\"Silver Panthers\""
+    },
+    {
+      "player": "Daylen",
+      "team": "Lile",
       "price": 2,
       "pos": "\"Silver Panthers\""
     },
@@ -763,26 +769,26 @@
       "pos": "\"Silver Panthers\""
     },
     {
-      "player": "Trevor",
-      "team": "Story",
-      "price": 2,
-      "pos": "Logjammers"
-    },
-    {
       "player": "Mike",
       "team": "Burrows",
       "price": 2,
       "pos": "Logjammers"
     },
     {
-      "player": "Jose",
-      "team": "Soriano",
-      "price": 5,
+      "player": "Trevor",
+      "team": "Story",
+      "price": 2,
       "pos": "Logjammers"
     },
     {
       "player": "Garrett",
       "team": "Crochet",
+      "price": 5,
+      "pos": "Logjammers"
+    },
+    {
+      "player": "Jose",
+      "team": "Soriano",
       "price": 5,
       "pos": "Logjammers"
     },
@@ -799,14 +805,14 @@
       "pos": "Logjammers"
     },
     {
-      "player": "Yandy",
-      "team": "Diaz",
+      "player": "Cristopher",
+      "team": "Sanchez",
       "price": 10,
       "pos": "Logjammers"
     },
     {
-      "player": "Cristopher",
-      "team": "Sanchez",
+      "player": "Yandy",
+      "team": "Diaz",
       "price": 10,
       "pos": "Logjammers"
     },
@@ -841,12 +847,6 @@
       "pos": "Logjammers"
     },
     {
-      "player": "Drake",
-      "team": "Baldwin",
-      "price": 1,
-      "pos": "RollingQuintanas"
-    },
-    {
       "player": "Bubba",
       "team": "Chandler",
       "price": 1,
@@ -855,6 +855,12 @@
     {
       "player": "Nick",
       "team": "Kurtz",
+      "price": 1,
+      "pos": "RollingQuintanas"
+    },
+    {
+      "player": "Drake",
+      "team": "Baldwin",
       "price": 1,
       "pos": "RollingQuintanas"
     },
@@ -877,14 +883,14 @@
       "pos": "RollingQuintanas"
     },
     {
-      "player": "Cole",
-      "team": "Ragans",
+      "player": "Bryson",
+      "team": "Stott",
       "price": 10,
       "pos": "RollingQuintanas"
     },
     {
-      "player": "Bryson",
-      "team": "Stott",
+      "player": "Cole",
+      "team": "Ragans",
       "price": 10,
       "pos": "RollingQuintanas"
     },
@@ -931,26 +937,26 @@
       "pos": "RollingQuintanas"
     },
     {
-      "player": "Heliot",
-      "team": "Ramos",
-      "price": 2,
-      "pos": "\"Trot Nixon\""
-    },
-    {
       "player": "Connelly",
       "team": "Early",
       "price": 2,
       "pos": "\"Trot Nixon\""
     },
     {
-      "player": "Emilio",
-      "team": "Pagan",
+      "player": "Daniel",
+      "team": "Palencia",
       "price": 2,
       "pos": "\"Trot Nixon\""
     },
     {
-      "player": "Daniel",
-      "team": "Palencia",
+      "player": "Heliot",
+      "team": "Ramos",
+      "price": 2,
+      "pos": "\"Trot Nixon\""
+    },
+    {
+      "player": "Emilio",
+      "team": "Pagan",
       "price": 2,
       "pos": "\"Trot Nixon\""
     },
@@ -1015,14 +1021,14 @@
       "pos": "Mcgrumpyd"
     },
     {
-      "player": "Chad",
-      "team": "Patrick",
+      "player": "Ivan",
+      "team": "Herrera",
       "price": 2,
       "pos": "Mcgrumpyd"
     },
     {
-      "player": "Ivan",
-      "team": "Herrera",
+      "player": "Chad",
+      "team": "Patrick",
       "price": 2,
       "pos": "Mcgrumpyd"
     },
@@ -1051,6 +1057,12 @@
       "pos": "Mcgrumpyd"
     },
     {
+      "player": "Agustin",
+      "team": "Ramirez",
+      "price": 5,
+      "pos": "Mcgrumpyd"
+    },
+    {
       "player": "Xavier",
       "team": "Edwards",
       "price": 5,
@@ -1059,12 +1071,6 @@
     {
       "player": "Matthew",
       "team": "Boyd",
-      "price": 5,
-      "pos": "Mcgrumpyd"
-    },
-    {
-      "player": "Agustin",
-      "team": "Ramirez",
       "price": 5,
       "pos": "Mcgrumpyd"
     },
@@ -1103,6 +1109,114 @@
       "team": "Yamamoto",
       "price": 50,
       "pos": "Mcgrumpyd"
+    },
+    {
+      "player": "Lucas",
+      "team": "Giolito",
+      "price": 2,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Kyle",
+      "team": "Bradish",
+      "price": 2,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Kyle",
+      "team": "Stowers",
+      "price": 2,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Joey",
+      "team": "Cantillo",
+      "price": 2,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Noelvi",
+      "team": "Marte",
+      "price": 5,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Ryan",
+      "team": "Pepiot",
+      "price": 5,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Jeff",
+      "team": "Hoffman",
+      "price": 5,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Bryce",
+      "team": "Miller",
+      "price": 5,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Jordan",
+      "team": "Westburg",
+      "price": 5,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Wilyer",
+      "team": "Abreu",
+      "price": 6,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Maikel",
+      "team": "Garcia",
+      "price": 10,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Salvador",
+      "team": "Perez",
+      "price": 12,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Zach",
+      "team": "Neto",
+      "price": 14,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Joe",
+      "team": "Ryan",
+      "price": 15,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Vinnie",
+      "team": "Pasquantino",
+      "price": 15,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Nick",
+      "team": "Pivetta",
+      "price": 16,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Max",
+      "team": "Fried",
+      "price": 43,
+      "pos": "UAAT"
+    },
+    {
+      "player": "Vladimir",
+      "team": "\"Guerrero Jr\"",
+      "price": 54,
+      "pos": "UAAT"
     },
     {
       "player": "Pete",
@@ -1159,21 +1273,15 @@
       "pos": "Stilettos"
     },
     {
-      "player": "Trey",
-      "team": "Yesavage",
-      "price": 1,
-      "pos": "\"The Other Guys\""
-    },
-    {
       "player": "Justin",
       "team": "Crawford",
       "price": 1,
       "pos": "\"The Other Guys\""
     },
     {
-      "player": "Jackson",
-      "team": "Merrill",
-      "price": 2,
+      "player": "Trey",
+      "team": "Yesavage",
+      "price": 1,
       "pos": "\"The Other Guys\""
     },
     {
@@ -1189,14 +1297,20 @@
       "pos": "\"The Other Guys\""
     },
     {
+      "player": "Jackson",
+      "team": "Merrill",
+      "price": 2,
+      "pos": "\"The Other Guys\""
+    },
+    {
       "player": "Luke",
       "team": "Keaschall",
       "price": 3,
       "pos": "\"The Other Guys\""
     },
     {
-      "player": "Mark",
-      "team": "Vientos",
+      "player": "Spencer",
+      "team": "Schwellenbach",
       "price": 5,
       "pos": "\"The Other Guys\""
     },
@@ -1207,14 +1321,14 @@
       "pos": "\"The Other Guys\""
     },
     {
-      "player": "Sean",
-      "team": "Manaea",
+      "player": "Mark",
+      "team": "Vientos",
       "price": 5,
       "pos": "\"The Other Guys\""
     },
     {
-      "player": "Spencer",
-      "team": "Schwellenbach",
+      "player": "Sean",
+      "team": "Manaea",
       "price": 5,
       "pos": "\"The Other Guys\""
     },
@@ -1261,14 +1375,8 @@
       "pos": "\"Schlittlers full\""
     },
     {
-      "player": "Cam",
-      "team": "Schlittler",
-      "price": 2,
-      "pos": "\"Schlittlers full\""
-    },
-    {
-      "player": "J.T.",
-      "team": "Ginn",
+      "player": "Ben",
+      "team": "Rice",
       "price": 2,
       "pos": "\"Schlittlers full\""
     },
@@ -1285,14 +1393,20 @@
       "pos": "\"Schlittlers full\""
     },
     {
+      "player": "Cam",
+      "team": "Schlittler",
+      "price": 2,
+      "pos": "\"Schlittlers full\""
+    },
+    {
       "player": "Mick",
       "team": "Abel",
       "price": 2,
       "pos": "\"Schlittlers full\""
     },
     {
-      "player": "Ben",
-      "team": "Rice",
+      "player": "J.T.",
+      "team": "Ginn",
       "price": 2,
       "pos": "\"Schlittlers full\""
     },
@@ -1339,15 +1453,21 @@
       "pos": "\"Schlittlers full\""
     },
     {
+      "player": "Sal",
+      "team": "Stewart",
+      "price": 1,
+      "pos": "\"Ultimate Price\""
+    },
+    {
       "player": "Cade",
       "team": "Cavalli",
       "price": 1,
       "pos": "\"Ultimate Price\""
     },
     {
-      "player": "Sal",
-      "team": "Stewart",
-      "price": 1,
+      "player": "Kyle",
+      "team": "Leahy",
+      "price": 2,
       "pos": "\"Ultimate Price\""
     },
     {
@@ -1357,14 +1477,14 @@
       "pos": "\"Ultimate Price\""
     },
     {
-      "player": "Gage",
-      "team": "Jump",
+      "player": "Landen",
+      "team": "Roupp",
       "price": 2,
       "pos": "\"Ultimate Price\""
     },
     {
-      "player": "Kyle",
-      "team": "Leahy",
+      "player": "Gage",
+      "team": "Jump",
       "price": 2,
       "pos": "\"Ultimate Price\""
     },
@@ -1453,14 +1573,14 @@
       "pos": "\"Ultimate Price\""
     },
     {
-      "player": "Matthew",
-      "team": "Liberatore",
+      "player": "Sean",
+      "team": "Burke",
       "price": 2,
       "pos": "\"Tennessee Jeds\""
     },
     {
-      "player": "Sean",
-      "team": "Burke",
+      "player": "Matthew",
+      "team": "Liberatore",
       "price": 2,
       "pos": "\"Tennessee Jeds\""
     },
