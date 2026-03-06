@@ -2674,9 +2674,8 @@ self.addEventListener('message', e => {
   if (e.data === 'SKIP_WAITING') self.skipWaiting();
 });
 `;
-    const swBlob = new Blob([swCode], {type:'text/javascript'});
-    const swUrl = URL.createObjectURL(swBlob);
-    navigator.serviceWorker.register(swUrl, {scope: './'})
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js', {scope: '/'})
       .then(reg => {
         console.log('[PWA] Service worker registered', reg.scope);
         // Listen for updates
