@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-07T19:40:45.884979+00:00",
+  "fetchedAt": "2026-03-07T19:55:01.988905+00:00",
   "draftStatus": "drafting",
   "completedTotal": 404,
   "active": [],
@@ -42,7 +42,7 @@
     },
     {
       "name": "Mcgrumpyd",
-      "moneyLeft": 30,
+      "moneyLeft": 26,
       "spent": 194,
       "won": 16
     },
@@ -54,7 +54,7 @@
     },
     {
       "name": "RollingQuintanas",
-      "moneyLeft": 106,
+      "moneyLeft": 104,
       "spent": 154,
       "won": 15
     },
@@ -84,13 +84,13 @@
     },
     {
       "name": "PTP",
-      "moneyLeft": 54,
+      "moneyLeft": 46,
       "spent": 77,
       "won": 10
     },
     {
       "name": "Gankin Zone",
-      "moneyLeft": 55,
+      "moneyLeft": 52,
       "spent": 203,
       "won": 17
     },
