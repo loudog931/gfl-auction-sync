@@ -1,24 +1,24 @@
 {
-  "fetchedAt": "2026-03-07T13:49:43.130839+00:00",
-  "draftStatus": "filling",
+  "fetchedAt": "2026-03-07T14:51:01.604176+00:00",
+  "draftStatus": "drafting",
   "completedTotal": 403,
   "active": [],
   "teams": [
     {
       "name": "Tennessee Jeds",
-      "moneyLeft": 78,
+      "moneyLeft": 63,
       "spent": 182,
       "won": 12
     },
     {
       "name": "Ultimate Price",
-      "moneyLeft": 18,
+      "moneyLeft": 3,
       "spent": 242,
       "won": 20
     },
     {
       "name": "Schlittlers full",
-      "moneyLeft": 115,
+      "moneyLeft": 84,
       "spent": 145,
       "won": 14
     },
@@ -42,13 +42,13 @@
     },
     {
       "name": "Mcgrumpyd",
-      "moneyLeft": 66,
+      "moneyLeft": 38,
       "spent": 194,
       "won": 16
     },
     {
       "name": "Trot Nixon",
-      "moneyLeft": 113,
+      "moneyLeft": 91,
       "spent": 147,
       "won": 13
     },
@@ -60,7 +60,7 @@
     },
     {
       "name": "Logjammers",
-      "moneyLeft": 83,
+      "moneyLeft": 82,
       "spent": 177,
       "won": 13
     },
@@ -72,7 +72,7 @@
     },
     {
       "name": "Enkidu",
-      "moneyLeft": 45,
+      "moneyLeft": 27,
       "spent": 215,
       "won": 19
     },
@@ -84,13 +84,13 @@
     },
     {
       "name": "PTP",
-      "moneyLeft": 183,
+      "moneyLeft": 89,
       "spent": 77,
       "won": 10
     },
     {
       "name": "Gankin Zone",
-      "moneyLeft": 57,
+      "moneyLeft": 42,
       "spent": 203,
       "won": 17
     },
@@ -108,7 +108,7 @@
     },
     {
       "name": "Moneyball Mart",
-      "moneyLeft": 137,
+      "moneyLeft": 84,
       "spent": 123,
       "won": 16
     },
