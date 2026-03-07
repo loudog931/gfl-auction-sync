@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-07T21:39:08.128105+00:00",
+  "fetchedAt": "2026-03-07T21:53:52.064516+00:00",
   "draftStatus": "drafting",
   "completedTotal": 404,
   "active": [],
@@ -90,7 +90,7 @@
     },
     {
       "name": "Gankin Zone",
-      "moneyLeft": 42,
+      "moneyLeft": 35,
       "spent": 203,
       "won": 17
     },
@@ -102,7 +102,7 @@
     },
     {
       "name": "Aces high",
-      "moneyLeft": 16,
+      "moneyLeft": 22,
       "spent": 84,
       "won": 5
     },
