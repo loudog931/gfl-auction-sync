@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-07T15:42:24.111017+00:00",
+  "fetchedAt": "2026-03-07T15:58:59.949575+00:00",
   "draftStatus": "drafting",
   "completedTotal": 403,
   "active": [],
@@ -84,7 +84,7 @@
     },
     {
       "name": "PTP",
-      "moneyLeft": 80,
+      "moneyLeft": 76,
       "spent": 77,
       "won": 10
     },
