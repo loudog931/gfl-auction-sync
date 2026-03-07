@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-07T17:43:37.235011+00:00",
+  "fetchedAt": "2026-03-07T17:57:44.499556+00:00",
   "draftStatus": "drafting",
   "completedTotal": 404,
   "active": [],
@@ -18,7 +18,7 @@
     },
     {
       "name": "Schlittlers full",
-      "moneyLeft": 33,
+      "moneyLeft": 53,
       "spent": 145,
       "won": 14
     },
@@ -48,7 +48,7 @@
     },
     {
       "name": "Trot Nixon",
-      "moneyLeft": 63,
+      "moneyLeft": 38,
       "spent": 147,
       "won": 13
     },
