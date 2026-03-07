@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-03-06T00:48:28.700915+00:00",
+  "fetchedAt": "2026-03-07T12:12:19.960888+00:00",
   "draftStatus": "filling",
-  "completedTotal": 255,
+  "completedTotal": 403,
   "active": [],
   "teams": [
     {
@@ -89,7 +89,7 @@
       "won": 10
     },
     {
-      "name": "Gankin",
+      "name": "Gankin Zone",
       "moneyLeft": 57,
       "spent": 203,
       "won": 17
@@ -111,1544 +111,2065 @@
       "moneyLeft": 137,
       "spent": 123,
       "won": 16
+    },
+    {
+      "name": "Minors 1",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 22
+    },
+    {
+      "name": "Minors 2",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "Minors 3",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 0
+    },
+    {
+      "name": "Minors 4",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 20
+    },
+    {
+      "name": "Minors 5",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 20
+    },
+    {
+      "name": "Minors 6",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 22
+    },
+    {
+      "name": "Minors 7",
+      "moneyLeft": 260,
+      "spent": 0,
+      "won": 18
     }
   ],
   "completed": [
     {
-      "player": "Jackson",
-      "team": "Jobe",
-      "price": 2,
-      "pos": "\"Moneyball Mart\""
+      "player": "Zack Wheeler",
+      "team": "Tennessee Jeds",
+      "price": 39
     },
     {
-      "player": "Jorge",
-      "team": "Polanco",
-      "price": 2,
-      "pos": "\"Moneyball Mart\""
+      "player": "Freddy Peralta",
+      "team": "Tennessee Jeds",
+      "price": 32
     },
     {
-      "player": "Chandler",
-      "team": "Simpson",
-      "price": 2,
-      "pos": "\"Moneyball Mart\""
+      "player": "Josh Hader",
+      "team": "Tennessee Jeds",
+      "price": 26
     },
     {
-      "player": "Brooks",
-      "team": "Lee",
-      "price": 2,
-      "pos": "\"Moneyball Mart\""
+      "player": "James Wood",
+      "team": "Tennessee Jeds",
+      "price": 18
     },
     {
-      "player": "Luis",
-      "team": "Pena",
-      "price": 2,
-      "pos": "\"Moneyball Mart\""
+      "player": "Isaac Paredes",
+      "team": "Tennessee Jeds",
+      "price": 16
     },
     {
-      "player": "Cade",
-      "team": "Horton",
-      "price": 2,
-      "pos": "\"Moneyball Mart\""
+      "player": "Michael Wacha",
+      "team": "Tennessee Jeds",
+      "price": 15
     },
     {
-      "player": "Jack",
-      "team": "Leiter",
-      "price": 2,
-      "pos": "\"Moneyball Mart\""
+      "player": "Brandon Pfaadt",
+      "team": "Tennessee Jeds",
+      "price": 10
     },
     {
-      "player": "Brandon",
-      "team": "Sproat",
-      "price": 3,
-      "pos": "\"Moneyball Mart\""
+      "player": "Byron Buxton",
+      "team": "Tennessee Jeds",
+      "price": 8
     },
     {
-      "player": "David",
-      "team": "Peterson",
-      "price": 5,
-      "pos": "\"Moneyball Mart\""
+      "player": "Brandon Lowe",
+      "team": "Tennessee Jeds",
+      "price": 7
     },
     {
-      "player": "Nolan",
-      "team": "Schanuel",
-      "price": 5,
-      "pos": "\"Moneyball Mart\""
+      "player": "Kenley Jansen",
+      "team": "Tennessee Jeds",
+      "price": 7
     },
     {
-      "player": "Francisco",
-      "team": "Alvarez",
-      "price": 6,
-      "pos": "\"Moneyball Mart\""
+      "player": "Sean Burke",
+      "team": "Tennessee Jeds",
+      "price": 2
     },
     {
-      "player": "Taylor",
-      "team": "Ward",
-      "price": 9,
-      "pos": "\"Moneyball Mart\""
+      "player": "Matthew Liberatore",
+      "team": "Tennessee Jeds",
+      "price": 2
     },
     {
-      "player": "Gavin",
-      "team": "Williams",
-      "price": 10,
-      "pos": "\"Moneyball Mart\""
+      "player": "Jose Ramirez",
+      "team": "Ultimate Price",
+      "price": 42
     },
     {
-      "player": "Ezequiel",
-      "team": "Tovar",
-      "price": 15,
-      "pos": "\"Moneyball Mart\""
+      "player": "Kyle Schwarber",
+      "team": "Ultimate Price",
+      "price": 31
     },
     {
-      "player": "Michael",
-      "team": "\"Harris II\"",
-      "price": 15,
-      "pos": "\"Moneyball Mart\""
+      "player": "Ketel Marte",
+      "team": "Ultimate Price",
+      "price": 30
     },
     {
-      "player": "Tyler",
-      "team": "Glasnow",
-      "price": 41,
-      "pos": "\"Moneyball Mart\""
+      "player": "Bobby Witt Jr",
+      "team": "Ultimate Price",
+      "price": 29
     },
     {
-      "player": "Luis",
-      "team": "Garcia",
-      "price": 5,
-      "pos": "\"Aces high\""
+      "player": "George Kirby",
+      "team": "Ultimate Price",
+      "price": 20
     },
     {
-      "player": "Willy",
-      "team": "Adames",
-      "price": 10,
-      "pos": "\"Aces high\""
+      "player": "Shane Bieber",
+      "team": "Ultimate Price",
+      "price": 17
     },
     {
-      "player": "Josh",
-      "team": "Naylor",
-      "price": 15,
-      "pos": "\"Aces high\""
+      "player": "Jackson Chourio",
+      "team": "Ultimate Price",
+      "price": 17
     },
     {
-      "player": "Jeremy",
-      "team": "Pena",
-      "price": 15,
-      "pos": "\"Aces high\""
+      "player": "Seth Lugo",
+      "team": "Ultimate Price",
+      "price": 11
     },
     {
-      "player": "Tarik",
-      "team": "Skubal",
-      "price": 39,
-      "pos": "\"Aces high\""
+      "player": "Brayan Bello",
+      "team": "Ultimate Price",
+      "price": 10
     },
     {
-      "player": "Nolan",
-      "team": "McLean",
-      "price": 1,
-      "pos": "Mortytown"
+      "player": "Tanner Bibee",
+      "team": "Ultimate Price",
+      "price": 10
     },
     {
-      "player": "Caleb",
-      "team": "Durbin",
-      "price": 2,
-      "pos": "Mortytown"
+      "player": "Drew Rasmussen",
+      "team": "Ultimate Price",
+      "price": 5
     },
     {
-      "player": "Cristian",
-      "team": "Javier",
-      "price": 2,
-      "pos": "Mortytown"
+      "player": "Michael Busch",
+      "team": "Ultimate Price",
+      "price": 5
     },
     {
-      "player": "Chase",
-      "team": "Burns",
-      "price": 2,
-      "pos": "Mortytown"
+      "player": "Alec Burleson",
+      "team": "Ultimate Price",
+      "price": 3
     },
     {
-      "player": "Hyeseong",
-      "team": "Kim",
-      "price": 2,
-      "pos": "Mortytown"
+      "player": "Landen Roupp",
+      "team": "Ultimate Price",
+      "price": 2
     },
     {
-      "player": "Jackson",
-      "team": "Holliday",
-      "price": 2,
-      "pos": "Mortytown"
+      "player": "Hunter Goodman",
+      "team": "Ultimate Price",
+      "price": 2
     },
     {
-      "player": "Masyn",
-      "team": "Winn",
-      "price": 5,
-      "pos": "Mortytown"
+      "player": "JoJo Romero",
+      "team": "Ultimate Price",
+      "price": 2
     },
     {
-      "player": "Shea",
-      "team": "Langeliers",
-      "price": 5,
-      "pos": "Mortytown"
+      "player": "Kyle Leahy",
+      "team": "Ultimate Price",
+      "price": 2
     },
     {
-      "player": "Brenton",
-      "team": "Doyle",
-      "price": 10,
-      "pos": "Mortytown"
+      "player": "Gage Jump",
+      "team": "Ultimate Price",
+      "price": 2
     },
     {
-      "player": "Ryan",
-      "team": "Helsley",
-      "price": 15,
-      "pos": "Mortytown"
+      "player": "Cade Cavalli",
+      "team": "Ultimate Price",
+      "price": 1
     },
     {
-      "player": "Hunter",
-      "team": "Greene",
-      "price": 15,
-      "pos": "Mortytown"
+      "player": "Sal Stewart",
+      "team": "Ultimate Price",
+      "price": 1
     },
     {
-      "player": "Aaron",
-      "team": "Judge",
-      "price": 49,
-      "pos": "Mortytown"
+      "player": "Ronald Acuna Jr",
+      "team": "Schlittlers full",
+      "price": 36
     },
     {
-      "player": "Shohei",
-      "team": "Ohtani",
-      "price": 61,
-      "pos": "Mortytown"
+      "player": "Michael King",
+      "team": "Schlittlers full",
+      "price": 34
     },
     {
-      "player": "Braxton",
-      "team": "Ashcraft",
-      "price": 2,
-      "pos": "Gankin"
+      "player": "Mitch Keller",
+      "team": "Schlittlers full",
+      "price": 24
     },
     {
-      "player": "Daulton",
-      "team": "Varsho",
-      "price": 2,
-      "pos": "Gankin"
+      "player": "Yusei Kikuchi",
+      "team": "Schlittlers full",
+      "price": 16
     },
     {
-      "player": "Ernie",
-      "team": "Clement",
-      "price": 2,
-      "pos": "Gankin"
+      "player": "Evan Carter",
+      "team": "Schlittlers full",
+      "price": 10
     },
     {
-      "player": "Shane",
-      "team": "Smith",
-      "price": 2,
-      "pos": "Gankin"
+      "player": "Max Muncy",
+      "team": "Schlittlers full",
+      "price": 7
     },
     {
-      "player": "Giancarlo",
-      "team": "Stanton",
-      "price": 2,
-      "pos": "Gankin"
+      "player": "Jacob Misiorowski",
+      "team": "Schlittlers full",
+      "price": 5
     },
     {
-      "player": "Eugenio",
-      "team": "Suarez",
-      "price": 3,
-      "pos": "Gankin"
+      "player": "J.T. Ginn",
+      "team": "Schlittlers full",
+      "price": 2
     },
     {
-      "player": "Logan",
-      "team": "Henderson",
-      "price": 5,
-      "pos": "Gankin"
+      "player": "Owen Caissie",
+      "team": "Schlittlers full",
+      "price": 2
     },
     {
-      "player": "Brent",
-      "team": "Rooker",
-      "price": 10,
-      "pos": "Gankin"
+      "player": "Ben Rice",
+      "team": "Schlittlers full",
+      "price": 2
     },
     {
-      "player": "Eury",
-      "team": "Perez",
-      "price": 10,
-      "pos": "Gankin"
+      "player": "Victor Scott",
+      "team": "Schlittlers full",
+      "price": 2
     },
     {
-      "player": "Nico",
-      "team": "Hoerner",
-      "price": 15,
-      "pos": "Gankin"
+      "player": "Cam Schlittler",
+      "team": "Schlittlers full",
+      "price": 2
     },
     {
-      "player": "William",
-      "team": "Contreras",
-      "price": 15,
-      "pos": "Gankin"
+      "player": "Mick Abel",
+      "team": "Schlittlers full",
+      "price": 2
     },
     {
-      "player": "MacKenzie",
-      "team": "Gore",
-      "price": 16,
-      "pos": "Gankin"
+      "player": "Colson Montgomery",
+      "team": "Schlittlers full",
+      "price": 1
     },
     {
-      "player": "David",
-      "team": "Bednar",
-      "price": 17,
-      "pos": "Gankin"
+      "player": "Matt Olson",
+      "team": "The Other Guys",
+      "price": 37
     },
     {
-      "player": "Bo",
-      "team": "Bichette",
-      "price": 18,
-      "pos": "Gankin"
+      "player": "Wyatt Langford",
+      "team": "The Other Guys",
+      "price": 32
     },
     {
-      "player": "Raisel",
-      "team": "Iglesias",
-      "price": 19,
-      "pos": "Gankin"
+      "player": "Austin Riley",
+      "team": "The Other Guys",
+      "price": 26
     },
     {
-      "player": "Nathan",
-      "team": "Eovaldi",
-      "price": 30,
-      "pos": "Gankin"
+      "player": "CJ Abrams",
+      "team": "The Other Guys",
+      "price": 23
     },
     {
-      "player": "Pete",
-      "team": "Alonso",
-      "price": 35,
-      "pos": "Gankin"
+      "player": "Jared Jones",
+      "team": "The Other Guys",
+      "price": 13
     },
     {
-      "player": "Will",
-      "team": "Warren",
-      "price": 1,
-      "pos": "PTP"
+      "player": "Roman Anthony",
+      "team": "The Other Guys",
+      "price": 10
     },
     {
-      "player": "Brady",
-      "team": "House",
-      "price": 1,
-      "pos": "PTP"
+      "player": "Mark Vientos",
+      "team": "The Other Guys",
+      "price": 5
     },
     {
-      "player": "Josh",
-      "team": "Smith",
-      "price": 2,
-      "pos": "PTP"
+      "player": "Sean Manaea",
+      "team": "The Other Guys",
+      "price": 5
     },
     {
-      "player": "Zebby",
-      "team": "Matthews",
-      "price": 2,
-      "pos": "PTP"
+      "player": "Kristian Campbell",
+      "team": "The Other Guys",
+      "price": 5
     },
     {
-      "player": "Bryan",
-      "team": "Abreu",
-      "price": 2,
-      "pos": "PTP"
+      "player": "Spencer Schwellenbach",
+      "team": "The Other Guys",
+      "price": 5
     },
     {
-      "player": "Sal",
-      "team": "Frelick",
-      "price": 2,
-      "pos": "PTP"
+      "player": "Luke Keaschall",
+      "team": "The Other Guys",
+      "price": 3
     },
     {
-      "player": "Nick",
-      "team": "Martinez",
-      "price": 3,
-      "pos": "PTP"
+      "player": "Jackson Merrill",
+      "team": "The Other Guys",
+      "price": 2
     },
     {
-      "player": "Jhoan",
-      "team": "Duran",
-      "price": 15,
-      "pos": "PTP"
+      "player": "Colton Cowser",
+      "team": "The Other Guys",
+      "price": 2
     },
     {
-      "player": "Brandon",
-      "team": "Nimmo",
-      "price": 23,
-      "pos": "PTP"
+      "player": "Otto Lopez",
+      "team": "The Other Guys",
+      "price": 2
     },
     {
-      "player": "Corey",
-      "team": "Seager",
-      "price": 26,
-      "pos": "PTP"
+      "player": "Justin Crawford",
+      "team": "The Other Guys",
+      "price": 1
     },
     {
-      "player": "Ronny",
-      "team": "Mauricio",
-      "price": 1,
-      "pos": "\"Chaos In Tejas (GFL)\""
+      "player": "Trey Yesavage",
+      "team": "The Other Guys",
+      "price": 1
     },
     {
-      "player": "Ryne",
-      "team": "Nelson",
-      "price": 2,
-      "pos": "\"Chaos In Tejas (GFL)\""
+      "player": "Jazz Chisholm Jr",
+      "team": "Stilettos",
+      "price": 26
     },
     {
-      "player": "Mason",
-      "team": "Miller",
-      "price": 2,
-      "pos": "\"Chaos In Tejas (GFL)\""
+      "player": "Shane Baz",
+      "team": "Stilettos",
+      "price": 15
     },
     {
-      "player": "Addison",
-      "team": "Barger",
-      "price": 2,
-      "pos": "\"Chaos In Tejas (GFL)\""
+      "player": "Devin Williams",
+      "team": "Stilettos",
+      "price": 14
     },
     {
-      "player": "Jonathan",
-      "team": "Aranda",
-      "price": 2,
-      "pos": "\"Chaos In Tejas (GFL)\""
+      "player": "Pete Fairbanks",
+      "team": "Stilettos",
+      "price": 14
     },
     {
-      "player": "Joey",
-      "team": "Ortiz",
-      "price": 2,
-      "pos": "\"Chaos In Tejas (GFL)\""
+      "player": "Elly De La Cruz",
+      "team": "Stilettos",
+      "price": 10
     },
     {
-      "player": "Wenceel",
-      "team": "Perez",
-      "price": 2,
-      "pos": "\"Chaos In Tejas (GFL)\""
+      "player": "Cal Raleigh",
+      "team": "Stilettos",
+      "price": 10
     },
     {
-      "player": "Andy",
-      "team": "Pages",
-      "price": 2,
-      "pos": "\"Chaos In Tejas (GFL)\""
+      "player": "Jameson Taillon",
+      "team": "Stilettos",
+      "price": 8
     },
     {
-      "player": "AJ",
-      "team": "Blubaugh",
-      "price": 2,
-      "pos": "\"Chaos In Tejas (GFL)\""
+      "player": "Tyler Soderstrom",
+      "team": "Stilettos",
+      "price": 5
     },
     {
-      "player": "Geraldo",
-      "team": "Perdomo",
-      "price": 3,
-      "pos": "\"Chaos In Tejas (GFL)\""
+      "player": "Pete Crow-Armstrong",
+      "team": "Stilettos",
+      "price": 2
     },
     {
-      "player": "Griffin",
-      "team": "Jax",
-      "price": 3,
-      "pos": "\"Chaos In Tejas (GFL)\""
+      "player": "Vladimir Guerrero Jr",
+      "team": "UAAT",
+      "price": 54
     },
     {
-      "player": "Andrew",
-      "team": "Abbott",
-      "price": 5,
-      "pos": "\"Chaos In Tejas (GFL)\""
+      "player": "Max Fried",
+      "team": "UAAT",
+      "price": 43
     },
     {
-      "player": "Lawrence",
-      "team": "Butler",
-      "price": 5,
-      "pos": "\"Chaos In Tejas (GFL)\""
+      "player": "Nick Pivetta",
+      "team": "UAAT",
+      "price": 16
     },
     {
-      "player": "Justin",
-      "team": "Steele",
-      "price": 15,
-      "pos": "\"Chaos In Tejas (GFL)\""
+      "player": "Vinnie Pasquantino",
+      "team": "UAAT",
+      "price": 15
     },
     {
-      "player": "Paul",
-      "team": "Skenes",
-      "price": 26,
-      "pos": "\"Chaos In Tejas (GFL)\""
+      "player": "Joe Ryan",
+      "team": "UAAT",
+      "price": 15
     },
     {
-      "player": "Kris",
-      "team": "Bubic",
-      "price": 2,
-      "pos": "Enkidu"
+      "player": "Zach Neto",
+      "team": "UAAT",
+      "price": 14
     },
     {
-      "player": "Trevor",
-      "team": "Rogers",
-      "price": 2,
-      "pos": "Enkidu"
+      "player": "Salvador Perez",
+      "team": "UAAT",
+      "price": 12
     },
     {
-      "player": "Jac",
-      "team": "Caglianone",
-      "price": 2,
-      "pos": "Enkidu"
+      "player": "Maikel Garcia",
+      "team": "UAAT",
+      "price": 10
     },
     {
-      "player": "Jakob",
-      "team": "Marsee",
-      "price": 2,
-      "pos": "Enkidu"
+      "player": "Wilyer Abreu",
+      "team": "UAAT",
+      "price": 6
     },
     {
-      "player": "Spencer",
-      "team": "Torkelson",
-      "price": 3,
-      "pos": "Enkidu"
+      "player": "Noelvi Marte",
+      "team": "UAAT",
+      "price": 5
     },
     {
-      "player": "Joe",
-      "team": "Musgrove",
-      "price": 3,
-      "pos": "Enkidu"
+      "player": "Ryan Pepiot",
+      "team": "UAAT",
+      "price": 5
     },
     {
-      "player": "Ryan",
-      "team": "Walker",
-      "price": 3,
-      "pos": "Enkidu"
+      "player": "Jordan Westburg",
+      "team": "UAAT",
+      "price": 5
     },
     {
-      "player": "Alejandro",
-      "team": "Kirk",
-      "price": 3,
-      "pos": "Enkidu"
+      "player": "Bryce Miller",
+      "team": "UAAT",
+      "price": 5
     },
     {
-      "player": "Brice",
-      "team": "Turang",
-      "price": 5,
-      "pos": "Enkidu"
+      "player": "Jeff Hoffman",
+      "team": "UAAT",
+      "price": 5
     },
     {
-      "player": "Carlos",
-      "team": "Estevez",
-      "price": 8,
-      "pos": "Enkidu"
+      "player": "Joey Cantillo",
+      "team": "UAAT",
+      "price": 2
     },
     {
-      "player": "Bryan",
-      "team": "Woo",
-      "price": 10,
-      "pos": "Enkidu"
+      "player": "Kyle Bradish",
+      "team": "UAAT",
+      "price": 2
     },
     {
-      "player": "Jarren",
-      "team": "Duran",
-      "price": 10,
-      "pos": "Enkidu"
+      "player": "Kyle Stowers",
+      "team": "UAAT",
+      "price": 2
     },
     {
-      "player": "Matt",
-      "team": "McLain",
-      "price": 10,
-      "pos": "Enkidu"
+      "player": "Lucas Giolito",
+      "team": "UAAT",
+      "price": 2
     },
     {
-      "player": "Ranger",
-      "team": "Suarez",
-      "price": 20,
-      "pos": "Enkidu"
+      "player": "Yoshinobu Yamamoto",
+      "team": "Mcgrumpyd",
+      "price": 50
     },
     {
-      "player": "Carlos",
-      "team": "Rodon",
-      "price": 22,
-      "pos": "Enkidu"
+      "player": "Luis Castillo",
+      "team": "Mcgrumpyd",
+      "price": 39
     },
     {
-      "player": "Brandon",
-      "team": "Woodruff",
-      "price": 26,
-      "pos": "Enkidu"
+      "player": "Kevin Gausman",
+      "team": "Mcgrumpyd",
+      "price": 34
     },
     {
-      "player": "Framber",
-      "team": "Valdez",
-      "price": 27,
-      "pos": "Enkidu"
+      "player": "Christian Yelich",
+      "team": "Mcgrumpyd",
+      "price": 28
     },
     {
-      "player": "Dylan",
-      "team": "Cease",
-      "price": 28,
-      "pos": "Enkidu"
+      "player": "Brendan Donovan",
+      "team": "Mcgrumpyd",
+      "price": 7
     },
     {
-      "player": "Manny",
-      "team": "Machado",
-      "price": 29,
-      "pos": "Enkidu"
+      "player": "Nick Castellanos",
+      "team": "Mcgrumpyd",
+      "price": 6
     },
     {
-      "player": "Junior",
-      "team": "Caminero",
-      "price": 2,
-      "pos": "\"Silver Panthers\""
+      "player": "Agustin Ramirez",
+      "team": "Mcgrumpyd",
+      "price": 5
     },
     {
-      "player": "Hurston",
-      "team": "Waldrep",
-      "price": 2,
-      "pos": "\"Silver Panthers\""
+      "player": "Xavier Edwards",
+      "team": "Mcgrumpyd",
+      "price": 5
     },
     {
-      "player": "TJ",
-      "team": "Friedl",
-      "price": 2,
-      "pos": "\"Silver Panthers\""
+      "player": "Matthew Boyd",
+      "team": "Mcgrumpyd",
+      "price": 5
     },
     {
-      "player": "Emmet",
-      "team": "Sheehan",
-      "price": 2,
-      "pos": "\"Silver Panthers\""
+      "player": "Aroldis Chapman",
+      "team": "Mcgrumpyd",
+      "price": 3
     },
     {
-      "player": "Daylen",
-      "team": "Lile",
-      "price": 2,
-      "pos": "\"Silver Panthers\""
+      "player": "Simeon Woods Richardson",
+      "team": "Mcgrumpyd",
+      "price": 3
     },
     {
-      "player": "Cade",
-      "team": "Smith",
-      "price": 3,
-      "pos": "\"Silver Panthers\""
+      "player": "Andrew Vaughn",
+      "team": "Mcgrumpyd",
+      "price": 2
     },
     {
-      "player": "Spencer",
-      "team": "Arrighetti",
-      "price": 5,
-      "pos": "\"Silver Panthers\""
+      "player": "Jo Adell",
+      "team": "Mcgrumpyd",
+      "price": 2
     },
     {
-      "player": "Carlos",
-      "team": "Correa",
-      "price": 7,
-      "pos": "\"Silver Panthers\""
+      "player": "Ivan Herrera",
+      "team": "Mcgrumpyd",
+      "price": 2
     },
     {
-      "player": "Yainer",
-      "team": "Diaz",
-      "price": 10,
-      "pos": "\"Silver Panthers\""
+      "player": "Chad Patrick",
+      "team": "Mcgrumpyd",
+      "price": 2
     },
     {
-      "player": "Corbin",
-      "team": "Carroll",
-      "price": 10,
-      "pos": "\"Silver Panthers\""
+      "player": "Quinn Priester",
+      "team": "Mcgrumpyd",
+      "price": 1
     },
     {
-      "player": "Kyle",
-      "team": "Manzardo",
-      "price": 12,
-      "pos": "\"Silver Panthers\""
+      "player": "Chris Sale",
+      "team": "Trot Nixon",
+      "price": 35
     },
     {
-      "player": "Andres",
-      "team": "Munoz",
-      "price": 15,
-      "pos": "\"Silver Panthers\""
+      "player": "Alex Bregman",
+      "team": "Trot Nixon",
+      "price": 28
     },
     {
-      "player": "Sonny",
-      "team": "Gray",
-      "price": 28,
-      "pos": "\"Silver Panthers\""
+      "player": "Jesus Luzardo",
+      "team": "Trot Nixon",
+      "price": 27
     },
     {
-      "player": "Kyle",
-      "team": "Tucker",
-      "price": 51,
-      "pos": "\"Silver Panthers\""
+      "player": "Cody Bellinger",
+      "team": "Trot Nixon",
+      "price": 19
     },
     {
-      "player": "Mike",
-      "team": "Burrows",
-      "price": 2,
-      "pos": "Logjammers"
+      "player": "Randy Arozarena",
+      "team": "Trot Nixon",
+      "price": 16
     },
     {
-      "player": "Trevor",
-      "team": "Story",
-      "price": 2,
-      "pos": "Logjammers"
+      "player": "Casey Mize",
+      "team": "Trot Nixon",
+      "price": 7
     },
     {
-      "player": "Garrett",
-      "team": "Crochet",
-      "price": 5,
-      "pos": "Logjammers"
+      "player": "Gleyber Torres",
+      "team": "Trot Nixon",
+      "price": 3
     },
     {
-      "player": "Jose",
-      "team": "Soriano",
-      "price": 5,
-      "pos": "Logjammers"
+      "player": "Connelly Early",
+      "team": "Trot Nixon",
+      "price": 2
     },
     {
-      "player": "Dansby",
-      "team": "Swanson",
-      "price": 7,
-      "pos": "Logjammers"
+      "player": "Heliot Ramos",
+      "team": "Trot Nixon",
+      "price": 2
     },
     {
-      "player": "Kerry",
-      "team": "Carpenter",
-      "price": 9,
-      "pos": "Logjammers"
+      "player": "Jacob Wilson",
+      "team": "Trot Nixon",
+      "price": 2
     },
     {
-      "player": "Cristopher",
-      "team": "Sanchez",
-      "price": 10,
-      "pos": "Logjammers"
+      "player": "Jacob Lopez",
+      "team": "Trot Nixon",
+      "price": 2
     },
     {
-      "player": "Yandy",
-      "team": "Diaz",
-      "price": 10,
-      "pos": "Logjammers"
+      "player": "Emilio Pagan",
+      "team": "Trot Nixon",
+      "price": 2
     },
     {
-      "player": "Spencer",
-      "team": "Strider",
-      "price": 11,
-      "pos": "Logjammers"
+      "player": "Daniel Palencia",
+      "team": "Trot Nixon",
+      "price": 2
     },
     {
-      "player": "Edward",
-      "team": "Cabrera",
-      "price": 21,
-      "pos": "Logjammers"
+      "player": "Julio Rodriguez",
+      "team": "RollingQuintanas",
+      "price": 31
     },
     {
-      "player": "Logan",
-      "team": "Gilbert",
-      "price": 23,
-      "pos": "Logjammers"
+      "player": "Seiya Suzuki",
+      "team": "RollingQuintanas",
+      "price": 24
     },
     {
-      "player": "Nick",
-      "team": "Lodolo",
-      "price": 26,
-      "pos": "Logjammers"
+      "player": "Logan Webb",
+      "team": "RollingQuintanas",
+      "price": 21
     },
     {
-      "player": "Fernando",
-      "team": "\"Tatis Jr\"",
-      "price": 46,
-      "pos": "Logjammers"
+      "player": "Robbie Ray",
+      "team": "RollingQuintanas",
+      "price": 13
     },
     {
-      "player": "Bubba",
-      "team": "Chandler",
-      "price": 1,
-      "pos": "RollingQuintanas"
+      "player": "Sandy Alcantara",
+      "team": "RollingQuintanas",
+      "price": 11
     },
     {
-      "player": "Nick",
-      "team": "Kurtz",
-      "price": 1,
-      "pos": "RollingQuintanas"
+      "player": "Gunnar Henderson",
+      "team": "RollingQuintanas",
+      "price": 10
     },
     {
-      "player": "Drake",
-      "team": "Baldwin",
-      "price": 1,
-      "pos": "RollingQuintanas"
+      "player": "Bryson Stott",
+      "team": "RollingQuintanas",
+      "price": 10
     },
     {
-      "player": "Abner",
-      "team": "Uribe",
-      "price": 2,
-      "pos": "RollingQuintanas"
+      "player": "Cole Ragans",
+      "team": "RollingQuintanas",
+      "price": 10
     },
     {
-      "player": "Ceddanne",
-      "team": "Rafaela",
-      "price": 2,
-      "pos": "RollingQuintanas"
+      "player": "Hunter Brown",
+      "team": "RollingQuintanas",
+      "price": 10
     },
     {
-      "player": "George",
-      "team": "Springer",
-      "price": 7,
-      "pos": "RollingQuintanas"
+      "player": "George Springer",
+      "team": "RollingQuintanas",
+      "price": 7
     },
     {
-      "player": "Bryson",
-      "team": "Stott",
-      "price": 10,
-      "pos": "RollingQuintanas"
+      "player": "Ceddanne Rafaela",
+      "team": "RollingQuintanas",
+      "price": 2
     },
     {
-      "player": "Cole",
-      "team": "Ragans",
-      "price": 10,
-      "pos": "RollingQuintanas"
+      "player": "Abner Uribe",
+      "team": "RollingQuintanas",
+      "price": 2
     },
     {
-      "player": "Hunter",
-      "team": "Brown",
-      "price": 10,
-      "pos": "RollingQuintanas"
+      "player": "Bubba Chandler",
+      "team": "RollingQuintanas",
+      "price": 1
     },
     {
-      "player": "Gunnar",
-      "team": "Henderson",
-      "price": 10,
-      "pos": "RollingQuintanas"
+      "player": "Drake Baldwin",
+      "team": "RollingQuintanas",
+      "price": 1
     },
     {
-      "player": "Sandy",
-      "team": "Alcantara",
-      "price": 11,
-      "pos": "RollingQuintanas"
+      "player": "Nick Kurtz",
+      "team": "RollingQuintanas",
+      "price": 1
     },
     {
-      "player": "Robbie",
-      "team": "Ray",
-      "price": 13,
-      "pos": "RollingQuintanas"
+      "player": "Fernando Tatis Jr",
+      "team": "Logjammers",
+      "price": 46
     },
     {
-      "player": "Logan",
-      "team": "Webb",
-      "price": 21,
-      "pos": "RollingQuintanas"
+      "player": "Nick Lodolo",
+      "team": "Logjammers",
+      "price": 26
     },
     {
-      "player": "Seiya",
-      "team": "Suzuki",
-      "price": 24,
-      "pos": "RollingQuintanas"
+      "player": "Logan Gilbert",
+      "team": "Logjammers",
+      "price": 23
     },
     {
-      "player": "Julio",
-      "team": "Rodriguez",
-      "price": 31,
-      "pos": "RollingQuintanas"
+      "player": "Edward Cabrera",
+      "team": "Logjammers",
+      "price": 21
     },
     {
-      "player": "Connelly",
-      "team": "Early",
-      "price": 2,
-      "pos": "\"Trot Nixon\""
+      "player": "Spencer Strider",
+      "team": "Logjammers",
+      "price": 11
     },
     {
-      "player": "Daniel",
-      "team": "Palencia",
-      "price": 2,
-      "pos": "\"Trot Nixon\""
+      "player": "Cristopher Sanchez",
+      "team": "Logjammers",
+      "price": 10
     },
     {
-      "player": "Heliot",
-      "team": "Ramos",
-      "price": 2,
-      "pos": "\"Trot Nixon\""
+      "player": "Yandy Diaz",
+      "team": "Logjammers",
+      "price": 10
     },
     {
-      "player": "Emilio",
-      "team": "Pagan",
-      "price": 2,
-      "pos": "\"Trot Nixon\""
+      "player": "Kerry Carpenter",
+      "team": "Logjammers",
+      "price": 9
     },
     {
-      "player": "Jacob",
-      "team": "Lopez",
-      "price": 2,
-      "pos": "\"Trot Nixon\""
+      "player": "Dansby Swanson",
+      "team": "Logjammers",
+      "price": 7
     },
     {
-      "player": "Jacob",
-      "team": "Wilson",
-      "price": 2,
-      "pos": "\"Trot Nixon\""
+      "player": "Jose Soriano",
+      "team": "Logjammers",
+      "price": 5
     },
     {
-      "player": "Gleyber",
-      "team": "Torres",
-      "price": 3,
-      "pos": "\"Trot Nixon\""
+      "player": "Garrett Crochet",
+      "team": "Logjammers",
+      "price": 5
     },
     {
-      "player": "Casey",
-      "team": "Mize",
-      "price": 7,
-      "pos": "\"Trot Nixon\""
+      "player": "Mike Burrows",
+      "team": "Logjammers",
+      "price": 2
     },
     {
-      "player": "Randy",
-      "team": "Arozarena",
-      "price": 16,
-      "pos": "\"Trot Nixon\""
+      "player": "Trevor Story",
+      "team": "Logjammers",
+      "price": 2
     },
     {
-      "player": "Cody",
-      "team": "Bellinger",
-      "price": 19,
-      "pos": "\"Trot Nixon\""
+      "player": "Kyle Tucker",
+      "team": "Silver Panthers",
+      "price": 51
     },
     {
-      "player": "Jesus",
-      "team": "Luzardo",
-      "price": 27,
-      "pos": "\"Trot Nixon\""
+      "player": "Sonny Gray",
+      "team": "Silver Panthers",
+      "price": 28
     },
     {
-      "player": "Alex",
-      "team": "Bregman",
-      "price": 28,
-      "pos": "\"Trot Nixon\""
+      "player": "Andres Munoz",
+      "team": "Silver Panthers",
+      "price": 15
     },
     {
-      "player": "Chris",
-      "team": "Sale",
-      "price": 35,
-      "pos": "\"Trot Nixon\""
+      "player": "Kyle Manzardo",
+      "team": "Silver Panthers",
+      "price": 12
     },
     {
-      "player": "Quinn",
-      "team": "Priester",
-      "price": 1,
-      "pos": "Mcgrumpyd"
+      "player": "Corbin Carroll",
+      "team": "Silver Panthers",
+      "price": 10
     },
     {
-      "player": "Ivan",
-      "team": "Herrera",
-      "price": 2,
-      "pos": "Mcgrumpyd"
+      "player": "Yainer Diaz",
+      "team": "Silver Panthers",
+      "price": 10
     },
     {
-      "player": "Chad",
-      "team": "Patrick",
-      "price": 2,
-      "pos": "Mcgrumpyd"
+      "player": "Carlos Correa",
+      "team": "Silver Panthers",
+      "price": 7
     },
     {
-      "player": "Jo",
-      "team": "Adell",
-      "price": 2,
-      "pos": "Mcgrumpyd"
+      "player": "Spencer Arrighetti",
+      "team": "Silver Panthers",
+      "price": 5
     },
     {
-      "player": "Andrew",
-      "team": "Vaughn",
-      "price": 2,
-      "pos": "Mcgrumpyd"
+      "player": "Cade Smith",
+      "team": "Silver Panthers",
+      "price": 3
     },
     {
-      "player": "Simeon",
-      "team": "\"Woods Richardson\"",
-      "price": 3,
-      "pos": "Mcgrumpyd"
+      "player": "Hurston Waldrep",
+      "team": "Silver Panthers",
+      "price": 2
     },
     {
-      "player": "Aroldis",
-      "team": "Chapman",
-      "price": 3,
-      "pos": "Mcgrumpyd"
+      "player": "Daylen Lile",
+      "team": "Silver Panthers",
+      "price": 2
     },
     {
-      "player": "Agustin",
-      "team": "Ramirez",
-      "price": 5,
-      "pos": "Mcgrumpyd"
+      "player": "Junior Caminero",
+      "team": "Silver Panthers",
+      "price": 2
     },
     {
-      "player": "Xavier",
-      "team": "Edwards",
-      "price": 5,
-      "pos": "Mcgrumpyd"
+      "player": "Emmet Sheehan",
+      "team": "Silver Panthers",
+      "price": 2
     },
     {
-      "player": "Matthew",
-      "team": "Boyd",
-      "price": 5,
-      "pos": "Mcgrumpyd"
+      "player": "TJ Friedl",
+      "team": "Silver Panthers",
+      "price": 2
     },
     {
-      "player": "Nick",
-      "team": "Castellanos",
-      "price": 6,
-      "pos": "Mcgrumpyd"
+      "player": "Manny Machado",
+      "team": "Enkidu",
+      "price": 29
     },
     {
-      "player": "Brendan",
-      "team": "Donovan",
-      "price": 7,
-      "pos": "Mcgrumpyd"
+      "player": "Dylan Cease",
+      "team": "Enkidu",
+      "price": 28
     },
     {
-      "player": "Christian",
-      "team": "Yelich",
-      "price": 28,
-      "pos": "Mcgrumpyd"
+      "player": "Framber Valdez",
+      "team": "Enkidu",
+      "price": 27
     },
     {
-      "player": "Kevin",
-      "team": "Gausman",
-      "price": 34,
-      "pos": "Mcgrumpyd"
+      "player": "Brandon Woodruff",
+      "team": "Enkidu",
+      "price": 26
     },
     {
-      "player": "Luis",
-      "team": "Castillo",
-      "price": 39,
-      "pos": "Mcgrumpyd"
+      "player": "Carlos Rodon",
+      "team": "Enkidu",
+      "price": 22
     },
     {
-      "player": "Yoshinobu",
-      "team": "Yamamoto",
-      "price": 50,
-      "pos": "Mcgrumpyd"
+      "player": "Ranger Suarez",
+      "team": "Enkidu",
+      "price": 20
     },
     {
-      "player": "Lucas",
-      "team": "Giolito",
-      "price": 2,
-      "pos": "UAAT"
+      "player": "Matt McLain",
+      "team": "Enkidu",
+      "price": 10
     },
     {
-      "player": "Kyle",
-      "team": "Bradish",
-      "price": 2,
-      "pos": "UAAT"
+      "player": "Bryan Woo",
+      "team": "Enkidu",
+      "price": 10
     },
     {
-      "player": "Kyle",
-      "team": "Stowers",
-      "price": 2,
-      "pos": "UAAT"
+      "player": "Jarren Duran",
+      "team": "Enkidu",
+      "price": 10
     },
     {
-      "player": "Joey",
-      "team": "Cantillo",
-      "price": 2,
-      "pos": "UAAT"
+      "player": "Carlos Estevez",
+      "team": "Enkidu",
+      "price": 8
     },
     {
-      "player": "Noelvi",
-      "team": "Marte",
-      "price": 5,
-      "pos": "UAAT"
+      "player": "Brice Turang",
+      "team": "Enkidu",
+      "price": 5
     },
     {
-      "player": "Ryan",
-      "team": "Pepiot",
-      "price": 5,
-      "pos": "UAAT"
+      "player": "Alejandro Kirk",
+      "team": "Enkidu",
+      "price": 3
     },
     {
-      "player": "Jeff",
-      "team": "Hoffman",
-      "price": 5,
-      "pos": "UAAT"
+      "player": "Joe Musgrove",
+      "team": "Enkidu",
+      "price": 3
     },
     {
-      "player": "Bryce",
-      "team": "Miller",
-      "price": 5,
-      "pos": "UAAT"
+      "player": "Spencer Torkelson",
+      "team": "Enkidu",
+      "price": 3
     },
     {
-      "player": "Jordan",
-      "team": "Westburg",
-      "price": 5,
-      "pos": "UAAT"
+      "player": "Ryan Walker",
+      "team": "Enkidu",
+      "price": 3
     },
     {
-      "player": "Wilyer",
-      "team": "Abreu",
-      "price": 6,
-      "pos": "UAAT"
+      "player": "Jakob Marsee",
+      "team": "Enkidu",
+      "price": 2
     },
     {
-      "player": "Maikel",
-      "team": "Garcia",
-      "price": 10,
-      "pos": "UAAT"
+      "player": "Jac Caglianone",
+      "team": "Enkidu",
+      "price": 2
     },
     {
-      "player": "Salvador",
-      "team": "Perez",
-      "price": 12,
-      "pos": "UAAT"
+      "player": "Trevor Rogers",
+      "team": "Enkidu",
+      "price": 2
     },
     {
-      "player": "Zach",
-      "team": "Neto",
-      "price": 14,
-      "pos": "UAAT"
+      "player": "Kris Bubic",
+      "team": "Enkidu",
+      "price": 2
     },
     {
-      "player": "Joe",
-      "team": "Ryan",
-      "price": 15,
-      "pos": "UAAT"
+      "player": "Paul Skenes",
+      "team": "Chaos In Tejas (GFL)",
+      "price": 26
     },
     {
-      "player": "Vinnie",
-      "team": "Pasquantino",
-      "price": 15,
-      "pos": "UAAT"
+      "player": "Justin Steele",
+      "team": "Chaos In Tejas (GFL)",
+      "price": 15
     },
     {
-      "player": "Nick",
-      "team": "Pivetta",
-      "price": 16,
-      "pos": "UAAT"
+      "player": "Andrew Abbott",
+      "team": "Chaos In Tejas (GFL)",
+      "price": 5
     },
     {
-      "player": "Max",
-      "team": "Fried",
-      "price": 43,
-      "pos": "UAAT"
+      "player": "Lawrence Butler",
+      "team": "Chaos In Tejas (GFL)",
+      "price": 5
     },
     {
-      "player": "Vladimir",
-      "team": "\"Guerrero Jr\"",
-      "price": 54,
-      "pos": "UAAT"
+      "player": "Geraldo Perdomo",
+      "team": "Chaos In Tejas (GFL)",
+      "price": 3
     },
     {
-      "player": "Pete",
-      "team": "Crow-Armstrong",
-      "price": 2,
-      "pos": "Stilettos"
+      "player": "Griffin Jax",
+      "team": "Chaos In Tejas (GFL)",
+      "price": 3
     },
     {
-      "player": "Tyler",
-      "team": "Soderstrom",
-      "price": 5,
-      "pos": "Stilettos"
+      "player": "Mason Miller",
+      "team": "Chaos In Tejas (GFL)",
+      "price": 2
     },
     {
-      "player": "Jameson",
-      "team": "Taillon",
-      "price": 8,
-      "pos": "Stilettos"
+      "player": "Joey Ortiz",
+      "team": "Chaos In Tejas (GFL)",
+      "price": 2
     },
     {
-      "player": "Elly",
-      "team": "\"De La Cruz\"",
-      "price": 10,
-      "pos": "Stilettos"
+      "player": "Ryne Nelson",
+      "team": "Chaos In Tejas (GFL)",
+      "price": 2
     },
     {
-      "player": "Cal",
-      "team": "Raleigh",
-      "price": 10,
-      "pos": "Stilettos"
+      "player": "Wenceel Perez",
+      "team": "Chaos In Tejas (GFL)",
+      "price": 2
     },
     {
-      "player": "Devin",
-      "team": "Williams",
-      "price": 14,
-      "pos": "Stilettos"
+      "player": "Addison Barger",
+      "team": "Chaos In Tejas (GFL)",
+      "price": 2
     },
     {
-      "player": "Pete",
-      "team": "Fairbanks",
-      "price": 14,
-      "pos": "Stilettos"
+      "player": "Andy Pages",
+      "team": "Chaos In Tejas (GFL)",
+      "price": 2
     },
     {
-      "player": "Shane",
-      "team": "Baz",
-      "price": 15,
-      "pos": "Stilettos"
+      "player": "Jonathan Aranda",
+      "team": "Chaos In Tejas (GFL)",
+      "price": 2
     },
     {
-      "player": "Jazz",
-      "team": "\"Chisholm Jr\"",
-      "price": 26,
-      "pos": "Stilettos"
+      "player": "AJ Blubaugh",
+      "team": "Chaos In Tejas (GFL)",
+      "price": 2
     },
     {
-      "player": "Justin",
-      "team": "Crawford",
-      "price": 1,
-      "pos": "\"The Other Guys\""
+      "player": "Ronny Mauricio",
+      "team": "Chaos In Tejas (GFL)",
+      "price": 1
     },
     {
-      "player": "Trey",
-      "team": "Yesavage",
-      "price": 1,
-      "pos": "\"The Other Guys\""
+      "player": "Corey Seager",
+      "team": "PTP",
+      "price": 26
     },
     {
-      "player": "Colton",
-      "team": "Cowser",
-      "price": 2,
-      "pos": "\"The Other Guys\""
+      "player": "Brandon Nimmo",
+      "team": "PTP",
+      "price": 23
     },
     {
-      "player": "Otto",
-      "team": "Lopez",
-      "price": 2,
-      "pos": "\"The Other Guys\""
+      "player": "Jhoan Duran",
+      "team": "PTP",
+      "price": 15
     },
     {
-      "player": "Jackson",
-      "team": "Merrill",
-      "price": 2,
-      "pos": "\"The Other Guys\""
+      "player": "Nick Martinez",
+      "team": "PTP",
+      "price": 3
     },
     {
-      "player": "Luke",
-      "team": "Keaschall",
-      "price": 3,
-      "pos": "\"The Other Guys\""
+      "player": "Sal Frelick",
+      "team": "PTP",
+      "price": 2
     },
     {
-      "player": "Spencer",
-      "team": "Schwellenbach",
-      "price": 5,
-      "pos": "\"The Other Guys\""
+      "player": "Zebby Matthews",
+      "team": "PTP",
+      "price": 2
     },
     {
-      "player": "Kristian",
-      "team": "Campbell",
-      "price": 5,
-      "pos": "\"The Other Guys\""
+      "player": "Bryan Abreu",
+      "team": "PTP",
+      "price": 2
     },
     {
-      "player": "Mark",
-      "team": "Vientos",
-      "price": 5,
-      "pos": "\"The Other Guys\""
+      "player": "Josh Smith",
+      "team": "PTP",
+      "price": 2
     },
     {
-      "player": "Sean",
-      "team": "Manaea",
-      "price": 5,
-      "pos": "\"The Other Guys\""
+      "player": "Will Warren",
+      "team": "PTP",
+      "price": 1
     },
     {
-      "player": "Roman",
-      "team": "Anthony",
-      "price": 10,
-      "pos": "\"The Other Guys\""
+      "player": "Brady House",
+      "team": "PTP",
+      "price": 1
     },
     {
-      "player": "Jared",
-      "team": "Jones",
-      "price": 13,
-      "pos": "\"The Other Guys\""
+      "player": "Pete Alonso",
+      "team": "Gankin Zone",
+      "price": 35
     },
     {
-      "player": "CJ",
-      "team": "Abrams",
-      "price": 23,
-      "pos": "\"The Other Guys\""
+      "player": "Nathan Eovaldi",
+      "team": "Gankin Zone",
+      "price": 30
     },
     {
-      "player": "Austin",
-      "team": "Riley",
-      "price": 26,
-      "pos": "\"The Other Guys\""
+      "player": "Raisel Iglesias",
+      "team": "Gankin Zone",
+      "price": 19
     },
     {
-      "player": "Wyatt",
-      "team": "Langford",
-      "price": 32,
-      "pos": "\"The Other Guys\""
+      "player": "Bo Bichette",
+      "team": "Gankin Zone",
+      "price": 18
     },
     {
-      "player": "Matt",
-      "team": "Olson",
-      "price": 37,
-      "pos": "\"The Other Guys\""
+      "player": "David Bednar",
+      "team": "Gankin Zone",
+      "price": 17
     },
     {
-      "player": "Colson",
-      "team": "Montgomery",
-      "price": 1,
-      "pos": "\"Schlittlers full\""
+      "player": "MacKenzie Gore",
+      "team": "Gankin Zone",
+      "price": 16
     },
     {
-      "player": "Ben",
-      "team": "Rice",
-      "price": 2,
-      "pos": "\"Schlittlers full\""
+      "player": "Nico Hoerner",
+      "team": "Gankin Zone",
+      "price": 15
     },
     {
-      "player": "Owen",
-      "team": "Caissie",
-      "price": 2,
-      "pos": "\"Schlittlers full\""
+      "player": "William Contreras",
+      "team": "Gankin Zone",
+      "price": 15
     },
     {
-      "player": "Victor",
-      "team": "Scott",
-      "price": 2,
-      "pos": "\"Schlittlers full\""
+      "player": "Eury Perez",
+      "team": "Gankin Zone",
+      "price": 10
     },
     {
-      "player": "Cam",
-      "team": "Schlittler",
-      "price": 2,
-      "pos": "\"Schlittlers full\""
+      "player": "Brent Rooker",
+      "team": "Gankin Zone",
+      "price": 10
     },
     {
-      "player": "Mick",
-      "team": "Abel",
-      "price": 2,
-      "pos": "\"Schlittlers full\""
+      "player": "Logan Henderson",
+      "team": "Gankin Zone",
+      "price": 5
     },
     {
-      "player": "J.T.",
-      "team": "Ginn",
-      "price": 2,
-      "pos": "\"Schlittlers full\""
+      "player": "Eugenio Suarez",
+      "team": "Gankin Zone",
+      "price": 3
     },
     {
-      "player": "Jacob",
-      "team": "Misiorowski",
-      "price": 5,
-      "pos": "\"Schlittlers full\""
+      "player": "Giancarlo Stanton",
+      "team": "Gankin Zone",
+      "price": 2
     },
     {
-      "player": "Max",
-      "team": "Muncy",
-      "price": 7,
-      "pos": "\"Schlittlers full\""
+      "player": "Ernie Clement",
+      "team": "Gankin Zone",
+      "price": 2
     },
     {
-      "player": "Evan",
-      "team": "Carter",
-      "price": 10,
-      "pos": "\"Schlittlers full\""
+      "player": "Daulton Varsho",
+      "team": "Gankin Zone",
+      "price": 2
     },
     {
-      "player": "Yusei",
-      "team": "Kikuchi",
-      "price": 16,
-      "pos": "\"Schlittlers full\""
+      "player": "Shane Smith",
+      "team": "Gankin Zone",
+      "price": 2
     },
     {
-      "player": "Mitch",
-      "team": "Keller",
-      "price": 24,
-      "pos": "\"Schlittlers full\""
+      "player": "Braxton Ashcraft",
+      "team": "Gankin Zone",
+      "price": 2
     },
     {
-      "player": "Michael",
-      "team": "King",
-      "price": 34,
-      "pos": "\"Schlittlers full\""
+      "player": "Shohei Ohtani",
+      "team": "Mortytown",
+      "price": 61
     },
     {
-      "player": "Ronald",
-      "team": "\"Acuna Jr\"",
-      "price": 36,
-      "pos": "\"Schlittlers full\""
+      "player": "Aaron Judge",
+      "team": "Mortytown",
+      "price": 49
     },
     {
-      "player": "Sal",
-      "team": "Stewart",
-      "price": 1,
-      "pos": "\"Ultimate Price\""
+      "player": "Hunter Greene",
+      "team": "Mortytown",
+      "price": 15
     },
     {
-      "player": "Cade",
-      "team": "Cavalli",
-      "price": 1,
-      "pos": "\"Ultimate Price\""
+      "player": "Ryan Helsley",
+      "team": "Mortytown",
+      "price": 15
     },
     {
-      "player": "Kyle",
-      "team": "Leahy",
-      "price": 2,
-      "pos": "\"Ultimate Price\""
+      "player": "Brenton Doyle",
+      "team": "Mortytown",
+      "price": 10
     },
     {
-      "player": "JoJo",
-      "team": "Romero",
-      "price": 2,
-      "pos": "\"Ultimate Price\""
+      "player": "Shea Langeliers",
+      "team": "Mortytown",
+      "price": 5
     },
     {
-      "player": "Landen",
-      "team": "Roupp",
-      "price": 2,
-      "pos": "\"Ultimate Price\""
+      "player": "Masyn Winn",
+      "team": "Mortytown",
+      "price": 5
     },
     {
-      "player": "Gage",
-      "team": "Jump",
-      "price": 2,
-      "pos": "\"Ultimate Price\""
+      "player": "Jackson Holliday",
+      "team": "Mortytown",
+      "price": 2
     },
     {
-      "player": "Hunter",
-      "team": "Goodman",
-      "price": 2,
-      "pos": "\"Ultimate Price\""
+      "player": "Chase Burns",
+      "team": "Mortytown",
+      "price": 2
     },
     {
-      "player": "Alec",
-      "team": "Burleson",
-      "price": 3,
-      "pos": "\"Ultimate Price\""
+      "player": "Hyeseong Kim",
+      "team": "Mortytown",
+      "price": 2
     },
     {
-      "player": "Michael",
-      "team": "Busch",
-      "price": 5,
-      "pos": "\"Ultimate Price\""
+      "player": "Cristian Javier",
+      "team": "Mortytown",
+      "price": 2
     },
     {
-      "player": "Drew",
-      "team": "Rasmussen",
-      "price": 5,
-      "pos": "\"Ultimate Price\""
+      "player": "Caleb Durbin",
+      "team": "Mortytown",
+      "price": 2
     },
     {
-      "player": "Brayan",
-      "team": "Bello",
-      "price": 10,
-      "pos": "\"Ultimate Price\""
+      "player": "Nolan McLean",
+      "team": "Mortytown",
+      "price": 1
     },
     {
-      "player": "Tanner",
-      "team": "Bibee",
-      "price": 10,
-      "pos": "\"Ultimate Price\""
+      "player": "Tarik Skubal",
+      "team": "Aces high",
+      "price": 39
     },
     {
-      "player": "Seth",
-      "team": "Lugo",
-      "price": 11,
-      "pos": "\"Ultimate Price\""
+      "player": "Jeremy Pena",
+      "team": "Aces high",
+      "price": 15
     },
     {
-      "player": "Jackson",
-      "team": "Chourio",
-      "price": 17,
-      "pos": "\"Ultimate Price\""
+      "player": "Josh Naylor",
+      "team": "Aces high",
+      "price": 15
     },
     {
-      "player": "Shane",
-      "team": "Bieber",
-      "price": 17,
-      "pos": "\"Ultimate Price\""
+      "player": "Willy Adames",
+      "team": "Aces high",
+      "price": 10
     },
     {
-      "player": "George",
-      "team": "Kirby",
-      "price": 20,
-      "pos": "\"Ultimate Price\""
+      "player": "Luis Garcia",
+      "team": "Aces high",
+      "price": 5
     },
     {
-      "player": "Bobby",
-      "team": "\"Witt Jr\"",
-      "price": 29,
-      "pos": "\"Ultimate Price\""
+      "player": "Tyler Glasnow",
+      "team": "Moneyball Mart",
+      "price": 41
     },
     {
-      "player": "Ketel",
-      "team": "Marte",
-      "price": 30,
-      "pos": "\"Ultimate Price\""
+      "player": "Michael Harris II",
+      "team": "Moneyball Mart",
+      "price": 15
     },
     {
-      "player": "Kyle",
-      "team": "Schwarber",
-      "price": 31,
-      "pos": "\"Ultimate Price\""
+      "player": "Ezequiel Tovar",
+      "team": "Moneyball Mart",
+      "price": 15
     },
     {
-      "player": "Jose",
-      "team": "Ramirez",
-      "price": 42,
-      "pos": "\"Ultimate Price\""
+      "player": "Gavin Williams",
+      "team": "Moneyball Mart",
+      "price": 10
     },
     {
-      "player": "Sean",
-      "team": "Burke",
-      "price": 2,
-      "pos": "\"Tennessee Jeds\""
+      "player": "Taylor Ward",
+      "team": "Moneyball Mart",
+      "price": 9
     },
     {
-      "player": "Matthew",
-      "team": "Liberatore",
-      "price": 2,
-      "pos": "\"Tennessee Jeds\""
+      "player": "Francisco Alvarez",
+      "team": "Moneyball Mart",
+      "price": 6
     },
     {
-      "player": "Brandon",
-      "team": "Lowe",
-      "price": 7,
-      "pos": "\"Tennessee Jeds\""
+      "player": "David Peterson",
+      "team": "Moneyball Mart",
+      "price": 5
     },
     {
-      "player": "Kenley",
-      "team": "Jansen",
-      "price": 7,
-      "pos": "\"Tennessee Jeds\""
+      "player": "Nolan Schanuel",
+      "team": "Moneyball Mart",
+      "price": 5
     },
     {
-      "player": "Byron",
-      "team": "Buxton",
-      "price": 8,
-      "pos": "\"Tennessee Jeds\""
+      "player": "Brandon Sproat",
+      "team": "Moneyball Mart",
+      "price": 3
     },
     {
-      "player": "Brandon",
-      "team": "Pfaadt",
-      "price": 10,
-      "pos": "\"Tennessee Jeds\""
+      "player": "Jack Leiter",
+      "team": "Moneyball Mart",
+      "price": 2
     },
     {
-      "player": "Michael",
-      "team": "Wacha",
-      "price": 15,
-      "pos": "\"Tennessee Jeds\""
+      "player": "Luis Pena",
+      "team": "Moneyball Mart",
+      "price": 2
     },
     {
-      "player": "Isaac",
-      "team": "Paredes",
-      "price": 16,
-      "pos": "\"Tennessee Jeds\""
+      "player": "Jackson Jobe",
+      "team": "Moneyball Mart",
+      "price": 2
     },
     {
-      "player": "James",
-      "team": "Wood",
-      "price": 18,
-      "pos": "\"Tennessee Jeds\""
+      "player": "Jorge Polanco",
+      "team": "Moneyball Mart",
+      "price": 2
     },
     {
-      "player": "Josh",
-      "team": "Hader",
-      "price": 26,
-      "pos": "\"Tennessee Jeds\""
+      "player": "Brooks Lee",
+      "team": "Moneyball Mart",
+      "price": 2
     },
     {
-      "player": "Freddy",
-      "team": "Peralta",
-      "price": 32,
-      "pos": "\"Tennessee Jeds\""
+      "player": "Chandler Simpson",
+      "team": "Moneyball Mart",
+      "price": 2
     },
     {
-      "player": "Zack",
-      "team": "Wheeler",
-      "price": 39,
-      "pos": "\"Tennessee Jeds\""
+      "player": "Cade Horton",
+      "team": "Moneyball Mart",
+      "price": 2
     },
     {
-      "player": "\"First Name\"",
-      "team": "\"Last Name\"",
-      "price": 0,
-      "pos": "\"Team Name\""
+      "player": "Joswa Lugo",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Abimelec Ortiz",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Josue Briceno",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Tre Morgan",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Travis Bazzana",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Konnor Griffin",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Jonny Farmelo",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Luis Perales",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Jurrangelo Cijntje",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Josuar Gonzalez",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Braylon Doughty",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Kendry Rojas",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Cooper Ingle",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Dasan Hill",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Winston Santos",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Kevin Alvarez",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Jesus Made",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Josh Rojas",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Carson Williams",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Luis Morales",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Carter Jensen",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "Connor Norby",
+      "team": "Minors 1",
+      "price": 0
+    },
+    {
+      "player": "George Klassen",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Jacob Melton",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Brice Matthews",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Chase DeLauter",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Kohl Drake",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Alex Freeland",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Jared Thomas",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Alex Clemmey",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Dylan Beavers",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Moises Ballesteros",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Jaison Chourio",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Luke Dickerson",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Hagen Smith",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Slade Caldwell",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Bishop Letson",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Sebastian Walcott",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Deyvison De Los Santos",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Daniel Espino",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Thomas Saggese",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Orelvis Martinez",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Eduardo Tait",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Chase Hampton",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Ryan Johnson",
+      "team": "Minors 2",
+      "price": 0
+    },
+    {
+      "player": "Tommy Troy",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Travis Sykora",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Carson Benge",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Chase Meidroth",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Ricky Tiedemann",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Cam Smith",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Cam Collier",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Ben Hess",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "David Shields",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Noah Schultz",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Jett Williams",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Jeferson Quero",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Marcelo Mayer",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Jonathan Santucci",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Braden Montgomery",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Thomas White",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "James Tibbs",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Ethan Salas",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Josue De Paula",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Max Clark",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Xavier Isaac",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Tink Hence",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Aidan Miller",
+      "team": "Minors 3",
+      "price": 0
+    },
+    {
+      "player": "Bryce Rainer",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Zyhir Hope",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Parker Messick",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "George Wolkow",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Emil Morales",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Grant Taylor",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "AJ Smith-Shawver",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Felnin Celesten",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Jordan Lawlar",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Anderson Brito",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Michael Arroyo",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Payton Tolle",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Boston Bateman",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Jarlin Susana",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Levi Sterling",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Ian Seymour",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Charlie Condon",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Spencer Jones",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Noah Cameron",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Robert Calaz",
+      "team": "Minors 4",
+      "price": 0
+    },
+    {
+      "player": "Alejandro Osuna",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Harry Ford",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Bryce Cunningham",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Tai Peete",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Cole Carrigg",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Drew Beam",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Cristhian Vaquero",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Cooper Pratt",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Ryan Waldschmidt",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Lazaro Montes",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Eduardo Quintero",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Kevin McGonigle",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Ben Joyce",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Cole Young",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Colby Thomas",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Max Meyer",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Andrew Painter",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Jonah Tong",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Franklin Arias",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Emmanuel Rodriguez",
+      "team": "Minors 5",
+      "price": 0
+    },
+    {
+      "player": "Brayan Rocchio",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Robby Snelling",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Chris Cortez",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Gabriel Gonzalez",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "CJ Kayfus",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Starlyn Caba",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Christian Moore",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Seaver King",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Tommy White",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "PJ Morlando",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Termarr Johnson",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "George Lombard Jr.",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Alejandro Rosario",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "River Ryan",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Owen Murphy",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Arjun Nimmala",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Kaelen Culpepper",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Demetrio Crisantes",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Theo Gillen",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Ryan Clifford",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Brody Hopkins",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Cam Caminiti",
+      "team": "Minors 6",
+      "price": 0
+    },
+    {
+      "player": "Jack Perkins",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "Bryce Eldridge",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "Kyle Teel",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "Leodalis De Vries",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "JJ Wetherholt",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "Hunter Barco",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "Colt Emerson",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "Dalton Rushing",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "J.R. Ritchie",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "Santiago Suarez",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "Angel Genao",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "Ralphy Velazquez",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "Trevor Harrison",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "Samuel Basallo",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "Kash Mayfield",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "Ryan Sloan",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "Robert Gasser",
+      "team": "Minors 7",
+      "price": 0
+    },
+    {
+      "player": "Charlee Soto",
+      "team": "Minors 7",
+      "price": 0
     }
   ]
 }
