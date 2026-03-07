@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-07T15:58:59.949575+00:00",
+  "fetchedAt": "2026-03-07T16:53:38.869953+00:00",
   "draftStatus": "drafting",
   "completedTotal": 403,
   "active": [],
@@ -18,7 +18,7 @@
     },
     {
       "name": "Schlittlers full",
-      "moneyLeft": 72,
+      "moneyLeft": 79,
       "spent": 145,
       "won": 14
     },
@@ -42,13 +42,13 @@
     },
     {
       "name": "Mcgrumpyd",
-      "moneyLeft": 34,
+      "moneyLeft": 32,
       "spent": 194,
       "won": 16
     },
     {
       "name": "Trot Nixon",
-      "moneyLeft": 80,
+      "moneyLeft": 63,
       "spent": 147,
       "won": 13
     },
@@ -60,7 +60,7 @@
     },
     {
       "name": "Logjammers",
-      "moneyLeft": 78,
+      "moneyLeft": 62,
       "spent": 177,
       "won": 13
     },
@@ -84,13 +84,13 @@
     },
     {
       "name": "PTP",
-      "moneyLeft": 76,
+      "moneyLeft": 68,
       "spent": 77,
       "won": 10
     },
     {
       "name": "Gankin Zone",
-      "moneyLeft": 29,
+      "moneyLeft": 46,
       "spent": 203,
       "won": 17
     },
@@ -108,7 +108,7 @@
     },
     {
       "name": "Moneyball Mart",
-      "moneyLeft": 93,
+      "moneyLeft": 76,
       "spent": 123,
       "won": 16
     },
