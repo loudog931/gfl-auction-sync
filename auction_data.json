@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-07T23:41:02.135799+00:00",
+  "fetchedAt": "2026-03-07T23:57:02.715895+00:00",
   "draftStatus": "drafting",
   "completedTotal": 404,
   "active": [],
@@ -18,7 +18,7 @@
     },
     {
       "name": "Schlittlers full",
-      "moneyLeft": 35,
+      "moneyLeft": 31,
       "spent": 145,
       "won": 14
     },
