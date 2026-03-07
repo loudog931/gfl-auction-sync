@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-03-07T18:59:35.921954+00:00",
+  "fetchedAt": "2026-03-07T19:40:45.884979+00:00",
   "draftStatus": "drafting",
   "completedTotal": 404,
   "active": [],
   "teams": [
     {
       "name": "Tennessee Jeds",
-      "moneyLeft": 57,
+      "moneyLeft": 59,
       "spent": 182,
       "won": 12
     },
@@ -18,13 +18,13 @@
     },
     {
       "name": "Schlittlers full",
-      "moneyLeft": 50,
+      "moneyLeft": 49,
       "spent": 145,
       "won": 14
     },
     {
       "name": "The Other Guys",
-      "moneyLeft": 87,
+      "moneyLeft": 88,
       "spent": 172,
       "won": 16
     },
@@ -48,7 +48,7 @@
     },
     {
       "name": "Trot Nixon",
-      "moneyLeft": 67,
+      "moneyLeft": 65,
       "spent": 147,
       "won": 13
     },
@@ -60,7 +60,7 @@
     },
     {
       "name": "Logjammers",
-      "moneyLeft": 62,
+      "moneyLeft": 57,
       "spent": 177,
       "won": 13
     },
@@ -72,7 +72,7 @@
     },
     {
       "name": "Enkidu",
-      "moneyLeft": 29,
+      "moneyLeft": 22,
       "spent": 215,
       "won": 19
     },
@@ -84,19 +84,19 @@
     },
     {
       "name": "PTP",
-      "moneyLeft": 62,
+      "moneyLeft": 54,
       "spent": 77,
       "won": 10
     },
     {
       "name": "Gankin Zone",
-      "moneyLeft": 42,
+      "moneyLeft": 55,
       "spent": 203,
       "won": 17
     },
     {
       "name": "Mortytown",
-      "moneyLeft": 68,
+      "moneyLeft": 44,
       "spent": 171,
       "won": 13
     },
