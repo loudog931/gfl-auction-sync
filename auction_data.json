@@ -1,12 +1,12 @@
 {
-  "fetchedAt": "2026-03-07T22:49:59.695406+00:00",
+  "fetchedAt": "2026-03-07T23:41:02.135799+00:00",
   "draftStatus": "drafting",
   "completedTotal": 404,
   "active": [],
   "teams": [
     {
       "name": "Tennessee Jeds",
-      "moneyLeft": 53,
+      "moneyLeft": 56,
       "spent": 182,
       "won": 12
     },
@@ -18,7 +18,7 @@
     },
     {
       "name": "Schlittlers full",
-      "moneyLeft": 43,
+      "moneyLeft": 35,
       "spent": 145,
       "won": 14
     },
@@ -48,7 +48,7 @@
     },
     {
       "name": "Trot Nixon",
-      "moneyLeft": 90,
+      "moneyLeft": 73,
       "spent": 147,
       "won": 13
     },
@@ -66,49 +66,49 @@
     },
     {
       "name": "Silver Panthers",
-      "moneyLeft": 47,
+      "moneyLeft": 19,
       "spent": 151,
       "won": 14
     },
     {
       "name": "Enkidu",
-      "moneyLeft": 22,
+      "moneyLeft": 16,
       "spent": 215,
       "won": 19
     },
     {
       "name": "Chaos In Tejas (GFL)",
-      "moneyLeft": 186,
+      "moneyLeft": 98,
       "spent": 74,
       "won": 15
     },
     {
       "name": "PTP",
-      "moneyLeft": 132,
+      "moneyLeft": 162,
       "spent": 77,
       "won": 10
     },
     {
       "name": "Gankin Zone",
-      "moneyLeft": 8,
+      "moneyLeft": 9,
       "spent": 203,
       "won": 17
     },
     {
       "name": "Mortytown",
-      "moneyLeft": 41,
+      "moneyLeft": 21,
       "spent": 171,
       "won": 13
     },
     {
       "name": "Aces high",
-      "moneyLeft": 30,
+      "moneyLeft": 132,
       "spent": 84,
       "won": 5
     },
     {
       "name": "Moneyball Mart",
-      "moneyLeft": 92,
+      "moneyLeft": 88,
       "spent": 123,
       "won": 16
     },
