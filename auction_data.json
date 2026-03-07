@@ -1,18 +1,18 @@
 {
-  "fetchedAt": "2026-03-07T20:49:40.570989+00:00",
+  "fetchedAt": "2026-03-07T21:39:08.128105+00:00",
   "draftStatus": "drafting",
   "completedTotal": 404,
   "active": [],
   "teams": [
     {
       "name": "Tennessee Jeds",
-      "moneyLeft": 47,
+      "moneyLeft": 55,
       "spent": 182,
       "won": 12
     },
     {
       "name": "Ultimate Price",
-      "moneyLeft": 6,
+      "moneyLeft": 11,
       "spent": 242,
       "won": 20
     },
@@ -42,7 +42,7 @@
     },
     {
       "name": "Mcgrumpyd",
-      "moneyLeft": 26,
+      "moneyLeft": 17,
       "spent": 194,
       "won": 16
     },
@@ -54,7 +54,7 @@
     },
     {
       "name": "RollingQuintanas",
-      "moneyLeft": 95,
+      "moneyLeft": 106,
       "spent": 154,
       "won": 15
     },
@@ -66,7 +66,7 @@
     },
     {
       "name": "Silver Panthers",
-      "moneyLeft": 48,
+      "moneyLeft": 26,
       "spent": 151,
       "won": 14
     },
@@ -84,31 +84,31 @@
     },
     {
       "name": "PTP",
-      "moneyLeft": 53,
+      "moneyLeft": 132,
       "spent": 77,
       "won": 10
     },
     {
       "name": "Gankin Zone",
-      "moneyLeft": 52,
+      "moneyLeft": 42,
       "spent": 203,
       "won": 17
     },
     {
       "name": "Mortytown",
-      "moneyLeft": 34,
+      "moneyLeft": 44,
       "spent": 171,
       "won": 13
     },
     {
       "name": "Aces high",
-      "moneyLeft": 175,
+      "moneyLeft": 16,
       "spent": 84,
       "won": 5
     },
     {
       "name": "Moneyball Mart",
-      "moneyLeft": 103,
+      "moneyLeft": 101,
       "spent": 123,
       "won": 16
     },
