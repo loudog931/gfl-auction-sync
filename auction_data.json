@@ -1,30 +1,30 @@
 {
-  "fetchedAt": "2026-03-07T21:53:52.064516+00:00",
+  "fetchedAt": "2026-03-07T22:49:59.695406+00:00",
   "draftStatus": "drafting",
   "completedTotal": 404,
   "active": [],
   "teams": [
     {
       "name": "Tennessee Jeds",
-      "moneyLeft": 55,
+      "moneyLeft": 53,
       "spent": 182,
       "won": 12
     },
     {
       "name": "Ultimate Price",
-      "moneyLeft": 11,
+      "moneyLeft": 3,
       "spent": 242,
       "won": 20
     },
     {
       "name": "Schlittlers full",
-      "moneyLeft": 49,
+      "moneyLeft": 43,
       "spent": 145,
       "won": 14
     },
     {
       "name": "The Other Guys",
-      "moneyLeft": 88,
+      "moneyLeft": 86,
       "spent": 172,
       "won": 16
     },
@@ -42,7 +42,7 @@
     },
     {
       "name": "Mcgrumpyd",
-      "moneyLeft": 17,
+      "moneyLeft": 19,
       "spent": 194,
       "won": 16
     },
@@ -66,7 +66,7 @@
     },
     {
       "name": "Silver Panthers",
-      "moneyLeft": 26,
+      "moneyLeft": 47,
       "spent": 151,
       "won": 14
     },
@@ -78,7 +78,7 @@
     },
     {
       "name": "Chaos In Tejas (GFL)",
-      "moneyLeft": 185,
+      "moneyLeft": 186,
       "spent": 74,
       "won": 15
     },
@@ -90,25 +90,25 @@
     },
     {
       "name": "Gankin Zone",
-      "moneyLeft": 35,
+      "moneyLeft": 8,
       "spent": 203,
       "won": 17
     },
     {
       "name": "Mortytown",
-      "moneyLeft": 44,
+      "moneyLeft": 41,
       "spent": 171,
       "won": 13
     },
     {
       "name": "Aces high",
-      "moneyLeft": 22,
+      "moneyLeft": 30,
       "spent": 84,
       "won": 5
     },
     {
       "name": "Moneyball Mart",
-      "moneyLeft": 101,
+      "moneyLeft": 92,
       "spent": 123,
       "won": 16
     },
