@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-08T05:00:39.171638+00:00",
+  "fetchedAt": "2026-03-08T07:09:06.438787+00:00",
   "draftStatus": "paused",
   "completedTotal": 408,
   "active": [],
@@ -30,7 +30,7 @@
     },
     {
       "name": "Stilettos",
-      "moneyLeft": 98,
+      "moneyLeft": 102,
       "spent": 104,
       "won": 9
     },
@@ -60,13 +60,13 @@
     },
     {
       "name": "Logjammers",
-      "moneyLeft": 56,
+      "moneyLeft": 51,
       "spent": 177,
       "won": 13
     },
     {
       "name": "Silver Panthers",
-      "moneyLeft": 52,
+      "moneyLeft": 86,
       "spent": 174,
       "won": 15
     },
@@ -78,7 +78,7 @@
     },
     {
       "name": "Chaos In Tejas (GFL)",
-      "moneyLeft": 124,
+      "moneyLeft": 88,
       "spent": 74,
       "won": 15
     },
@@ -90,7 +90,7 @@
     },
     {
       "name": "Gankin Zone",
-      "moneyLeft": 39,
+      "moneyLeft": 36,
       "spent": 203,
       "won": 17
     },
