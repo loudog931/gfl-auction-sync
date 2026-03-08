@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-08T20:53:44.316903+00:00",
+  "fetchedAt": "2026-03-08T21:45:03.793564+00:00",
   "draftStatus": "drafting",
   "completedTotal": 436,
   "active": [
@@ -8,336 +8,356 @@
       "name": "",
       "currentBid": 17,
       "bidder": "Mortytown",
-      "timeDisplay": "1:32:11",
-      "minutesLeft": 92,
-      "secondsLeft": 11,
-      "totalSeconds": 5531
+      "timeDisplay": "40:51",
+      "minutesLeft": 40,
+      "secondsLeft": 51,
+      "totalSeconds": 2451
     },
     {
       "playerId": "845",
       "name": "",
       "currentBid": 29,
       "bidder": "RollingQuintanas",
-      "timeDisplay": "1:39:17",
-      "minutesLeft": 99,
-      "secondsLeft": 17,
-      "totalSeconds": 5957
-    },
-    {
-      "playerId": "67",
-      "name": "",
-      "currentBid": 17,
-      "bidder": "Aces high",
-      "timeDisplay": "1:59:12",
-      "minutesLeft": 119,
-      "secondsLeft": 12,
-      "totalSeconds": 7152
-    },
-    {
-      "playerId": "128",
-      "name": "",
-      "currentBid": 16,
-      "bidder": "PTP",
-      "timeDisplay": "3:16:58",
-      "minutesLeft": 196,
-      "secondsLeft": 58,
-      "totalSeconds": 11818
+      "timeDisplay": "47:57",
+      "minutesLeft": 47,
+      "secondsLeft": 57,
+      "totalSeconds": 2877
     },
     {
       "playerId": "307",
       "name": "",
       "currentBid": 16,
       "bidder": "PTP",
-      "timeDisplay": "3:17:11",
-      "minutesLeft": 197,
-      "secondsLeft": 11,
-      "totalSeconds": 11831
+      "timeDisplay": "2:25:51",
+      "minutesLeft": 145,
+      "secondsLeft": 51,
+      "totalSeconds": 8751
     },
     {
       "playerId": "71",
       "name": "",
       "currentBid": 5,
       "bidder": "Tennessee Jeds",
-      "timeDisplay": "3:24:25",
-      "minutesLeft": 204,
-      "secondsLeft": 25,
-      "totalSeconds": 12265
+      "timeDisplay": "2:33:05",
+      "minutesLeft": 153,
+      "secondsLeft": 5,
+      "totalSeconds": 9185
     },
     {
       "playerId": "741",
       "name": "",
       "currentBid": 14,
       "bidder": "Trot Nixon",
-      "timeDisplay": "4:06:10",
-      "minutesLeft": 246,
-      "secondsLeft": 10,
-      "totalSeconds": 14770
+      "timeDisplay": "3:14:50",
+      "minutesLeft": 194,
+      "secondsLeft": 50,
+      "totalSeconds": 11690
     },
     {
       "playerId": "1881",
       "name": "",
       "currentBid": 13,
       "bidder": "Moneyball Mart",
-      "timeDisplay": "4:28:17",
-      "minutesLeft": 268,
-      "secondsLeft": 17,
-      "totalSeconds": 16097
+      "timeDisplay": "3:36:57",
+      "minutesLeft": 216,
+      "secondsLeft": 57,
+      "totalSeconds": 13017
     },
     {
       "playerId": "85",
       "name": "",
       "currentBid": 16,
       "bidder": "Gankin Zone",
-      "timeDisplay": "4:31:22",
-      "minutesLeft": 271,
-      "secondsLeft": 22,
-      "totalSeconds": 16282
+      "timeDisplay": "3:40:02",
+      "minutesLeft": 220,
+      "secondsLeft": 2,
+      "totalSeconds": 13202
     },
     {
       "playerId": "1879",
       "name": "",
       "currentBid": 15,
       "bidder": "Moneyball Mart",
-      "timeDisplay": "4:55:41",
-      "minutesLeft": 295,
-      "secondsLeft": 41,
-      "totalSeconds": 17741
-    },
-    {
-      "playerId": "730",
-      "name": "",
-      "currentBid": 12,
-      "bidder": "The Other Guys",
-      "timeDisplay": "4:56:46",
-      "minutesLeft": 296,
-      "secondsLeft": 46,
-      "totalSeconds": 17806
+      "timeDisplay": "4:04:21",
+      "minutesLeft": 244,
+      "secondsLeft": 21,
+      "totalSeconds": 14661
     },
     {
       "playerId": "1038",
       "name": "",
       "currentBid": 23,
       "bidder": "Chaos In Tejas (GFL)",
-      "timeDisplay": "5:09:28",
-      "minutesLeft": 309,
-      "secondsLeft": 28,
-      "totalSeconds": 18568
+      "timeDisplay": "4:18:08",
+      "minutesLeft": 258,
+      "secondsLeft": 8,
+      "totalSeconds": 15488
     },
     {
       "playerId": "150",
       "name": "",
       "currentBid": 7,
       "bidder": "Schlittlers full",
-      "timeDisplay": "5:30:33",
-      "minutesLeft": 330,
-      "secondsLeft": 33,
-      "totalSeconds": 19833
+      "timeDisplay": "4:39:13",
+      "minutesLeft": 279,
+      "secondsLeft": 13,
+      "totalSeconds": 16753
     },
     {
       "playerId": "773",
       "name": "",
       "currentBid": 15,
       "bidder": "Mortytown",
-      "timeDisplay": "5:41:05",
-      "minutesLeft": 341,
-      "secondsLeft": 5,
-      "totalSeconds": 20465
+      "timeDisplay": "4:49:45",
+      "minutesLeft": 289,
+      "secondsLeft": 45,
+      "totalSeconds": 17385
     },
     {
       "playerId": "823",
       "name": "",
       "currentBid": 2,
       "bidder": "Gankin Zone",
-      "timeDisplay": "5:49:19",
-      "minutesLeft": 349,
-      "secondsLeft": 19,
-      "totalSeconds": 20959
+      "timeDisplay": "4:57:59",
+      "minutesLeft": 297,
+      "secondsLeft": 59,
+      "totalSeconds": 17879
     },
     {
       "playerId": "710",
       "name": "",
       "currentBid": 16,
       "bidder": "The Other Guys",
-      "timeDisplay": "5:49:41",
-      "minutesLeft": 349,
-      "secondsLeft": 41,
-      "totalSeconds": 20981
+      "timeDisplay": "4:58:21",
+      "minutesLeft": 298,
+      "secondsLeft": 21,
+      "totalSeconds": 17901
     },
     {
       "playerId": "854",
       "name": "",
       "currentBid": 2,
       "bidder": "Trot Nixon",
-      "timeDisplay": "5:49:57",
-      "minutesLeft": 349,
-      "secondsLeft": 57,
-      "totalSeconds": 20997
-    },
-    {
-      "playerId": "118",
-      "name": "",
-      "currentBid": 2,
-      "bidder": "Trot Nixon",
-      "timeDisplay": "5:51:18",
-      "minutesLeft": 351,
-      "secondsLeft": 18,
-      "totalSeconds": 21078
+      "timeDisplay": "4:58:37",
+      "minutesLeft": 298,
+      "secondsLeft": 37,
+      "totalSeconds": 17917
     },
     {
       "playerId": "757",
       "name": "",
       "currentBid": 7,
       "bidder": "Tennessee Jeds",
-      "timeDisplay": "5:52:54",
-      "minutesLeft": 352,
-      "secondsLeft": 54,
-      "totalSeconds": 21174
+      "timeDisplay": "5:01:34",
+      "minutesLeft": 301,
+      "secondsLeft": 34,
+      "totalSeconds": 18094
     },
     {
       "playerId": "765",
       "name": "",
-      "currentBid": 13,
+      "currentBid": 14,
       "bidder": "Chaos In Tejas (GFL)",
-      "timeDisplay": "5:55:36",
-      "minutesLeft": 355,
-      "secondsLeft": 36,
-      "totalSeconds": 21336
+      "timeDisplay": "5:04:16",
+      "minutesLeft": 304,
+      "secondsLeft": 16,
+      "totalSeconds": 18256
     },
     {
       "playerId": "756",
       "name": "",
       "currentBid": 17,
       "bidder": "Moneyball Mart",
-      "timeDisplay": "5:55:53",
-      "minutesLeft": 355,
+      "timeDisplay": "5:04:33",
+      "minutesLeft": 304,
+      "secondsLeft": 33,
+      "totalSeconds": 18273
+    },
+    {
+      "playerId": "730",
+      "name": "",
+      "currentBid": 13,
+      "bidder": "Tennessee Jeds",
+      "timeDisplay": "5:18:53",
+      "minutesLeft": 318,
       "secondsLeft": 53,
-      "totalSeconds": 21353
+      "totalSeconds": 19133
+    },
+    {
+      "playerId": "128",
+      "name": "",
+      "currentBid": 17,
+      "bidder": "Trot Nixon",
+      "timeDisplay": "5:30:30",
+      "minutesLeft": 330,
+      "secondsLeft": 30,
+      "totalSeconds": 19830
+    },
+    {
+      "playerId": "118",
+      "name": "",
+      "currentBid": 4,
+      "bidder": "Trot Nixon",
+      "timeDisplay": "5:34:45",
+      "minutesLeft": 334,
+      "secondsLeft": 45,
+      "totalSeconds": 20085
     },
     {
       "playerId": "688",
       "name": "",
       "currentBid": 21,
       "bidder": "PTP",
-      "timeDisplay": "6:28:57",
-      "minutesLeft": 388,
-      "secondsLeft": 57,
-      "totalSeconds": 23337
+      "timeDisplay": "5:37:37",
+      "minutesLeft": 337,
+      "secondsLeft": 37,
+      "totalSeconds": 20257
+    },
+    {
+      "playerId": "67",
+      "name": "",
+      "currentBid": 18,
+      "bidder": "RollingQuintanas",
+      "timeDisplay": "5:52:20",
+      "minutesLeft": 352,
+      "secondsLeft": 20,
+      "totalSeconds": 21140
     },
     {
       "playerId": "239",
       "name": "",
       "currentBid": 16,
       "bidder": "The Other Guys",
-      "timeDisplay": "7:05:38",
-      "minutesLeft": 425,
-      "secondsLeft": 38,
-      "totalSeconds": 25538
+      "timeDisplay": "6:14:18",
+      "minutesLeft": 374,
+      "secondsLeft": 18,
+      "totalSeconds": 22458
     },
     {
       "playerId": "2013",
       "name": "",
       "currentBid": 24,
       "bidder": "Chaos In Tejas (GFL)",
-      "timeDisplay": "7:19:02",
-      "minutesLeft": 439,
-      "secondsLeft": 2,
-      "totalSeconds": 26342
+      "timeDisplay": "6:27:42",
+      "minutesLeft": 387,
+      "secondsLeft": 42,
+      "totalSeconds": 23262
     },
     {
       "playerId": "755",
       "name": "",
       "currentBid": 3,
       "bidder": "RollingQuintanas",
-      "timeDisplay": "7:23:27",
-      "minutesLeft": 443,
-      "secondsLeft": 27,
-      "totalSeconds": 26607
+      "timeDisplay": "6:32:07",
+      "minutesLeft": 392,
+      "secondsLeft": 7,
+      "totalSeconds": 23527
     },
     {
       "playerId": "114",
       "name": "",
       "currentBid": 2,
       "bidder": "Tennessee Jeds",
-      "timeDisplay": "7:23:33",
-      "minutesLeft": 443,
-      "secondsLeft": 33,
-      "totalSeconds": 26613
+      "timeDisplay": "6:32:13",
+      "minutesLeft": 392,
+      "secondsLeft": 13,
+      "totalSeconds": 23533
     },
     {
       "playerId": "133",
       "name": "",
       "currentBid": 2,
       "bidder": "Gankin Zone",
-      "timeDisplay": "7:23:47",
-      "minutesLeft": 443,
-      "secondsLeft": 47,
-      "totalSeconds": 26627
+      "timeDisplay": "6:32:27",
+      "minutesLeft": 392,
+      "secondsLeft": 27,
+      "totalSeconds": 23547
     },
     {
       "playerId": "158",
       "name": "",
       "currentBid": 1,
       "bidder": "Chaos In Tejas (GFL)",
-      "timeDisplay": "7:26:55",
-      "minutesLeft": 446,
-      "secondsLeft": 55,
-      "totalSeconds": 26815
+      "timeDisplay": "6:35:35",
+      "minutesLeft": 395,
+      "secondsLeft": 35,
+      "totalSeconds": 23735
     },
     {
       "playerId": "827",
       "name": "",
       "currentBid": 14,
       "bidder": "Chaos In Tejas (GFL)",
-      "timeDisplay": "7:27:17",
-      "minutesLeft": 447,
-      "secondsLeft": 17,
-      "totalSeconds": 26837
+      "timeDisplay": "6:35:57",
+      "minutesLeft": 395,
+      "secondsLeft": 57,
+      "totalSeconds": 23757
     },
     {
       "playerId": "269",
       "name": "",
       "currentBid": 1,
       "bidder": "Logjammers",
-      "timeDisplay": "9:07:59",
-      "minutesLeft": 547,
-      "secondsLeft": 59,
-      "totalSeconds": 32879
+      "timeDisplay": "8:16:39",
+      "minutesLeft": 496,
+      "secondsLeft": 39,
+      "totalSeconds": 29799
     },
     {
       "playerId": "200",
       "name": "",
-      "currentBid": 4,
+      "currentBid": 7,
       "bidder": "Mortytown",
-      "timeDisplay": "9:13:27",
-      "minutesLeft": 553,
-      "secondsLeft": 27,
-      "totalSeconds": 33207
+      "timeDisplay": "8:22:07",
+      "minutesLeft": 502,
+      "secondsLeft": 7,
+      "totalSeconds": 30127
     },
     {
       "playerId": "135",
       "name": "",
       "currentBid": 1,
       "bidder": "Stilettos",
-      "timeDisplay": "9:14:12",
-      "minutesLeft": 554,
-      "secondsLeft": 12,
-      "totalSeconds": 33252
+      "timeDisplay": "8:22:52",
+      "minutesLeft": 502,
+      "secondsLeft": 52,
+      "totalSeconds": 30172
     },
     {
       "playerId": "110",
       "name": "",
       "currentBid": 1,
       "bidder": "PTP",
-      "timeDisplay": "10:55:14",
-      "minutesLeft": 655,
-      "secondsLeft": 14,
-      "totalSeconds": 39314
+      "timeDisplay": "10:03:54",
+      "minutesLeft": 603,
+      "secondsLeft": 54,
+      "totalSeconds": 36234
+    },
+    {
+      "playerId": "737",
+      "name": "",
+      "currentBid": 1,
+      "bidder": "Schlittlers full",
+      "timeDisplay": "11:38:26",
+      "minutesLeft": 698,
+      "secondsLeft": 26,
+      "totalSeconds": 41906
+    },
+    {
+      "playerId": "80",
+      "name": "",
+      "currentBid": 1,
+      "bidder": "RollingQuintanas",
+      "timeDisplay": "11:53:15",
+      "minutesLeft": 713,
+      "secondsLeft": 15,
+      "totalSeconds": 42795
     }
   ],
   "teams": [
     {
       "name": "Tennessee Jeds",
-      "moneyLeft": 39,
+      "moneyLeft": 26,
       "spent": 207,
       "won": 13
     },
@@ -349,13 +369,13 @@
     },
     {
       "name": "Schlittlers full",
-      "moneyLeft": 12,
+      "moneyLeft": 11,
       "spent": 241,
       "won": 17
     },
     {
       "name": "The Other Guys",
-      "moneyLeft": 44,
+      "moneyLeft": 56,
       "spent": 172,
       "won": 16
     },
@@ -379,13 +399,13 @@
     },
     {
       "name": "Trot Nixon",
-      "moneyLeft": 46,
+      "moneyLeft": 27,
       "spent": 196,
       "won": 16
     },
     {
       "name": "RollingQuintanas",
-      "moneyLeft": 52,
+      "moneyLeft": 33,
       "spent": 176,
       "won": 16
     },
@@ -409,13 +429,13 @@
     },
     {
       "name": "Chaos In Tejas (GFL)",
-      "moneyLeft": 49,
+      "moneyLeft": 48,
       "spent": 136,
       "won": 17
     },
     {
       "name": "PTP",
-      "moneyLeft": 26,
+      "moneyLeft": 42,
       "spent": 180,
       "won": 12
     },
@@ -427,13 +447,13 @@
     },
     {
       "name": "Mortytown",
-      "moneyLeft": 16,
+      "moneyLeft": 13,
       "spent": 208,
       "won": 15
     },
     {
       "name": "Aces high",
-      "moneyLeft": 45,
+      "moneyLeft": 62,
       "spent": 198,
       "won": 11
     },
