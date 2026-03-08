@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-08T10:53:46.124733+00:00",
+  "fetchedAt": "2026-03-08T11:40:42.204870+00:00",
   "leagueId": "nkgdrcl4mi3kzyk6",
   "leagueName": "The Grapefruit League",
   "draftStatus": "pending",
@@ -265,6 +265,11 @@
         {
           "name": "",
           "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SS",
           "mlbTeam": ""
         },
         {
@@ -662,6 +667,11 @@
         },
         {
           "name": "",
+          "pos": "RP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SP",
           "mlbTeam": ""
         },
@@ -1054,6 +1064,11 @@
       "teamId": "ry4vxj76mi3kzyk8",
       "teamName": "Schlittlers full",
       "players": [
+        {
+          "name": "",
+          "pos": "1B",
+          "mlbTeam": ""
+        },
         {
           "name": "",
           "pos": "3B",
