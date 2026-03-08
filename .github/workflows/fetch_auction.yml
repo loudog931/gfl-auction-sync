@@ -30,15 +30,14 @@ jobs:
           git diff --cached --quiet || git commit -m "Update auction data [$(date -u '+%H:%M UTC')]"
           git push
 
-      - name: Deploy auction_data.json to Firebase Hosting
+- name: Deploy auction_data.json to Firebase Hosting
         run: |
           npm install -g firebase-tools
-          # Create a minimal firebase.json that only deploys auction_data.json
           cat > firebase_deploy.json << 'EOF'
           {
             "hosting": {
               "public": ".",
-              "ignore": ["firebase.json", ".gitignore", "*.py", "*.yml", "*.md", "fantrax_data.json"],
+              "ignore": ["firebase.json", ".gitignore", "*.py", "*.yml", "*.md", "fantrax_data.json", "*.html", "sw.js", "sync.py"],
               "headers": [
                 {
                   "source": "/auction_data.json",
