@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-08T14:52:20.990099+00:00",
+  "fetchedAt": "2026-03-08T15:44:01.123794+00:00",
   "draftStatus": "drafting",
   "completedTotal": 429,
   "active": [
@@ -7,265 +7,274 @@
       "playerId": "783",
       "currentBid": 10,
       "bidder": "Mortytown",
-      "timeDisplay": "57:09",
-      "minutesLeft": 57,
-      "secondsLeft": 9,
-      "totalSeconds": 3429
+      "timeDisplay": "05:29",
+      "minutesLeft": 5,
+      "secondsLeft": 29,
+      "totalSeconds": 329
     },
     {
       "playerId": "119",
       "currentBid": 22,
       "bidder": "RollingQuintanas",
-      "timeDisplay": "1:19:33",
-      "minutesLeft": 79,
-      "secondsLeft": 33,
-      "totalSeconds": 4773
-    },
-    {
-      "playerId": "741",
-      "currentBid": 9,
-      "bidder": "Trot Nixon",
-      "timeDisplay": "1:47:54",
-      "minutesLeft": 107,
-      "secondsLeft": 54,
-      "totalSeconds": 6474
+      "timeDisplay": "27:53",
+      "minutesLeft": 27,
+      "secondsLeft": 53,
+      "totalSeconds": 1673
     },
     {
       "playerId": "222",
       "currentBid": 5,
       "bidder": "Logjammers",
-      "timeDisplay": "2:07:42",
-      "minutesLeft": 127,
-      "secondsLeft": 42,
-      "totalSeconds": 7662
+      "timeDisplay": "1:16:02",
+      "minutesLeft": 76,
+      "secondsLeft": 2,
+      "totalSeconds": 4562
     },
     {
       "playerId": "845",
       "currentBid": 28,
       "bidder": "Aces high",
-      "timeDisplay": "2:28:27",
-      "minutesLeft": 148,
-      "secondsLeft": 27,
-      "totalSeconds": 8907
+      "timeDisplay": "1:36:47",
+      "minutesLeft": 96,
+      "secondsLeft": 47,
+      "totalSeconds": 5807
     },
     {
       "playerId": "1880",
       "currentBid": 38,
       "bidder": "Silver Panthers",
-      "timeDisplay": "3:22:16",
-      "minutesLeft": 202,
-      "secondsLeft": 16,
-      "totalSeconds": 12136
+      "timeDisplay": "2:30:36",
+      "minutesLeft": 150,
+      "secondsLeft": 36,
+      "totalSeconds": 9036
     },
     {
       "playerId": "150",
       "currentBid": 2,
       "bidder": "UAAT",
-      "timeDisplay": "5:19:50",
-      "minutesLeft": 319,
-      "secondsLeft": 50,
-      "totalSeconds": 19190
+      "timeDisplay": "4:28:10",
+      "minutesLeft": 268,
+      "secondsLeft": 10,
+      "totalSeconds": 16090
     },
     {
       "playerId": "67",
       "currentBid": 15,
       "bidder": "RollingQuintanas",
-      "timeDisplay": "5:27:47",
-      "minutesLeft": 327,
-      "secondsLeft": 47,
-      "totalSeconds": 19667
+      "timeDisplay": "4:36:07",
+      "minutesLeft": 276,
+      "secondsLeft": 7,
+      "totalSeconds": 16567
     },
     {
       "playerId": "35",
       "currentBid": 39,
       "bidder": "Schlittlers full",
-      "timeDisplay": "5:41:25",
-      "minutesLeft": 341,
-      "secondsLeft": 25,
-      "totalSeconds": 20485
+      "timeDisplay": "4:49:45",
+      "minutesLeft": 289,
+      "secondsLeft": 45,
+      "totalSeconds": 17385
     },
     {
       "playerId": "307",
       "currentBid": 12,
       "bidder": "The Other Guys",
-      "timeDisplay": "5:43:02",
-      "minutesLeft": 343,
-      "secondsLeft": 2,
-      "totalSeconds": 20582
+      "timeDisplay": "4:51:22",
+      "minutesLeft": 291,
+      "secondsLeft": 22,
+      "totalSeconds": 17482
     },
     {
       "playerId": "734",
-      "currentBid": 14,
+      "currentBid": 19,
       "bidder": "Moneyball Mart",
-      "timeDisplay": "5:49:33",
-      "minutesLeft": 349,
-      "secondsLeft": 33,
-      "totalSeconds": 20973
+      "timeDisplay": "4:57:53",
+      "minutesLeft": 297,
+      "secondsLeft": 53,
+      "totalSeconds": 17873
     },
     {
       "playerId": "103",
-      "currentBid": 16,
+      "currentBid": 21,
       "bidder": "Moneyball Mart",
-      "timeDisplay": "5:54:28",
-      "minutesLeft": 354,
-      "secondsLeft": 28,
-      "totalSeconds": 21268
-    },
-    {
-      "playerId": "128",
-      "currentBid": 13,
-      "bidder": "Trot Nixon",
-      "timeDisplay": "5:58:54",
-      "minutesLeft": 358,
-      "secondsLeft": 54,
-      "totalSeconds": 21534
+      "timeDisplay": "5:02:48",
+      "minutesLeft": 302,
+      "secondsLeft": 48,
+      "totalSeconds": 18168
     },
     {
       "playerId": "112",
-      "currentBid": 8,
+      "currentBid": 16,
       "bidder": "Ultimate Price",
-      "timeDisplay": "6:27:54",
-      "minutesLeft": 387,
+      "timeDisplay": "5:36:14",
+      "minutesLeft": 336,
+      "secondsLeft": 14,
+      "totalSeconds": 20174
+    },
+    {
+      "playerId": "128",
+      "currentBid": 14,
+      "bidder": "PTP",
+      "timeDisplay": "5:46:54",
+      "minutesLeft": 346,
       "secondsLeft": 54,
-      "totalSeconds": 23274
+      "totalSeconds": 20814
+    },
+    {
+      "playerId": "741",
+      "currentBid": 10,
+      "bidder": "Mortytown",
+      "timeDisplay": "5:51:52",
+      "minutesLeft": 351,
+      "secondsLeft": 52,
+      "totalSeconds": 21112
     },
     {
       "playerId": "71",
       "currentBid": 2,
       "bidder": "Tennessee Jeds",
-      "timeDisplay": "9:25:48",
-      "minutesLeft": 565,
-      "secondsLeft": 48,
-      "totalSeconds": 33948
+      "timeDisplay": "8:34:08",
+      "minutesLeft": 514,
+      "secondsLeft": 8,
+      "totalSeconds": 30848
     },
     {
       "playerId": "85",
-      "currentBid": 2,
+      "currentBid": 7,
       "bidder": "Enkidu",
-      "timeDisplay": "10:12:55",
-      "minutesLeft": 612,
-      "secondsLeft": 55,
-      "totalSeconds": 36775
+      "timeDisplay": "9:21:15",
+      "minutesLeft": 561,
+      "secondsLeft": 15,
+      "totalSeconds": 33675
     },
     {
       "playerId": "1881",
-      "currentBid": 7,
+      "currentBid": 13,
       "bidder": "Moneyball Mart",
-      "timeDisplay": "10:29:40",
-      "minutesLeft": 629,
-      "secondsLeft": 40,
-      "totalSeconds": 37780
+      "timeDisplay": "9:38:00",
+      "minutesLeft": 578,
+      "secondsLeft": 0,
+      "totalSeconds": 34680
     },
     {
       "playerId": "1879",
-      "currentBid": 7,
+      "currentBid": 15,
       "bidder": "Moneyball Mart",
-      "timeDisplay": "10:57:04",
-      "minutesLeft": 657,
-      "secondsLeft": 4,
-      "totalSeconds": 39424
+      "timeDisplay": "10:05:24",
+      "minutesLeft": 605,
+      "secondsLeft": 24,
+      "totalSeconds": 36324
     },
     {
       "playerId": "730",
       "currentBid": 10,
       "bidder": "Moneyball Mart",
-      "timeDisplay": "10:58:09",
-      "minutesLeft": 658,
-      "secondsLeft": 9,
-      "totalSeconds": 39489
+      "timeDisplay": "10:06:29",
+      "minutesLeft": 606,
+      "secondsLeft": 29,
+      "totalSeconds": 36389
     },
     {
       "playerId": "1038",
-      "currentBid": 2,
-      "bidder": "The Other Guys",
-      "timeDisplay": "11:10:51",
-      "minutesLeft": 670,
-      "secondsLeft": 51,
-      "totalSeconds": 40251
+      "currentBid": 3,
+      "bidder": "PTP",
+      "timeDisplay": "10:19:11",
+      "minutesLeft": 619,
+      "secondsLeft": 11,
+      "totalSeconds": 37151
     },
     {
       "playerId": "773",
-      "currentBid": 2,
+      "currentBid": 5,
       "bidder": "Mortytown",
-      "timeDisplay": "11:42:28",
-      "minutesLeft": 702,
-      "secondsLeft": 28,
-      "totalSeconds": 42148
+      "timeDisplay": "10:50:48",
+      "minutesLeft": 650,
+      "secondsLeft": 48,
+      "totalSeconds": 39048
     },
     {
       "playerId": "823",
       "currentBid": 1,
       "bidder": "Moneyball Mart",
-      "timeDisplay": "11:50:42",
-      "minutesLeft": 710,
-      "secondsLeft": 42,
-      "totalSeconds": 42642
+      "timeDisplay": "10:59:02",
+      "minutesLeft": 659,
+      "secondsLeft": 2,
+      "totalSeconds": 39542
     },
     {
       "playerId": "710",
       "currentBid": 1,
       "bidder": "Moneyball Mart",
-      "timeDisplay": "11:51:04",
-      "minutesLeft": 711,
-      "secondsLeft": 4,
-      "totalSeconds": 42664
+      "timeDisplay": "10:59:24",
+      "minutesLeft": 659,
+      "secondsLeft": 24,
+      "totalSeconds": 39564
     },
     {
       "playerId": "854",
       "currentBid": 1,
       "bidder": "Logjammers",
-      "timeDisplay": "11:51:20",
-      "minutesLeft": 711,
-      "secondsLeft": 20,
-      "totalSeconds": 42680
+      "timeDisplay": "10:59:40",
+      "minutesLeft": 659,
+      "secondsLeft": 40,
+      "totalSeconds": 39580
     },
     {
       "playerId": "118",
       "currentBid": 1,
       "bidder": "Mortytown",
-      "timeDisplay": "11:52:41",
-      "minutesLeft": 712,
-      "secondsLeft": 41,
-      "totalSeconds": 42761
+      "timeDisplay": "11:01:01",
+      "minutesLeft": 661,
+      "secondsLeft": 1,
+      "totalSeconds": 39661
     },
     {
       "playerId": "757",
-      "currentBid": 2,
-      "bidder": "Mcgrumpyd",
-      "timeDisplay": "11:54:17",
-      "minutesLeft": 714,
-      "secondsLeft": 17,
-      "totalSeconds": 42857
+      "currentBid": 6,
+      "bidder": "Tennessee Jeds",
+      "timeDisplay": "11:02:37",
+      "minutesLeft": 662,
+      "secondsLeft": 37,
+      "totalSeconds": 39757
     },
     {
       "playerId": "765",
       "currentBid": 1,
       "bidder": "Trot Nixon",
-      "timeDisplay": "11:56:59",
-      "minutesLeft": 716,
-      "secondsLeft": 59,
-      "totalSeconds": 43019
+      "timeDisplay": "11:05:19",
+      "minutesLeft": 665,
+      "secondsLeft": 19,
+      "totalSeconds": 39919
     },
     {
       "playerId": "756",
       "currentBid": 1,
       "bidder": "Mortytown",
-      "timeDisplay": "11:57:16",
-      "minutesLeft": 717,
-      "secondsLeft": 16,
-      "totalSeconds": 43036
+      "timeDisplay": "11:05:36",
+      "minutesLeft": 665,
+      "secondsLeft": 36,
+      "totalSeconds": 39936
+    },
+    {
+      "playerId": "688",
+      "currentBid": 18,
+      "bidder": "PTP",
+      "timeDisplay": "11:38:40",
+      "minutesLeft": 698,
+      "secondsLeft": 40,
+      "totalSeconds": 41920
     }
   ],
   "teams": [
     {
       "name": "Tennessee Jeds",
-      "moneyLeft": 51,
+      "moneyLeft": 45,
       "spent": 207,
       "won": 13
     },
     {
       "name": "Ultimate Price",
-      "moneyLeft": 10,
+      "moneyLeft": 2,
       "spent": 242,
       "won": 20
     },
@@ -277,7 +286,7 @@
     },
     {
       "name": "The Other Guys",
-      "moneyLeft": 74,
+      "moneyLeft": 76,
       "spent": 172,
       "won": 16
     },
@@ -295,13 +304,13 @@
     },
     {
       "name": "Mcgrumpyd",
-      "moneyLeft": 14,
+      "moneyLeft": 16,
       "spent": 244,
       "won": 17
     },
     {
       "name": "Trot Nixon",
-      "moneyLeft": 41,
+      "moneyLeft": 63,
       "spent": 196,
       "won": 16
     },
@@ -325,7 +334,7 @@
     },
     {
       "name": "Enkidu",
-      "moneyLeft": 13,
+      "moneyLeft": 8,
       "spent": 245,
       "won": 20
     },
@@ -337,7 +346,7 @@
     },
     {
       "name": "PTP",
-      "moneyLeft": 80,
+      "moneyLeft": 45,
       "spent": 180,
       "won": 12
     },
@@ -349,7 +358,7 @@
     },
     {
       "name": "Mortytown",
-      "moneyLeft": 48,
+      "moneyLeft": 35,
       "spent": 198,
       "won": 14
     },
@@ -361,7 +370,7 @@
     },
     {
       "name": "Moneyball Mart",
-      "moneyLeft": 81,
+      "moneyLeft": 57,
       "spent": 123,
       "won": 16
     },
