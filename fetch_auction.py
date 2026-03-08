@@ -1,7 +1,7 @@
 """
 Fetches live auction data from CouchManagers and writes auction_data.json
 to the repo root. GitHub Actions commits this file every 15 minutes.
-The Grapefruit League site reads it from raw.githubusercontent.com.
+The Grapefruit League site reads it from Firebase Hosting.
 
 CSV column mapping (CouchManagers csv/download.php):
   Col 0 = First Name
@@ -30,11 +30,22 @@ def xml_text(el, tag, default=""):
     return n.text.strip() if n is not None and n.text else default
 
 def safe_int(val, fallback=0):
-    """Convert val to int safely, returning fallback for non-numeric strings like 'Done'."""
     try:
         return int(val or fallback)
     except (ValueError, TypeError):
         return fallback
+
+def parse_time3(time3):
+    """Parse 'MM:SS' or 'HH:MM:SS' into total seconds."""
+    parts = time3.strip().split(":")
+    try:
+        if len(parts) == 2:
+            return int(parts[0]) * 60 + int(parts[1])
+        elif len(parts) == 3:
+            return int(parts[0]) * 3600 + int(parts[1]) * 60 + int(parts[2])
+    except (ValueError, IndexError):
+        pass
+    return 0
 
 def fetch_status():
     raw  = fetch(f"{CM_BASE}/ajax/update_auction_testing.php?auction_id={AUCTION_ID}")
@@ -45,28 +56,29 @@ def fetch_status():
     }
 
 def fetch_active():
+    """
+    CM returns <root><auction> nodes with:
+      <playerid>, <teamnum>, <teamname>, <amount>, <time3> (MM:SS)
+    We look up player names from the completed CSV by playerid if possible,
+    otherwise show playerid as fallback.
+    """
     raw  = fetch(f"{CM_BASE}/ajax/update_current_auctions.php?auction_id={AUCTION_ID}")
     root = ET.fromstring(raw)
     items = []
 
-    # Try <nom> first, fall back to <player>
-    nodes = root.findall("nom") or root.findall(".//nom") or \
-            root.findall("player") or root.findall(".//player")
-
-    for n in nodes:
-        h = safe_int(xml_text(n, "hoursleft",   "0"))
-        m = safe_int(xml_text(n, "minutesleft",  "0"))
-        s = safe_int(xml_text(n, "secondsleft",  "0"))
+    for n in root.findall("auction"):
+        time3      = xml_text(n, "time3", "0:00")
+        total_secs = parse_time3(time3)
+        mins       = total_secs // 60
+        secs       = total_secs % 60
         items.append({
-            "name":         xml_text(n, "player_name") or xml_text(n, "name"),
-            "pos":          xml_text(n, "position")    or xml_text(n, "pos"),
-            "currentBid":   safe_int(xml_text(n, "current_bid")  or xml_text(n, "bid")),
-            "bidder":       xml_text(n, "current_bidder") or xml_text(n, "bidder"),
-            "nominator":    xml_text(n, "nominator"),
-            "hoursLeft":    h,
-            "minutesLeft":  m,
-            "secondsLeft":  s,
-            "totalSeconds": h * 3600 + m * 60 + s,
+            "playerId":    xml_text(n, "playerid"),
+            "currentBid":  safe_int(xml_text(n, "amount")),
+            "bidder":      xml_text(n, "teamname"),
+            "timeDisplay": xml_text(n, "time3"),
+            "minutesLeft": mins,
+            "secondsLeft": secs,
+            "totalSeconds": total_secs,
         })
     return items
 
@@ -94,23 +106,28 @@ def fetch_completed():
     rows = []
     reader = csv.reader(io.StringIO(raw))
     for i, row in enumerate(reader):
-        # Skip header row (first row or any row where first col is "First Name")
         if i == 0 or (len(row) > 0 and row[0].strip().strip('"') in ("First Name", "")):
             continue
         if len(row) < 4:
             continue
 
-        first_name  = row[0].strip().strip('"')
-        last_name   = row[1].strip().strip('"')
-        price       = safe_int(row[2].strip().strip('"'))
+        first_name   = row[0].strip().strip('"')
+        last_name    = row[1].strip().strip('"')
+        price        = safe_int(row[2].strip().strip('"'))
         fantasy_team = row[3].strip().strip('"')
 
         if not first_name or not last_name or not fantasy_team:
             continue
 
+        # Skip keepers ($0 bids to Minors teams) and $0 entries
+        if price == 0:
+            continue
+        if fantasy_team.lower().startswith("minors"):
+            continue
+
         rows.append({
-            "player": first_name + " " + last_name,  # full player name
-            "team":   fantasy_team,                   # fantasy team name
+            "player": first_name + " " + last_name,
+            "team":   fantasy_team,
             "price":  price,
         })
     return rows
