@@ -55,24 +55,55 @@ def fetch_status():
         "completed_total": safe_int(xml_text(root, "completed_total", "0")),
     }
 
+def fetch_player_names(player_ids):
+    """Fetch player names from CM for a list of playerids."""
+    names = {}
+    for pid in player_ids:
+        try:
+            raw = fetch(f"{CM_BASE}/ajax/get_player_info.php?player_id={pid}&auction_id={AUCTION_ID}")
+            root = ET.fromstring(raw)
+            name = xml_text(root, "player_name") or xml_text(root, "name") or xml_text(root, "fullname")
+            if name:
+                names[pid] = name
+        except Exception:
+            pass
+    return names
+
 def fetch_active():
     """
     CM returns <root><auction> nodes with:
       <playerid>, <teamnum>, <teamname>, <amount>, <time3> (MM:SS)
-    We look up player names from the completed CSV by playerid if possible,
-    otherwise show playerid as fallback.
     """
     raw  = fetch(f"{CM_BASE}/ajax/update_current_auctions.php?auction_id={AUCTION_ID}")
     root = ET.fromstring(raw)
-    items = []
+    auctions = root.findall("auction")
+    
+    # Try to get player names
+    player_ids = [xml_text(n, "playerid") for n in auctions if xml_text(n, "playerid")]
+    player_names = {}
+    if player_ids:
+        try:
+            # Try fetching names via nomination list or player lookup
+            nom_raw = fetch(f"{CM_BASE}/ajax/update_nominations.php?auction_id={AUCTION_ID}")
+            nom_root = ET.fromstring(nom_raw)
+            for p in nom_root.iter():
+                pid = xml_text(p, "playerid") or p.get("playerid", "")
+                pname = xml_text(p, "player_name") or xml_text(p, "name") or xml_text(p, "fullname")
+                if pid and pname:
+                    player_names[pid] = pname
+        except Exception:
+            pass
 
-    for n in root.findall("auction"):
+    items = []
+    for n in auctions:
+        pid        = xml_text(n, "playerid")
         time3      = xml_text(n, "time3", "0:00")
         total_secs = parse_time3(time3)
         mins       = total_secs // 60
         secs       = total_secs % 60
         items.append({
-            "playerId":    xml_text(n, "playerid"),
+            "playerId":    pid,
+            "name":        player_names.get(pid, ""),
             "currentBid":  safe_int(xml_text(n, "amount")),
             "bidder":      xml_text(n, "teamname"),
             "timeDisplay": xml_text(n, "time3"),
@@ -89,6 +120,9 @@ def fetch_teams():
     for t in root.findall(".//team"):
         name = xml_text(t, "teamname")
         if not name or name == "-":
+            continue
+        # Skip Minors placeholder teams
+        if name.lower().startswith("minors"):
             continue
         teams.append({
             "name":      name,
@@ -161,3 +195,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
