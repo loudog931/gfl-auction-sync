@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-08T11:19:19.131384+00:00",
+  "fetchedAt": "2026-03-08T11:29:00.515562+00:00",
   "draftStatus": "drafting",
   "completedTotal": 408,
   "active": [],
@@ -96,13 +96,13 @@
     },
     {
       "name": "Mortytown",
-      "moneyLeft": 27,
+      "moneyLeft": 54,
       "spent": 171,
       "won": 13
     },
     {
       "name": "Aces high",
-      "moneyLeft": 53,
+      "moneyLeft": 25,
       "spent": 84,
       "won": 5
     },
