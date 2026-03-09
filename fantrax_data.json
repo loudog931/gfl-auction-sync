@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-09T21:59:38.060319+00:00",
+  "fetchedAt": "2026-03-09T23:00:13.141367+00:00",
   "leagueId": "nkgdrcl4mi3kzyk6",
   "leagueName": "The Grapefruit League",
   "draftStatus": "pending",
@@ -10,6 +10,11 @@
       "teamId": "iailczl9mi3kzyk8",
       "teamName": "Aces High",
       "players": [
+        {
+          "name": "",
+          "pos": "RP",
+          "mlbTeam": ""
+        },
         {
           "name": "",
           "pos": "UT",
@@ -67,7 +72,37 @@
         },
         {
           "name": "",
+          "pos": "RP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SS",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
           "mlbTeam": ""
         },
         {
@@ -153,6 +188,11 @@
         },
         {
           "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SS",
           "mlbTeam": ""
         },
@@ -173,6 +213,11 @@
         },
         {
           "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SS",
           "mlbTeam": ""
         },
@@ -189,6 +234,11 @@
         {
           "name": "",
           "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SS",
           "mlbTeam": ""
         },
         {
@@ -335,6 +385,11 @@
         },
         {
           "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SS",
           "mlbTeam": ""
         },
@@ -351,6 +406,11 @@
         {
           "name": "",
           "pos": "C",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
           "mlbTeam": ""
         },
         {
@@ -386,6 +446,11 @@
         {
           "name": "",
           "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "RP",
           "mlbTeam": ""
         },
         {
@@ -476,7 +541,7 @@
         },
         {
           "name": "",
-          "pos": "SP",
+          "pos": "OF",
           "mlbTeam": ""
         },
         {
@@ -486,17 +551,12 @@
         },
         {
           "name": "",
-          "pos": "SP",
+          "pos": "3B",
           "mlbTeam": ""
         },
         {
           "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
+          "pos": "C",
           "mlbTeam": ""
         },
         {
@@ -506,37 +566,12 @@
         },
         {
           "name": "",
-          "pos": "SS",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SS",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
           "pos": "OF",
           "mlbTeam": ""
         },
         {
           "name": "",
           "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "OF",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "OF",
           "mlbTeam": ""
         },
         {
@@ -556,12 +591,72 @@
         },
         {
           "name": "",
+          "pos": "SS",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "3B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SP",
           "mlbTeam": ""
         },
         {
           "name": "",
           "pos": "SS",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SS",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "2B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
           "mlbTeam": ""
         },
         {
@@ -703,6 +798,11 @@
         },
         {
           "name": "",
+          "pos": "1B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SS",
           "mlbTeam": ""
         },
@@ -723,7 +823,22 @@
         },
         {
           "name": "",
+          "pos": "RP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "RP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "UT",
           "mlbTeam": ""
         },
         {
@@ -764,6 +879,11 @@
         {
           "name": "",
           "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "3B",
           "mlbTeam": ""
         },
         {
@@ -849,21 +969,11 @@
         },
         {
           "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
           "pos": "UT",
           "mlbTeam": ""
         },
         {
           "name": "",
-          "pos": "3B",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
           "pos": "SS",
           "mlbTeam": ""
         },
@@ -874,12 +984,7 @@
         },
         {
           "name": "",
-          "pos": "SS",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "OF",
+          "pos": "SP",
           "mlbTeam": ""
         },
         {
@@ -889,37 +994,12 @@
         },
         {
           "name": "",
-          "pos": "3B",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
           "pos": "SP",
           "mlbTeam": ""
         },
         {
           "name": "",
           "pos": "OF",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "2B",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "2B",
           "mlbTeam": ""
         },
         {
@@ -934,6 +1014,26 @@
         },
         {
           "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "3B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "RP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SP",
           "mlbTeam": ""
         },
@@ -944,12 +1044,57 @@
         },
         {
           "name": "",
+          "pos": "3B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SS",
           "mlbTeam": ""
         },
         {
           "name": "",
-          "pos": "RP",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "3B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "2B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "2B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "1B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SS",
           "mlbTeam": ""
         }
       ]
@@ -965,16 +1110,6 @@
         },
         {
           "name": "",
-          "pos": "3B",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "3B",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
           "pos": "C",
           "mlbTeam": ""
         },
@@ -985,7 +1120,7 @@
         },
         {
           "name": "",
-          "pos": "RP",
+          "pos": "C",
           "mlbTeam": ""
         },
         {
@@ -1005,6 +1140,61 @@
         },
         {
           "name": "",
+          "pos": "3B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SS",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "3B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "3B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "RP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SS",
           "mlbTeam": ""
         },
@@ -1020,27 +1210,7 @@
         },
         {
           "name": "",
-          "pos": "3B",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
+          "pos": "OF",
           "mlbTeam": ""
         },
         {
@@ -1051,11 +1221,6 @@
         {
           "name": "",
           "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SS",
           "mlbTeam": ""
         },
         {
@@ -1066,6 +1231,11 @@
         {
           "name": "",
           "pos": "1B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "UT",
           "mlbTeam": ""
         }
       ]
@@ -1101,6 +1271,11 @@
         },
         {
           "name": "",
+          "pos": "UT",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SP",
           "mlbTeam": ""
         },
@@ -1171,6 +1346,11 @@
         },
         {
           "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SP",
           "mlbTeam": ""
         },
@@ -1182,6 +1362,11 @@
         {
           "name": "",
           "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "2B",
           "mlbTeam": ""
         },
         {
@@ -1222,6 +1407,46 @@
         },
         {
           "name": "",
+          "pos": "3B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SS",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SS",
           "mlbTeam": ""
         },
@@ -1232,32 +1457,17 @@
         },
         {
           "name": "",
-          "pos": "3B",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
           "pos": "C",
           "mlbTeam": ""
         },
         {
           "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
           "pos": "OF",
           "mlbTeam": ""
         },
         {
           "name": "",
-          "pos": "OF",
+          "pos": "SP",
           "mlbTeam": ""
         },
         {
@@ -1272,16 +1482,6 @@
         },
         {
           "name": "",
-          "pos": "SS",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "OF",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
           "pos": "1B",
           "mlbTeam": ""
         },
@@ -1292,11 +1492,6 @@
         },
         {
           "name": "",
-          "pos": "OF",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
           "pos": "SP",
           "mlbTeam": ""
         },
@@ -1308,11 +1503,6 @@
         {
           "name": "",
           "pos": "SS",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "OF",
           "mlbTeam": ""
         },
         {
@@ -1363,6 +1553,16 @@
         },
         {
           "name": "",
+          "pos": "RP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "UT",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SP",
           "mlbTeam": ""
         },
@@ -1378,6 +1578,11 @@
         },
         {
           "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "OF",
           "mlbTeam": ""
         },
@@ -1388,12 +1593,22 @@
         },
         {
           "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "OF",
           "mlbTeam": ""
         },
         {
           "name": "",
           "pos": "1B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
           "mlbTeam": ""
         },
         {
@@ -1424,6 +1639,11 @@
         },
         {
           "name": "",
+          "pos": "1B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "OF",
           "mlbTeam": ""
         },
@@ -1435,6 +1655,11 @@
         {
           "name": "",
           "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SS",
           "mlbTeam": ""
         },
         {
@@ -1470,6 +1695,11 @@
         {
           "name": "",
           "pos": "C",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
           "mlbTeam": ""
         },
         {
@@ -1520,6 +1750,16 @@
         },
         {
           "name": "",
+          "pos": "C",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "2B",
           "mlbTeam": ""
         },
@@ -1546,6 +1786,11 @@
         {
           "name": "",
           "pos": "3B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
           "mlbTeam": ""
         },
         {
@@ -1646,21 +1891,6 @@
       "players": [
         {
           "name": "",
-          "pos": "SS",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "1B",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
           "pos": "SP",
           "mlbTeam": ""
         },
@@ -1676,17 +1906,12 @@
         },
         {
           "name": "",
-          "pos": "SS",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
           "pos": "SP",
           "mlbTeam": ""
         },
         {
           "name": "",
-          "pos": "RP",
+          "pos": "3B",
           "mlbTeam": ""
         },
         {
@@ -1701,12 +1926,7 @@
         },
         {
           "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SS",
+          "pos": "1B",
           "mlbTeam": ""
         },
         {
@@ -1741,17 +1961,57 @@
         },
         {
           "name": "",
-          "pos": "OF",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
           "pos": "2B",
           "mlbTeam": ""
         },
         {
           "name": "",
+          "pos": "SS",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "1B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SS",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "RP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SS",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
           "mlbTeam": ""
         }
       ]
@@ -1762,12 +2022,12 @@
       "players": [
         {
           "name": "",
-          "pos": "SP",
+          "pos": "UT",
           "mlbTeam": ""
         },
         {
           "name": "",
-          "pos": "2B",
+          "pos": "SP",
           "mlbTeam": ""
         },
         {
@@ -1787,17 +2047,7 @@
         },
         {
           "name": "",
-          "pos": "1B",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "OF",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "2B",
+          "pos": "SP",
           "mlbTeam": ""
         },
         {
@@ -1822,16 +2072,6 @@
         },
         {
           "name": "",
-          "pos": "SS",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "3B",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
           "pos": "OF",
           "mlbTeam": ""
         },
@@ -1843,11 +2083,6 @@
         {
           "name": "",
           "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "RP",
           "mlbTeam": ""
         },
         {
@@ -1878,6 +2113,66 @@
         {
           "name": "",
           "pos": "SS",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "2B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "1B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "1B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "2B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SS",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "3B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "RP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
           "mlbTeam": ""
         }
       ]
@@ -2070,6 +2365,11 @@
         {
           "name": "",
           "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "2B",
           "mlbTeam": ""
         },
         {
