@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-09T05:39:32.111267+00:00",
+  "fetchedAt": "2026-03-09T07:59:51.384438+00:00",
   "draftStatus": "paused",
   "completedTotal": 445,
   "active": [
@@ -92,16 +92,6 @@
       "minutesLeft": 127,
       "secondsLeft": 54,
       "totalSeconds": 7674
-    },
-    {
-      "playerId": "1879",
-      "name": "",
-      "currentBid": 23,
-      "bidder": "Stilettos",
-      "timeDisplay": "2:40:41",
-      "minutesLeft": 160,
-      "secondsLeft": 41,
-      "totalSeconds": 9641
     },
     {
       "playerId": "765",
@@ -264,6 +254,16 @@
       "totalSeconds": 21229
     },
     {
+      "playerId": "1879",
+      "name": "",
+      "currentBid": 24,
+      "bidder": "Moneyball Mart",
+      "timeDisplay": "6:00:00",
+      "minutesLeft": 360,
+      "secondsLeft": 0,
+      "totalSeconds": 21600
+    },
+    {
       "playerId": "867",
       "name": "",
       "currentBid": 6,
@@ -351,7 +351,7 @@
     },
     {
       "name": "Stilettos",
-      "moneyLeft": 60,
+      "moneyLeft": 83,
       "spent": 120,
       "won": 10
     },
@@ -429,7 +429,7 @@
     },
     {
       "name": "Moneyball Mart",
-      "moneyLeft": 67,
+      "moneyLeft": 43,
       "spent": 178,
       "won": 19
     }
