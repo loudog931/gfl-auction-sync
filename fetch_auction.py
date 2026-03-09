@@ -69,7 +69,34 @@ def fetch_player_names(player_ids):
             pass
     return names
 
-def fetch_active():
+def build_player_id_map():
+    """Build a playerid -> name map from the CM CSV (all sold players have IDs in a separate endpoint)."""
+    names = {}
+    try:
+        # The nominations XML contains playerid + player name for all nominated players
+        nom_raw = fetch(f"{CM_BASE}/ajax/update_nominations.php?auction_id={AUCTION_ID}")
+        nom_root = ET.fromstring(nom_raw)
+        for node in nom_root.iter():
+            pid = xml_text(node, "playerid") or node.get("playerid", "")
+            pname = (xml_text(node, "player_name") or xml_text(node, "playername") or
+                     xml_text(node, "name") or xml_text(node, "fullname") or
+                     xml_text(node, "firstname"))
+            if pid and pname:
+                names[pid] = pname
+        # Also try the results XML which maps playerid to names
+        res_raw = fetch(f"{CM_BASE}/ajax/update_results.php?auction_id={AUCTION_ID}")
+        res_root = ET.fromstring(res_raw)
+        for node in res_root.iter():
+            pid = xml_text(node, "playerid") or node.get("playerid", "")
+            pname = (xml_text(node, "player_name") or xml_text(node, "playername") or
+                     xml_text(node, "name") or xml_text(node, "fullname"))
+            if pid and pname:
+                names[pid] = pname
+    except Exception:
+        pass
+    return names
+
+def fetch_active(player_id_map=None):
     """
     CM returns <root><auction> nodes with:
       <playerid>, <teamnum>, <teamname>, <amount>, <time3> (MM:SS)
@@ -78,21 +105,7 @@ def fetch_active():
     root = ET.fromstring(raw)
     auctions = root.findall("auction")
     
-    # Try to get player names
-    player_ids = [xml_text(n, "playerid") for n in auctions if xml_text(n, "playerid")]
-    player_names = {}
-    if player_ids:
-        try:
-            # Try fetching names via nomination list or player lookup
-            nom_raw = fetch(f"{CM_BASE}/ajax/update_nominations.php?auction_id={AUCTION_ID}")
-            nom_root = ET.fromstring(nom_raw)
-            for p in nom_root.iter():
-                pid = xml_text(p, "playerid") or p.get("playerid", "")
-                pname = xml_text(p, "player_name") or xml_text(p, "name") or xml_text(p, "fullname")
-                if pid and pname:
-                    player_names[pid] = pname
-        except Exception:
-            pass
+    player_names = player_id_map or {}
 
     items = []
     for n in auctions:
@@ -170,8 +183,12 @@ def main():
     print("Fetching auction status...")
     status = fetch_status()
 
+    print("Building player ID map...")
+    player_id_map = build_player_id_map()
+    print(f"  -> {len(player_id_map)} player names loaded")
+
     print("Fetching active nominations...")
-    active = fetch_active()
+    active = fetch_active(player_id_map)
 
     print("Fetching team budgets...")
     teams = fetch_teams()
@@ -195,4 +212,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
