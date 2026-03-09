@@ -30,27 +30,3 @@ jobs:
           git diff --cached --quiet || git commit -m "Update auction data [$(date -u '+%H:%M UTC')]"
           git push
           
-      - name: Deploy auction_data.json to Firebase Hosting
-        run: |
-          npm install -g firebase-tools
-          cat > firebase_deploy.json << 'EOF'
-          {"hosting":{"public":".","ignore":["firebase.json",".gitignore","*.py","*.yml","*.md","fantrax_data.json","*.html","sw.js","sync.py"],"headers":[{"source":"/auction_data.json","headers":[{"key":"Cache-Control","value":"no-cache, no-store, must-revalidate"},{"key":"Access-Control-Allow-Origin","value":"*"}]}]}}
-          EOF
-          FIREBASE_TOKEN="${{ secrets.FIREBASE_TOKEN }}" firebase deploy --only hosting --project grapefruit-league-uaat --config firebase_deploy.json
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
