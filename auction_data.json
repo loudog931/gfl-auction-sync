@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-10T07:31:16.976363+00:00",
+  "fetchedAt": "2026-03-10T10:03:26.940679+00:00",
   "draftStatus": "paused",
   "completedTotal": 488,
   "active": [
@@ -156,8 +156,8 @@
     {
       "playerId": "982",
       "name": "",
-      "currentBid": 21,
-      "bidder": "Stilettos",
+      "currentBid": 22,
+      "bidder": "Moneyball Mart",
       "timeDisplay": "6:00:00",
       "minutesLeft": 360,
       "secondsLeft": 0,
@@ -282,6 +282,26 @@
       "minutesLeft": 718,
       "secondsLeft": 33,
       "totalSeconds": 43113
+    },
+    {
+      "playerId": "434",
+      "name": "",
+      "currentBid": 1,
+      "bidder": "Schlittlers full",
+      "timeDisplay": "12:00:00",
+      "minutesLeft": 720,
+      "secondsLeft": 0,
+      "totalSeconds": 43200
+    },
+    {
+      "playerId": "873",
+      "name": "",
+      "currentBid": 1,
+      "bidder": "PTP",
+      "timeDisplay": "12:00:00",
+      "minutesLeft": 720,
+      "secondsLeft": 0,
+      "totalSeconds": 43200
     }
   ],
   "teams": [
@@ -299,7 +319,7 @@
     },
     {
       "name": "Schlittlers full",
-      "moneyLeft": 6,
+      "moneyLeft": 5,
       "spent": 253,
       "won": 20
     },
@@ -311,7 +331,7 @@
     },
     {
       "name": "Stilettos",
-      "moneyLeft": 38,
+      "moneyLeft": 59,
       "spent": 184,
       "won": 15
     },
@@ -365,7 +385,7 @@
     },
     {
       "name": "PTP",
-      "moneyLeft": 15,
+      "moneyLeft": 14,
       "spent": 236,
       "won": 17
     },
@@ -389,7 +409,7 @@
     },
     {
       "name": "Moneyball Mart",
-      "moneyLeft": 26,
+      "moneyLeft": 4,
       "spent": 234,
       "won": 22
     }
