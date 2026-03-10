@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-10T05:00:36.491494+00:00",
+  "fetchedAt": "2026-03-10T07:31:16.976363+00:00",
   "draftStatus": "paused",
   "completedTotal": 488,
   "active": [
@@ -146,12 +146,12 @@
     {
       "playerId": "2019",
       "name": "",
-      "currentBid": 12,
-      "bidder": "Stilettos",
-      "timeDisplay": "5:56:57",
-      "minutesLeft": 356,
-      "secondsLeft": 57,
-      "totalSeconds": 21417
+      "currentBid": 13,
+      "bidder": "Silver Panthers",
+      "timeDisplay": "6:00:00",
+      "minutesLeft": 360,
+      "secondsLeft": 0,
+      "totalSeconds": 21600
     },
     {
       "playerId": "982",
@@ -311,7 +311,7 @@
     },
     {
       "name": "Stilettos",
-      "moneyLeft": 26,
+      "moneyLeft": 38,
       "spent": 184,
       "won": 15
     },
@@ -347,7 +347,7 @@
     },
     {
       "name": "Silver Panthers",
-      "moneyLeft": 45,
+      "moneyLeft": 32,
       "spent": 212,
       "won": 16
     },
