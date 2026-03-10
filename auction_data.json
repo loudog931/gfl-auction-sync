@@ -1,251 +1,221 @@
 {
-  "fetchedAt": "2026-03-10T21:02:40.441900+00:00",
+  "fetchedAt": "2026-03-10T21:56:13.017730+00:00",
   "draftStatus": "drafting",
-  "completedTotal": 505,
+  "completedTotal": 509,
   "active": [
-    {
-      "playerId": "177",
-      "name": "",
-      "currentBid": 1,
-      "bidder": "Mcgrumpyd",
-      "timeDisplay": "12:56",
-      "minutesLeft": 12,
-      "secondsLeft": 56,
-      "totalSeconds": 776
-    },
-    {
-      "playerId": "273",
-      "name": "",
-      "currentBid": 5,
-      "bidder": "Ultimate Price",
-      "timeDisplay": "22:36",
-      "minutesLeft": 22,
-      "secondsLeft": 36,
-      "totalSeconds": 1356
-    },
-    {
-      "playerId": "843",
-      "name": "",
-      "currentBid": 3,
-      "bidder": "Tennessee Jeds",
-      "timeDisplay": "22:47",
-      "minutesLeft": 22,
-      "secondsLeft": 47,
-      "totalSeconds": 1367
-    },
-    {
-      "playerId": "213",
-      "name": "",
-      "currentBid": 2,
-      "bidder": "Stilettos",
-      "timeDisplay": "29:34",
-      "minutesLeft": 29,
-      "secondsLeft": 34,
-      "totalSeconds": 1774
-    },
     {
       "playerId": "926",
       "name": "",
       "currentBid": 1,
       "bidder": "Gankin Zone",
-      "timeDisplay": "54:52",
-      "minutesLeft": 54,
-      "secondsLeft": 52,
-      "totalSeconds": 3292
+      "timeDisplay": "01:20",
+      "minutesLeft": 1,
+      "secondsLeft": 20,
+      "totalSeconds": 80
     },
     {
       "playerId": "921",
       "name": "",
       "currentBid": 3,
       "bidder": "Gankin Zone",
-      "timeDisplay": "59:12",
-      "minutesLeft": 59,
-      "secondsLeft": 12,
-      "totalSeconds": 3552
+      "timeDisplay": "05:40",
+      "minutesLeft": 5,
+      "secondsLeft": 40,
+      "totalSeconds": 340
     },
     {
       "playerId": "982",
       "name": "",
       "currentBid": 27,
       "bidder": "Stilettos",
-      "timeDisplay": "1:27:31",
-      "minutesLeft": 87,
-      "secondsLeft": 31,
-      "totalSeconds": 5251
+      "timeDisplay": "33:59",
+      "minutesLeft": 33,
+      "secondsLeft": 59,
+      "totalSeconds": 2039
     },
     {
       "playerId": "883",
       "name": "",
       "currentBid": 5,
       "bidder": "RollingQuintanas",
-      "timeDisplay": "1:27:51",
-      "minutesLeft": 87,
-      "secondsLeft": 51,
-      "totalSeconds": 5271
+      "timeDisplay": "34:19",
+      "minutesLeft": 34,
+      "secondsLeft": 19,
+      "totalSeconds": 2059
     },
     {
       "playerId": "864",
       "name": "",
       "currentBid": 3,
       "bidder": "Logjammers",
-      "timeDisplay": "1:55:55",
-      "minutesLeft": 115,
-      "secondsLeft": 55,
-      "totalSeconds": 6955
+      "timeDisplay": "1:02:23",
+      "minutesLeft": 62,
+      "secondsLeft": 23,
+      "totalSeconds": 3743
     },
     {
       "playerId": "434",
       "name": "",
       "currentBid": 1,
       "bidder": "Schlittlers full",
-      "timeDisplay": "1:57:22",
-      "minutesLeft": 117,
-      "secondsLeft": 22,
-      "totalSeconds": 7042
+      "timeDisplay": "1:03:50",
+      "minutesLeft": 63,
+      "secondsLeft": 50,
+      "totalSeconds": 3830
     },
     {
       "playerId": "873",
       "name": "",
       "currentBid": 9,
       "bidder": "PTP",
-      "timeDisplay": "1:57:22",
-      "minutesLeft": 117,
-      "secondsLeft": 22,
-      "totalSeconds": 7042
+      "timeDisplay": "1:03:50",
+      "minutesLeft": 63,
+      "secondsLeft": 50,
+      "totalSeconds": 3830
     },
     {
       "playerId": "2019",
       "name": "",
       "currentBid": 23,
       "bidder": "Silver Panthers",
-      "timeDisplay": "2:01:36",
-      "minutesLeft": 121,
-      "secondsLeft": 36,
-      "totalSeconds": 7296
+      "timeDisplay": "1:08:04",
+      "minutesLeft": 68,
+      "secondsLeft": 4,
+      "totalSeconds": 4084
     },
     {
       "playerId": "987",
       "name": "",
       "currentBid": 1,
       "bidder": "Schlittlers full",
-      "timeDisplay": "2:52:54",
-      "minutesLeft": 172,
-      "secondsLeft": 54,
-      "totalSeconds": 10374
+      "timeDisplay": "1:59:22",
+      "minutesLeft": 119,
+      "secondsLeft": 22,
+      "totalSeconds": 7162
     },
     {
       "playerId": "142",
       "name": "",
       "currentBid": 6,
       "bidder": "RollingQuintanas",
-      "timeDisplay": "3:03:46",
-      "minutesLeft": 183,
-      "secondsLeft": 46,
-      "totalSeconds": 11026
+      "timeDisplay": "2:10:14",
+      "minutesLeft": 130,
+      "secondsLeft": 14,
+      "totalSeconds": 7814
     },
     {
       "playerId": "1033",
       "name": "",
       "currentBid": 11,
       "bidder": "Silver Panthers",
-      "timeDisplay": "3:14:55",
-      "minutesLeft": 194,
-      "secondsLeft": 55,
-      "totalSeconds": 11695
+      "timeDisplay": "2:21:23",
+      "minutesLeft": 141,
+      "secondsLeft": 23,
+      "totalSeconds": 8483
     },
     {
       "playerId": "138",
       "name": "",
       "currentBid": 1,
       "bidder": "Tennessee Jeds",
-      "timeDisplay": "3:22:14",
-      "minutesLeft": 202,
-      "secondsLeft": 14,
-      "totalSeconds": 12134
+      "timeDisplay": "2:28:42",
+      "minutesLeft": 148,
+      "secondsLeft": 42,
+      "totalSeconds": 8922
     },
     {
       "playerId": "731",
       "name": "",
       "currentBid": 1,
       "bidder": "Moneyball Mart",
-      "timeDisplay": "4:22:10",
-      "minutesLeft": 262,
-      "secondsLeft": 10,
-      "totalSeconds": 15730
+      "timeDisplay": "3:28:38",
+      "minutesLeft": 208,
+      "secondsLeft": 38,
+      "totalSeconds": 12518
     },
     {
       "playerId": "179",
       "name": "",
       "currentBid": 6,
       "bidder": "Trot Nixon",
-      "timeDisplay": "4:28:57",
-      "minutesLeft": 268,
-      "secondsLeft": 57,
-      "totalSeconds": 16137
+      "timeDisplay": "3:35:25",
+      "minutesLeft": 215,
+      "secondsLeft": 25,
+      "totalSeconds": 12925
     },
     {
       "playerId": "191",
       "name": "",
       "currentBid": 1,
       "bidder": "Gankin Zone",
-      "timeDisplay": "4:59:34",
-      "minutesLeft": 299,
-      "secondsLeft": 34,
-      "totalSeconds": 17974
+      "timeDisplay": "4:06:02",
+      "minutesLeft": 246,
+      "secondsLeft": 2,
+      "totalSeconds": 14762
     },
     {
       "playerId": "894",
       "name": "",
       "currentBid": 1,
       "bidder": "Stilettos",
-      "timeDisplay": "6:57:31",
-      "minutesLeft": 417,
-      "secondsLeft": 31,
-      "totalSeconds": 25051
+      "timeDisplay": "6:03:59",
+      "minutesLeft": 363,
+      "secondsLeft": 59,
+      "totalSeconds": 21839
     },
     {
       "playerId": "181",
       "name": "",
       "currentBid": 6,
       "bidder": "UAAT",
-      "timeDisplay": "6:58:58",
-      "minutesLeft": 418,
-      "secondsLeft": 58,
-      "totalSeconds": 25138
+      "timeDisplay": "6:05:26",
+      "minutesLeft": 365,
+      "secondsLeft": 26,
+      "totalSeconds": 21926
     },
     {
       "playerId": "491",
       "name": "",
       "currentBid": 2,
       "bidder": "Mcgrumpyd",
-      "timeDisplay": "7:01:49",
-      "minutesLeft": 421,
-      "secondsLeft": 49,
-      "totalSeconds": 25309
+      "timeDisplay": "6:08:17",
+      "minutesLeft": 368,
+      "secondsLeft": 17,
+      "totalSeconds": 22097
     },
     {
       "playerId": "1436",
       "name": "",
       "currentBid": 1,
       "bidder": "Enkidu",
-      "timeDisplay": "7:17:38",
-      "minutesLeft": 437,
-      "secondsLeft": 38,
-      "totalSeconds": 26258
+      "timeDisplay": "6:24:06",
+      "minutesLeft": 384,
+      "secondsLeft": 6,
+      "totalSeconds": 23046
+    },
+    {
+      "playerId": "221",
+      "name": "",
+      "currentBid": 1,
+      "bidder": "Mcgrumpyd",
+      "timeDisplay": "7:27:26",
+      "minutesLeft": 447,
+      "secondsLeft": 26,
+      "totalSeconds": 26846
     }
   ],
   "teams": [
     {
       "name": "Tennessee Jeds",
       "moneyLeft": 9,
-      "spent": 247,
-      "won": 17
+      "spent": 250,
+      "won": 18
     },
     {
       "name": "Ultimate Price",
       "moneyLeft": 9,
-      "spent": 246,
-      "won": 22
+      "spent": 251,
+      "won": 0
     },
     {
       "name": "Schlittlers full",
@@ -262,8 +232,8 @@
     {
       "name": "Stilettos",
       "moneyLeft": 29,
-      "spent": 201,
-      "won": 16
+      "spent": 203,
+      "won": 17
     },
     {
       "name": "UAAT",
@@ -273,9 +243,9 @@
     },
     {
       "name": "Mcgrumpyd",
-      "moneyLeft": 1,
-      "spent": 256,
-      "won": 20
+      "moneyLeft": 0,
+      "spent": 257,
+      "won": 21
     },
     {
       "name": "Trot Nixon",
@@ -386,19 +356,14 @@
       "price": 15
     },
     {
-      "player": "Brandon Pfaadt",
-      "team": "Tennessee Jeds",
-      "price": 10
-    },
-    {
       "player": "Zach Eflin",
       "team": "Tennessee Jeds",
       "price": 10
     },
     {
-      "player": "Jung-hoo Lee",
+      "player": "Brandon Pfaadt",
       "team": "Tennessee Jeds",
-      "price": 8
+      "price": 10
     },
     {
       "player": "Byron Buxton",
@@ -406,12 +371,17 @@
       "price": 8
     },
     {
-      "player": "Brandon Lowe",
+      "player": "Jung-hoo Lee",
+      "team": "Tennessee Jeds",
+      "price": 8
+    },
+    {
+      "player": "Kenley Jansen",
       "team": "Tennessee Jeds",
       "price": 7
     },
     {
-      "player": "Kenley Jansen",
+      "player": "Brandon Lowe",
       "team": "Tennessee Jeds",
       "price": 7
     },
@@ -421,12 +391,17 @@
       "price": 4
     },
     {
-      "player": "Sean Burke",
+      "player": "Justin Verlander",
+      "team": "Tennessee Jeds",
+      "price": 3
+    },
+    {
+      "player": "Matthew Liberatore",
       "team": "Tennessee Jeds",
       "price": 2
     },
     {
-      "player": "Matthew Liberatore",
+      "player": "Sean Burke",
       "team": "Tennessee Jeds",
       "price": 2
     },
@@ -471,17 +446,22 @@
       "price": 11
     },
     {
-      "player": "Tanner Bibee",
-      "team": "Ultimate Price",
-      "price": 10
-    },
-    {
       "player": "Brayan Bello",
       "team": "Ultimate Price",
       "price": 10
     },
     {
+      "player": "Tanner Bibee",
+      "team": "Ultimate Price",
+      "price": 10
+    },
+    {
       "player": "Michael Busch",
+      "team": "Ultimate Price",
+      "price": 5
+    },
+    {
+      "player": "Jordan Walker",
       "team": "Ultimate Price",
       "price": 5
     },
@@ -501,7 +481,7 @@
       "price": 2
     },
     {
-      "player": "Kyle Leahy",
+      "player": "Gage Jump",
       "team": "Ultimate Price",
       "price": 2
     },
@@ -511,12 +491,12 @@
       "price": 2
     },
     {
-      "player": "Hunter Goodman",
+      "player": "Will Vest",
       "team": "Ultimate Price",
       "price": 2
     },
     {
-      "player": "Will Vest",
+      "player": "Kyle Leahy",
       "team": "Ultimate Price",
       "price": 2
     },
@@ -526,7 +506,7 @@
       "price": 2
     },
     {
-      "player": "Gage Jump",
+      "player": "Hunter Goodman",
       "team": "Ultimate Price",
       "price": 2
     },
@@ -596,12 +576,12 @@
       "price": 5
     },
     {
-      "player": "Victor Scott",
+      "player": "Ben Rice",
       "team": "Schlittlers full",
       "price": 2
     },
     {
-      "player": "Mick Abel",
+      "player": "Victor Scott",
       "team": "Schlittlers full",
       "price": 2
     },
@@ -611,17 +591,17 @@
       "price": 2
     },
     {
-      "player": "Owen Caissie",
-      "team": "Schlittlers full",
-      "price": 2
-    },
-    {
       "player": "Cam Schlittler",
       "team": "Schlittlers full",
       "price": 2
     },
     {
-      "player": "Ben Rice",
+      "player": "Owen Caissie",
+      "team": "Schlittlers full",
+      "price": 2
+    },
+    {
+      "player": "Mick Abel",
       "team": "Schlittlers full",
       "price": 2
     },
@@ -631,17 +611,17 @@
       "price": 2
     },
     {
-      "player": "Michael McGreevy",
-      "team": "Schlittlers full",
-      "price": 1
-    },
-    {
       "player": "Eduard Bazardo",
       "team": "Schlittlers full",
       "price": 1
     },
     {
       "player": "Colson Montgomery",
+      "team": "Schlittlers full",
+      "price": 1
+    },
+    {
+      "player": "Michael McGreevy",
       "team": "Schlittlers full",
       "price": 1
     },
@@ -686,22 +666,22 @@
       "price": 13
     },
     {
-      "player": "Roman Anthony",
-      "team": "The Other Guys",
-      "price": 10
-    },
-    {
       "player": "Riley O'Brien",
       "team": "The Other Guys",
       "price": 10
     },
     {
-      "player": "Kristian Campbell",
+      "player": "Roman Anthony",
+      "team": "The Other Guys",
+      "price": 10
+    },
+    {
+      "player": "Spencer Schwellenbach",
       "team": "The Other Guys",
       "price": 5
     },
     {
-      "player": "Mark Vientos",
+      "player": "Kristian Campbell",
       "team": "The Other Guys",
       "price": 5
     },
@@ -711,7 +691,7 @@
       "price": 5
     },
     {
-      "player": "Spencer Schwellenbach",
+      "player": "Mark Vientos",
       "team": "The Other Guys",
       "price": 5
     },
@@ -746,17 +726,17 @@
       "price": 2
     },
     {
-      "player": "Victor Vodnik",
-      "team": "The Other Guys",
-      "price": 1
-    },
-    {
       "player": "Justin Crawford",
       "team": "The Other Guys",
       "price": 1
     },
     {
       "player": "Trey Yesavage",
+      "team": "The Other Guys",
+      "price": 1
+    },
+    {
+      "player": "Victor Vodnik",
       "team": "The Other Guys",
       "price": 1
     },
@@ -796,22 +776,22 @@
       "price": 15
     },
     {
-      "player": "Devin Williams",
-      "team": "Stilettos",
-      "price": 14
-    },
-    {
       "player": "Pete Fairbanks",
       "team": "Stilettos",
       "price": 14
     },
     {
-      "player": "Cal Raleigh",
+      "player": "Devin Williams",
+      "team": "Stilettos",
+      "price": 14
+    },
+    {
+      "player": "Elly De La Cruz",
       "team": "Stilettos",
       "price": 10
     },
     {
-      "player": "Elly De La Cruz",
+      "player": "Cal Raleigh",
       "team": "Stilettos",
       "price": 10
     },
@@ -827,6 +807,11 @@
     },
     {
       "player": "Pete Crow-Armstrong",
+      "team": "Stilettos",
+      "price": 2
+    },
+    {
+      "player": "Jake Burger",
       "team": "Stilettos",
       "price": 2
     },
@@ -861,12 +846,12 @@
       "price": 16
     },
     {
-      "player": "Vinnie Pasquantino",
+      "player": "Joe Ryan",
       "team": "UAAT",
       "price": 15
     },
     {
-      "player": "Joe Ryan",
+      "player": "Vinnie Pasquantino",
       "team": "UAAT",
       "price": 15
     },
@@ -896,22 +881,12 @@
       "price": 6
     },
     {
-      "player": "Jordan Westburg",
-      "team": "UAAT",
-      "price": 5
-    },
-    {
       "player": "Noelvi Marte",
       "team": "UAAT",
       "price": 5
     },
     {
-      "player": "Ryan Pepiot",
-      "team": "UAAT",
-      "price": 5
-    },
-    {
-      "player": "Bryce Miller",
+      "player": "Jordan Westburg",
       "team": "UAAT",
       "price": 5
     },
@@ -921,12 +896,17 @@
       "price": 5
     },
     {
-      "player": "Kyle Stowers",
+      "player": "Bryce Miller",
       "team": "UAAT",
-      "price": 2
+      "price": 5
     },
     {
-      "player": "Kyle Bradish",
+      "player": "Ryan Pepiot",
+      "team": "UAAT",
+      "price": 5
+    },
+    {
+      "player": "Kyle Stowers",
       "team": "UAAT",
       "price": 2
     },
@@ -937,6 +917,11 @@
     },
     {
       "player": "Joey Cantillo",
+      "team": "UAAT",
+      "price": 2
+    },
+    {
+      "player": "Kyle Bradish",
       "team": "UAAT",
       "price": 2
     },
@@ -976,7 +961,7 @@
       "price": 6
     },
     {
-      "player": "Alec Bohm",
+      "player": "Zack Littell",
       "team": "Mcgrumpyd",
       "price": 5
     },
@@ -986,12 +971,7 @@
       "price": 5
     },
     {
-      "player": "Matthew Boyd",
-      "team": "Mcgrumpyd",
-      "price": 5
-    },
-    {
-      "player": "Zack Littell",
+      "player": "Alec Bohm",
       "team": "Mcgrumpyd",
       "price": 5
     },
@@ -1001,12 +981,17 @@
       "price": 5
     },
     {
-      "player": "Aroldis Chapman",
+      "player": "Matthew Boyd",
+      "team": "Mcgrumpyd",
+      "price": 5
+    },
+    {
+      "player": "Simeon Woods Richardson",
       "team": "Mcgrumpyd",
       "price": 3
     },
     {
-      "player": "Simeon Woods Richardson",
+      "player": "Aroldis Chapman",
       "team": "Mcgrumpyd",
       "price": 3
     },
@@ -1016,12 +1001,12 @@
       "price": 2
     },
     {
-      "player": "Andrew Vaughn",
+      "player": "Colin Rea",
       "team": "Mcgrumpyd",
       "price": 2
     },
     {
-      "player": "Colin Rea",
+      "player": "Ivan Herrera",
       "team": "Mcgrumpyd",
       "price": 2
     },
@@ -1031,9 +1016,14 @@
       "price": 2
     },
     {
-      "player": "Ivan Herrera",
+      "player": "Andrew Vaughn",
       "team": "Mcgrumpyd",
       "price": 2
+    },
+    {
+      "player": "Mike Yastrzemski",
+      "team": "Mcgrumpyd",
+      "price": 1
     },
     {
       "player": "Quinn Priester",
@@ -1076,12 +1066,12 @@
       "price": 14
     },
     {
-      "player": "Adolis Garcia",
+      "player": "Grant Holmes",
       "team": "Trot Nixon",
       "price": 12
     },
     {
-      "player": "Grant Holmes",
+      "player": "Adolis Garcia",
       "team": "Trot Nixon",
       "price": 12
     },
@@ -1101,12 +1091,12 @@
       "price": 6
     },
     {
-      "player": "Austin Wells",
+      "player": "Ramon Laureano",
       "team": "Trot Nixon",
       "price": 5
     },
     {
-      "player": "Ramon Laureano",
+      "player": "Austin Wells",
       "team": "Trot Nixon",
       "price": 5
     },
@@ -1121,22 +1111,7 @@
       "price": 3
     },
     {
-      "player": "Emilio Pagan",
-      "team": "Trot Nixon",
-      "price": 2
-    },
-    {
-      "player": "Connelly Early",
-      "team": "Trot Nixon",
-      "price": 2
-    },
-    {
       "player": "Jacob Wilson",
-      "team": "Trot Nixon",
-      "price": 2
-    },
-    {
-      "player": "Daniel Palencia",
       "team": "Trot Nixon",
       "price": 2
     },
@@ -1146,7 +1121,22 @@
       "price": 2
     },
     {
+      "player": "Connelly Early",
+      "team": "Trot Nixon",
+      "price": 2
+    },
+    {
       "player": "Heliot Ramos",
+      "team": "Trot Nixon",
+      "price": 2
+    },
+    {
+      "player": "Emilio Pagan",
+      "team": "Trot Nixon",
+      "price": 2
+    },
+    {
+      "player": "Daniel Palencia",
       "team": "Trot Nixon",
       "price": 2
     },
@@ -1191,12 +1181,7 @@
       "price": 11
     },
     {
-      "player": "Hunter Brown",
-      "team": "RollingQuintanas",
-      "price": 10
-    },
-    {
-      "player": "Bryson Stott",
+      "player": "Cole Ragans",
       "team": "RollingQuintanas",
       "price": 10
     },
@@ -1206,7 +1191,12 @@
       "price": 10
     },
     {
-      "player": "Cole Ragans",
+      "player": "Hunter Brown",
+      "team": "RollingQuintanas",
+      "price": 10
+    },
+    {
+      "player": "Bryson Stott",
       "team": "RollingQuintanas",
       "price": 10
     },
@@ -1226,12 +1216,12 @@
       "price": 2
     },
     {
-      "player": "Bubba Chandler",
+      "player": "Drake Baldwin",
       "team": "RollingQuintanas",
       "price": 1
     },
     {
-      "player": "Drake Baldwin",
+      "player": "Bubba Chandler",
       "team": "RollingQuintanas",
       "price": 1
     },
@@ -1276,12 +1266,12 @@
       "price": 11
     },
     {
-      "player": "Cristopher Sanchez",
+      "player": "Yandy Diaz",
       "team": "Logjammers",
       "price": 10
     },
     {
-      "player": "Yandy Diaz",
+      "player": "Cristopher Sanchez",
       "team": "Logjammers",
       "price": 10
     },
@@ -1311,17 +1301,17 @@
       "price": 6
     },
     {
+      "player": "Jose Soriano",
+      "team": "Logjammers",
+      "price": 5
+    },
+    {
       "player": "Nolan Arenado",
       "team": "Logjammers",
       "price": 5
     },
     {
       "player": "Garrett Crochet",
-      "team": "Logjammers",
-      "price": 5
-    },
-    {
-      "player": "Jose Soriano",
       "team": "Logjammers",
       "price": 5
     },
@@ -1336,12 +1326,12 @@
       "price": 4
     },
     {
-      "player": "Trevor Story",
+      "player": "Mike Burrows",
       "team": "Logjammers",
       "price": 2
     },
     {
-      "player": "Mike Burrows",
+      "player": "Trevor Story",
       "team": "Logjammers",
       "price": 2
     },
@@ -1411,16 +1401,6 @@
       "price": 3
     },
     {
-      "player": "Daylen Lile",
-      "team": "Silver Panthers",
-      "price": 2
-    },
-    {
-      "player": "TJ Friedl",
-      "team": "Silver Panthers",
-      "price": 2
-    },
-    {
       "player": "Junior Caminero",
       "team": "Silver Panthers",
       "price": 2
@@ -1432,6 +1412,16 @@
     },
     {
       "player": "Emmet Sheehan",
+      "team": "Silver Panthers",
+      "price": 2
+    },
+    {
+      "player": "Daylen Lile",
+      "team": "Silver Panthers",
+      "price": 2
+    },
+    {
+      "player": "TJ Friedl",
       "team": "Silver Panthers",
       "price": 2
     },
@@ -1496,12 +1486,12 @@
       "price": 5
     },
     {
-      "player": "Alejandro Kirk",
+      "player": "Ryan Walker",
       "team": "Enkidu",
       "price": 3
     },
     {
-      "player": "Joe Musgrove",
+      "player": "Alejandro Kirk",
       "team": "Enkidu",
       "price": 3
     },
@@ -1511,12 +1501,12 @@
       "price": 3
     },
     {
-      "player": "Ryan Walker",
+      "player": "Joe Musgrove",
       "team": "Enkidu",
       "price": 3
     },
     {
-      "player": "Trevor Rogers",
+      "player": "Jac Caglianone",
       "team": "Enkidu",
       "price": 2
     },
@@ -1526,7 +1516,7 @@
       "price": 2
     },
     {
-      "player": "Jac Caglianone",
+      "player": "Jakob Marsee",
       "team": "Enkidu",
       "price": 2
     },
@@ -1536,7 +1526,7 @@
       "price": 2
     },
     {
-      "player": "Jakob Marsee",
+      "player": "Trevor Rogers",
       "team": "Enkidu",
       "price": 2
     },
@@ -1596,17 +1586,17 @@
       "price": 5
     },
     {
-      "player": "Griffin Jax",
-      "team": "Chaos In Tejas (GFL)",
-      "price": 3
-    },
-    {
       "player": "Geraldo Perdomo",
       "team": "Chaos In Tejas (GFL)",
       "price": 3
     },
     {
-      "player": "Jonathan Aranda",
+      "player": "Griffin Jax",
+      "team": "Chaos In Tejas (GFL)",
+      "price": 3
+    },
+    {
+      "player": "AJ Blubaugh",
       "team": "Chaos In Tejas (GFL)",
       "price": 2
     },
@@ -1621,12 +1611,12 @@
       "price": 2
     },
     {
-      "player": "Joey Ortiz",
+      "player": "Wenceel Perez",
       "team": "Chaos In Tejas (GFL)",
       "price": 2
     },
     {
-      "player": "Andy Pages",
+      "player": "Joey Ortiz",
       "team": "Chaos In Tejas (GFL)",
       "price": 2
     },
@@ -1636,22 +1626,22 @@
       "price": 2
     },
     {
-      "player": "AJ Blubaugh",
+      "player": "Jonathan Aranda",
       "team": "Chaos In Tejas (GFL)",
       "price": 2
     },
     {
-      "player": "Wenceel Perez",
+      "player": "Andy Pages",
       "team": "Chaos In Tejas (GFL)",
       "price": 2
     },
     {
-      "player": "Chase Dollander",
+      "player": "Ronny Mauricio",
       "team": "Chaos In Tejas (GFL)",
       "price": 1
     },
     {
-      "player": "Ronny Mauricio",
+      "player": "Chase Dollander",
       "team": "Chaos In Tejas (GFL)",
       "price": 1
     },
@@ -1726,22 +1716,22 @@
       "price": 2
     },
     {
-      "player": "Bryan Abreu",
-      "team": "PTP",
-      "price": 2
-    },
-    {
       "player": "Josh Smith",
       "team": "PTP",
       "price": 2
     },
     {
-      "player": "Lourdes Gurriel Jr",
+      "player": "Bryan Abreu",
+      "team": "PTP",
+      "price": 2
+    },
+    {
+      "player": "Brady House",
       "team": "PTP",
       "price": 1
     },
     {
-      "player": "Brady House",
+      "player": "Lourdes Gurriel Jr",
       "team": "PTP",
       "price": 1
     },
@@ -1811,12 +1801,12 @@
       "price": 10
     },
     {
-      "player": "Calvin Faucher",
+      "player": "Logan Henderson",
       "team": "Gankin Zone",
       "price": 5
     },
     {
-      "player": "Logan Henderson",
+      "player": "Calvin Faucher",
       "team": "Gankin Zone",
       "price": 5
     },
@@ -1824,16 +1814,6 @@
       "player": "Eugenio Suarez",
       "team": "Gankin Zone",
       "price": 3
-    },
-    {
-      "player": "Braxton Ashcraft",
-      "team": "Gankin Zone",
-      "price": 2
-    },
-    {
-      "player": "Daulton Varsho",
-      "team": "Gankin Zone",
-      "price": 2
     },
     {
       "player": "Giancarlo Stanton",
@@ -1847,6 +1827,16 @@
     },
     {
       "player": "Shane Smith",
+      "team": "Gankin Zone",
+      "price": 2
+    },
+    {
+      "player": "Daulton Varsho",
+      "team": "Gankin Zone",
+      "price": 2
+    },
+    {
+      "player": "Braxton Ashcraft",
       "team": "Gankin Zone",
       "price": 2
     },
@@ -1871,12 +1861,12 @@
       "price": 17
     },
     {
-      "player": "Hunter Greene",
+      "player": "Ryan Helsley",
       "team": "Mortytown",
       "price": 15
     },
     {
-      "player": "Ryan Helsley",
+      "player": "Hunter Greene",
       "team": "Mortytown",
       "price": 15
     },
@@ -1906,24 +1896,14 @@
       "price": 6
     },
     {
-      "player": "Masyn Winn",
-      "team": "Mortytown",
-      "price": 5
-    },
-    {
       "player": "Shea Langeliers",
       "team": "Mortytown",
       "price": 5
     },
     {
-      "player": "Caleb Durbin",
+      "player": "Masyn Winn",
       "team": "Mortytown",
-      "price": 2
-    },
-    {
-      "player": "Cristian Javier",
-      "team": "Mortytown",
-      "price": 2
+      "price": 5
     },
     {
       "player": "Hyeseong Kim",
@@ -1936,12 +1916,22 @@
       "price": 2
     },
     {
-      "player": "Jackson Holliday",
+      "player": "Chase Burns",
       "team": "Mortytown",
       "price": 2
     },
     {
-      "player": "Chase Burns",
+      "player": "Cristian Javier",
+      "team": "Mortytown",
+      "price": 2
+    },
+    {
+      "player": "Caleb Durbin",
+      "team": "Mortytown",
+      "price": 2
+    },
+    {
+      "player": "Jackson Holliday",
       "team": "Mortytown",
       "price": 2
     },
@@ -1956,12 +1946,12 @@
       "price": 39
     },
     {
-      "player": "Trevor Megill",
+      "player": "Zac Gallen",
       "team": "Aces high",
       "price": 31
     },
     {
-      "player": "Zac Gallen",
+      "player": "Trevor Megill",
       "team": "Aces high",
       "price": 31
     },
@@ -2076,12 +2066,12 @@
       "price": 6
     },
     {
-      "player": "Nolan Schanuel",
+      "player": "David Peterson",
       "team": "Moneyball Mart",
       "price": 5
     },
     {
-      "player": "David Peterson",
+      "player": "Nolan Schanuel",
       "team": "Moneyball Mart",
       "price": 5
     },
@@ -2091,12 +2081,22 @@
       "price": 3
     },
     {
-      "player": "Chandler Simpson",
+      "player": "Luis Pena",
+      "team": "Moneyball Mart",
+      "price": 2
+    },
+    {
+      "player": "Jackson Jobe",
       "team": "Moneyball Mart",
       "price": 2
     },
     {
       "player": "Jorge Polanco",
+      "team": "Moneyball Mart",
+      "price": 2
+    },
+    {
+      "player": "Jack Leiter",
       "team": "Moneyball Mart",
       "price": 2
     },
@@ -2111,17 +2111,7 @@
       "price": 2
     },
     {
-      "player": "Jack Leiter",
-      "team": "Moneyball Mart",
-      "price": 2
-    },
-    {
-      "player": "Jackson Jobe",
-      "team": "Moneyball Mart",
-      "price": 2
-    },
-    {
-      "player": "Luis Pena",
+      "player": "Chandler Simpson",
       "team": "Moneyball Mart",
       "price": 2
     }
