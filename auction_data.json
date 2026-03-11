@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-11T21:02:47.727099+00:00",
+  "fetchedAt": "2026-03-11T22:00:25.615149+00:00",
   "draftStatus": "drafting",
   "completedTotal": 543,
   "active": [
@@ -8,120 +8,120 @@
       "name": "",
       "currentBid": 2,
       "bidder": "Aces high",
-      "timeDisplay": "58:34",
-      "minutesLeft": 58,
-      "secondsLeft": 34,
-      "totalSeconds": 3514
+      "timeDisplay": "00:57",
+      "minutesLeft": 0,
+      "secondsLeft": 57,
+      "totalSeconds": 57
     },
     {
       "playerId": "186",
       "name": "",
       "currentBid": 1,
       "bidder": "Tennessee Jeds",
-      "timeDisplay": "1:47:47",
-      "minutesLeft": 107,
-      "secondsLeft": 47,
-      "totalSeconds": 6467
+      "timeDisplay": "50:10",
+      "minutesLeft": 50,
+      "secondsLeft": 10,
+      "totalSeconds": 3010
     },
     {
       "playerId": "2171",
       "name": "",
       "currentBid": 1,
       "bidder": "PTP",
-      "timeDisplay": "1:55:56",
-      "minutesLeft": 115,
-      "secondsLeft": 56,
-      "totalSeconds": 6956
+      "timeDisplay": "58:19",
+      "minutesLeft": 58,
+      "secondsLeft": 19,
+      "totalSeconds": 3499
     },
     {
       "playerId": "274",
       "name": "",
       "currentBid": 1,
       "bidder": "Mcgrumpyd",
-      "timeDisplay": "2:09:54",
-      "minutesLeft": 129,
-      "secondsLeft": 54,
-      "totalSeconds": 7794
+      "timeDisplay": "1:12:17",
+      "minutesLeft": 72,
+      "secondsLeft": 17,
+      "totalSeconds": 4337
     },
     {
       "playerId": "803",
       "name": "",
       "currentBid": 1,
       "bidder": "RollingQuintanas",
-      "timeDisplay": "2:59:27",
-      "minutesLeft": 179,
-      "secondsLeft": 27,
-      "totalSeconds": 10767
+      "timeDisplay": "2:01:50",
+      "minutesLeft": 121,
+      "secondsLeft": 50,
+      "totalSeconds": 7310
     },
     {
       "playerId": "187",
       "name": "",
       "currentBid": 1,
       "bidder": "Stilettos",
-      "timeDisplay": "3:28:00",
-      "minutesLeft": 208,
-      "secondsLeft": 0,
-      "totalSeconds": 12480
+      "timeDisplay": "2:30:23",
+      "minutesLeft": 150,
+      "secondsLeft": 23,
+      "totalSeconds": 9023
     },
     {
       "playerId": "894",
       "name": "",
       "currentBid": 12,
       "bidder": "RollingQuintanas",
-      "timeDisplay": "3:41:03",
-      "minutesLeft": 221,
-      "secondsLeft": 3,
-      "totalSeconds": 13263
+      "timeDisplay": "2:43:26",
+      "minutesLeft": 163,
+      "secondsLeft": 26,
+      "totalSeconds": 9806
     },
     {
       "playerId": "762",
       "name": "",
       "currentBid": 1,
       "bidder": "Aces high",
-      "timeDisplay": "4:56:52",
-      "minutesLeft": 296,
-      "secondsLeft": 52,
-      "totalSeconds": 17812
+      "timeDisplay": "3:59:15",
+      "minutesLeft": 239,
+      "secondsLeft": 15,
+      "totalSeconds": 14355
     },
     {
       "playerId": "136",
       "name": "",
       "currentBid": 1,
       "bidder": "Aces high",
-      "timeDisplay": "4:57:51",
-      "minutesLeft": 297,
-      "secondsLeft": 51,
-      "totalSeconds": 17871
+      "timeDisplay": "4:00:14",
+      "minutesLeft": 240,
+      "secondsLeft": 14,
+      "totalSeconds": 14414
     },
     {
       "playerId": "743",
       "name": "",
       "currentBid": 1,
       "bidder": "PTP",
-      "timeDisplay": "5:14:03",
-      "minutesLeft": 314,
-      "secondsLeft": 3,
-      "totalSeconds": 18843
+      "timeDisplay": "4:16:26",
+      "minutesLeft": 256,
+      "secondsLeft": 26,
+      "totalSeconds": 15386
     },
     {
       "playerId": "1108",
       "name": "",
       "currentBid": 1,
       "bidder": "Silver Panthers",
-      "timeDisplay": "5:18:55",
-      "minutesLeft": 318,
-      "secondsLeft": 55,
-      "totalSeconds": 19135
+      "timeDisplay": "4:21:18",
+      "minutesLeft": 261,
+      "secondsLeft": 18,
+      "totalSeconds": 15678
     },
     {
       "playerId": "1263",
       "name": "",
       "currentBid": 1,
       "bidder": "Tennessee Jeds",
-      "timeDisplay": "5:22:02",
-      "minutesLeft": 322,
-      "secondsLeft": 2,
-      "totalSeconds": 19322
+      "timeDisplay": "4:24:25",
+      "minutesLeft": 264,
+      "secondsLeft": 25,
+      "totalSeconds": 15865
     }
   ],
   "teams": [
