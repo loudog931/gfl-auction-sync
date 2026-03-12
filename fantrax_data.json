@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-11T23:53:34.771069+00:00",
+  "fetchedAt": "2026-03-12T05:07:46.515944+00:00",
   "leagueId": "nkgdrcl4mi3kzyk6",
   "leagueName": "The Grapefruit League",
   "draftStatus": "pending",
@@ -1678,127 +1678,6 @@
       ]
     },
     {
-      "teamId": "n47fd45zmi3kzyk8",
-      "teamName": "Stilettos",
-      "players": [
-        {
-          "name": "",
-          "pos": "2B",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "C",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "1B",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SS",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "RP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "UT",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SS",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "3B",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SS",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "OF",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "OF",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "RP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "1B",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "OF",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "1B",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "RP",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SS",
-          "mlbTeam": ""
-        }
-      ]
-    },
-    {
       "teamId": "xgezbn5dmi3kzyk8",
       "teamName": "Tennessee Jeds",
       "players": [
@@ -2725,6 +2604,127 @@
         {
           "name": "",
           "pos": "1B",
+          "mlbTeam": ""
+        }
+      ]
+    },
+    {
+      "teamId": "n47fd45zmi3kzyk8",
+      "teamName": "You Maggots",
+      "players": [
+        {
+          "name": "",
+          "pos": "2B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "C",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "1B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SS",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "RP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "UT",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SS",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "3B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SS",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "RP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "1B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "1B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "RP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SS",
           "mlbTeam": ""
         }
       ]
