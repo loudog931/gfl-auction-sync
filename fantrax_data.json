@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-15T17:58:25.071885+00:00",
+  "fetchedAt": "2026-03-15T19:41:43.109454+00:00",
   "leagueId": "nkgdrcl4mi3kzyk6",
   "leagueName": "The Grapefruit League",
   "draftStatus": "pending",
@@ -616,6 +616,11 @@
         {
           "name": "",
           "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "C",
           "mlbTeam": ""
         },
         {
@@ -1792,6 +1797,11 @@
         },
         {
           "name": "",
+          "pos": "3B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "OF",
           "mlbTeam": ""
         },
@@ -2335,6 +2345,11 @@
         },
         {
           "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SP",
           "mlbTeam": ""
         },
@@ -2537,6 +2552,11 @@
         {
           "name": "",
           "pos": "C",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SS",
           "mlbTeam": ""
         },
         {
@@ -3343,29 +3363,33 @@
         "round": 2,
         "pick": 33,
         "teamId": "qemn7diqmi3kzyk8",
-        "time": 1773367180000,
-        "pickInRound": 15
+        "time": 1773599746247,
+        "pickInRound": 15,
+        "playerId": "06481"
       },
       {
         "round": 2,
         "pick": 34,
         "teamId": "bcrs53z9mi3kzyk8",
-        "time": 1773367180000,
-        "pickInRound": 16
+        "time": 1773601867199,
+        "pickInRound": 16,
+        "playerId": "06c10"
       },
       {
         "round": 2,
         "pick": 35,
         "teamId": "ioj96scymi3kzyk8",
-        "time": 1773367180000,
-        "pickInRound": 17
+        "time": 1773602861887,
+        "pickInRound": 17,
+        "playerId": "06alq"
       },
       {
         "round": 2,
         "pick": 36,
         "teamId": "y66e3quumi3kzyk9",
-        "time": 1773367180000,
-        "pickInRound": 18
+        "time": 1773603646922,
+        "pickInRound": 18,
+        "playerId": "06dn7"
       },
       {
         "round": 3,
