@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-16T22:01:21.423771+00:00",
+  "fetchedAt": "2026-03-16T23:02:16.183246+00:00",
   "leagueId": "nkgdrcl4mi3kzyk6",
   "leagueName": "The Grapefruit League",
   "draftStatus": "pending",
@@ -400,6 +400,11 @@
         {
           "name": "",
           "pos": "2B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
           "mlbTeam": ""
         },
         {
@@ -3849,7 +3854,7 @@
         "round": 4,
         "pick": 72,
         "teamId": "y66e3quumi3kzyk9",
-        "time": 1773698061907,
+        "time": 1773698061000,
         "pickInRound": 18,
         "playerId": "05j8u"
       },
@@ -3857,8 +3862,9 @@
         "round": 5,
         "pick": 73,
         "teamId": "tb7ti906mi3kzyk9",
-        "time": 1773367180000,
-        "pickInRound": 1
+        "time": 1773698535000,
+        "pickInRound": 1,
+        "playerId": "06rgh"
       },
       {
         "round": 5,
