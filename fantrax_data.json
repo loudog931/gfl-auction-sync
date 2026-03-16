@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-15T23:57:31.571279+00:00",
+  "fetchedAt": "2026-03-16T06:05:59.229566+00:00",
   "leagueId": "nkgdrcl4mi3kzyk6",
   "leagueName": "The Grapefruit League",
   "draftStatus": "pending",
@@ -273,6 +273,11 @@
         },
         {
           "name": "",
+          "pos": "SS",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SP",
           "mlbTeam": ""
         },
@@ -284,11 +289,6 @@
         {
           "name": "",
           "pos": "SS",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "3B",
           "mlbTeam": ""
         },
         {
@@ -616,6 +616,11 @@
         {
           "name": "",
           "pos": "3B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
           "mlbTeam": ""
         },
         {
@@ -2033,6 +2038,11 @@
         },
         {
           "name": "",
+          "pos": "OF",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "SP",
           "mlbTeam": ""
         },
@@ -2586,6 +2596,11 @@
         },
         {
           "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "1B",
           "mlbTeam": ""
         },
@@ -2623,6 +2638,11 @@
         {
           "name": "",
           "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "RP",
           "mlbTeam": ""
         },
         {
@@ -2819,6 +2839,11 @@
         {
           "name": "",
           "pos": "RP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "OF",
           "mlbTeam": ""
         },
         {
@@ -3035,6 +3060,11 @@
         {
           "name": "",
           "pos": "2B",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
+          "pos": "SP",
           "mlbTeam": ""
         },
         {
@@ -3455,7 +3485,7 @@
         "round": 3,
         "pick": 37,
         "teamId": "tnhgjsk9mi3kzyk8",
-        "time": 1773603810706,
+        "time": 1773603810000,
         "pickInRound": 1,
         "playerId": "06f1c"
       },
@@ -3463,7 +3493,7 @@
         "round": 3,
         "pick": 38,
         "teamId": "iailczl9mi3kzyk8",
-        "time": 1773603821157,
+        "time": 1773603821000,
         "pickInRound": 2,
         "playerId": "05joq"
       },
@@ -3471,7 +3501,7 @@
         "round": 3,
         "pick": 39,
         "teamId": "ot26jxdzmi3kzyk9",
-        "time": 1773603849556,
+        "time": 1773603849000,
         "pickInRound": 3,
         "playerId": "06mff"
       },
@@ -3479,7 +3509,7 @@
         "round": 3,
         "pick": 40,
         "teamId": "5eb36w7lmi3kzyk8",
-        "time": 1773604112409,
+        "time": 1773604112000,
         "pickInRound": 4,
         "playerId": "06k7t"
       },
@@ -3487,7 +3517,7 @@
         "round": 3,
         "pick": 41,
         "teamId": "mk9m13xomi3kzyk8",
-        "time": 1773604240836,
+        "time": 1773604240000,
         "pickInRound": 5,
         "playerId": "06am1"
       },
@@ -3495,7 +3525,7 @@
         "round": 3,
         "pick": 42,
         "teamId": "pqrcuid6mi3kzyk8",
-        "time": 1773605073606,
+        "time": 1773605073000,
         "pickInRound": 6,
         "playerId": "06rgw"
       },
@@ -3503,7 +3533,7 @@
         "round": 3,
         "pick": 43,
         "teamId": "n47fd45zmi3kzyk8",
-        "time": 1773607775991,
+        "time": 1773607775000,
         "pickInRound": 7,
         "playerId": "05xpj"
       },
@@ -3511,7 +3541,7 @@
         "round": 3,
         "pick": 44,
         "teamId": "673zgjgxmi3kzyk8",
-        "time": 1773610917528,
+        "time": 1773610917000,
         "pickInRound": 8,
         "playerId": "06qyu"
       },
@@ -3519,7 +3549,7 @@
         "round": 3,
         "pick": 45,
         "teamId": "673zgjgxmi3kzyk8",
-        "time": 1773610921828,
+        "time": 1773610921000,
         "pickInRound": 9,
         "playerId": "06rw2"
       },
@@ -3527,7 +3557,7 @@
         "round": 3,
         "pick": 46,
         "teamId": "n47fd45zmi3kzyk8",
-        "time": 1773616018279,
+        "time": 1773616018000,
         "pickInRound": 10,
         "playerId": "06m0g"
       },
@@ -3535,7 +3565,7 @@
         "round": 3,
         "pick": 47,
         "teamId": "tb7ti906mi3kzyk9",
-        "time": 1773617913356,
+        "time": 1773617913000,
         "pickInRound": 11,
         "playerId": "06qr6"
       },
@@ -3543,7 +3573,7 @@
         "round": 3,
         "pick": 48,
         "teamId": "xgezbn5dmi3kzyk8",
-        "time": 1773618247724,
+        "time": 1773618247000,
         "pickInRound": 12,
         "playerId": "06423"
       },
@@ -3551,43 +3581,49 @@
         "round": 3,
         "pick": 49,
         "teamId": "pqrcuid6mi3kzyk8",
-        "time": 1773367180000,
-        "pickInRound": 13
+        "time": 1773620897000,
+        "pickInRound": 13,
+        "playerId": "06f14"
       },
       {
         "round": 3,
         "pick": 50,
         "teamId": "6hl5fevrmi3kzyk8",
-        "time": 1773367180000,
-        "pickInRound": 14
+        "time": 1773621024000,
+        "pickInRound": 14,
+        "playerId": "06mmx"
       },
       {
         "round": 3,
         "pick": 51,
         "teamId": "qemn7diqmi3kzyk8",
-        "time": 1773367180000,
-        "pickInRound": 15
+        "time": 1773623287000,
+        "pickInRound": 15,
+        "playerId": "0724c"
       },
       {
         "round": 3,
         "pick": 52,
         "teamId": "bcrs53z9mi3kzyk8",
-        "time": 1773367180000,
-        "pickInRound": 16
+        "time": 1773624158000,
+        "pickInRound": 16,
+        "playerId": "06nub"
       },
       {
         "round": 3,
         "pick": 53,
         "teamId": "ioj96scymi3kzyk8",
-        "time": 1773367180000,
-        "pickInRound": 17
+        "time": 1773626549000,
+        "pickInRound": 17,
+        "playerId": "06r8f"
       },
       {
         "round": 3,
         "pick": 54,
         "teamId": "y66e3quumi3kzyk9",
-        "time": 1773367180000,
-        "pickInRound": 18
+        "time": 1773627105000,
+        "pickInRound": 18,
+        "playerId": "060gd"
       },
       {
         "round": 4,
