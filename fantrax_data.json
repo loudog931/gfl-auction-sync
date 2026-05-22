@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-22T09:47:59.357464+00:00",
+  "fetchedAt": "2026-05-22T12:08:38.995246+00:00",
   "leagueId": "nkgdrcl4mi3kzyk6",
   "leagueName": "The Grapefruit League",
   "draftStatus": "pending",
@@ -1283,6 +1283,11 @@
         },
         {
           "name": "",
+          "pos": "SP",
+          "mlbTeam": ""
+        },
+        {
+          "name": "",
           "pos": "OF",
           "mlbTeam": ""
         },
@@ -1309,11 +1314,6 @@
         {
           "name": "",
           "pos": "UT",
-          "mlbTeam": ""
-        },
-        {
-          "name": "",
-          "pos": "SP",
           "mlbTeam": ""
         },
         {
@@ -1358,12 +1358,12 @@
         },
         {
           "name": "",
-          "pos": "OF",
+          "pos": "SP",
           "mlbTeam": ""
         },
         {
           "name": "",
-          "pos": "SP",
+          "pos": "OF",
           "mlbTeam": ""
         },
         {
